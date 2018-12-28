@@ -14,6 +14,8 @@
 
 (define dialogue-title (default-tag-function 'h3))
 
+(define (roman . rest)
+  `(span ((class "roman")) ,@rest))
 
 (define (interlocutor i)
   (let ([x (string-append i ": ")])
@@ -32,5 +34,7 @@
 
 (define ixion (make-interlocutor "Ixion"))
 (define cloud (make-interlocutor "The Cloud"))
+(define hippolochus (make-interlocutor "Hippolochus"))
+(define sarpedon (make-interlocutor "Sarpedon"))
 (define meleager (make-interlocutor "Meleager"))
 (define hermes (make-interlocutor "Hermes"))

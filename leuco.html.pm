@@ -250,6 +250,202 @@ Peaks?
 It doesn't matter which, Ixion. But don't be afraid.
 I'll be with you till the end.
   }
+◊; page-number 7
+}
+
+◊dialogue[#:id "dialogue-the-chimera"]{
+  ◊dialogue-intro-title{THE CHIMERA}
+  ◊dialogue-intro{
+It was with high hearts that the youth of Greece set out
+for the East in quest of glory and death. Here their
+courage and daring took them through a sea of fabulous
+atrocities, in which some of them failed to keep their
+heads. There is no point in citing names. Besides, there
+were more than seven such Crusades. It is Homer
+himself who—in Book VI of the ◊roman{Iliad}—tells us of the
+melancholy which consumed the killer of the Chimera
+in his old age, and of his young grandson Sarpedon
+who died under the walls of Troy.
+  }
+◊; page-number 8
+
+  ◊dialogue-title{Hippolochus, Sarpedon}
+
+  ◊hippolochus{Ah, there you are, boy.}
+  ◊sarpedon{
+Hippolochus, I found your father. He won't hear of
+coming home. You should see him. He's a terrible sight—
+plodding through the countryside, covered with filth, oblivious
+of the weather. He's an old beggar, Hippolochus.
+  }
+  ◊hippolochus{What do the peasants say about him?}
+  ◊sarpedon{
+The Aleian plain is deserted, a wilderness, Uncle.
+Reeds and swampland, nothing else. I asked about him in
+the valley of the Xanthus, but they hadn't seen him for days.
+  }
+  ◊hippolochus{What about him? What does he say?}
+  ◊sarpedon{
+He has no memory of home or us. Whenever he meets
+somebody, he talks to him about the Solymi, of Glaucus,
+Sisyphus, and the Chimera. When he saw me, he said, "if
+I were your age, boy, I'd go drown myself." He doesn't
+threaten the living. "Boy," he said to me, "you're just,
+you're merciful. We're just and merciful men. If you want
+to stay just and merciful, stop living."
+  }
+  ◊hippolochus{
+Bellerophon bitter? Bellerophon grumbling? I can't
+believe it.
+  }
+  ◊sarpedon{
+You should hear the terrible threats he makes. He
+dares the gods to accept his challenge. Night and day he
+keeps on walking. All his rancor, all his bitterness, is lavished
+on the dead—or rather on the gods.
+  }
+  ◊hippolochus{Glaucus and Sisyphus, you mean?}
+  ◊sarpedon{
+He says they were punished by treachery. Why wait
+until they're old and feeble before ambushing them? "Bellerophon,"
+◊; page-number 9
+he says, "was just and merciful as long as the
+blood coursed in his body. And now that he's old and
+alone, why do the gods decide to abandon him?"
+  }
+  ◊hippolochus{
+It's strange that should surprise him. And that he
+should blame the gods for something which every living
+thing must suffer. But he was always just. What do he and
+those dead men have in common?
+  }
+  ◊sarpedon{
+Listen, Hippolochus. When I saw those desperate
+eyes of his, I too wondered if this was really Bellerophon
+I was talking to. Something has happened to your father.
+Not just old age. Not just misery and loneliness. Your
+father is atoning for the death of the Chimera.
+  }
+  ◊hippolochus{Are you mad, Sarpedon?}
+  ◊sarpedon{
+Your father accuses the gods of injustice because they
+wanted him to kill the Chimera. Over and over again he
+says, "From the day I stained myself with the monster's
+blood, I haven't had a real life. I have looked for men to
+fight, tamed the Amazons, slaughtered the Solymi. I ruled
+over Lycia and I planted a great garden—but all this was
+nothing. Where can I find another Chimera? Where is the
+strength of the arms that killed her? Sisyphus and my
+father Glaucus were just men, young men—then as they
+grew old, the gods abandoned them both, let them become
+wild animals and die. How can the man who met the
+Chimera resign himself to death?" That's how your father
+talks. The man who used to be Bellerophon.
+  }
+  ◊hippolochus{
+From Sisyphus, who chained the infant Thanatos,
+to Glaucus who fed living men to his mares, our breed
+has broken its bounds. But these are men of the past; they
+belonged to an age of monsters. The Chimera was the last
+monster they knew. Our land is just and merciful now.
+  }
+  ◊sarpedon{
+Are you sure, Hippolochus? You think that killing
+the Chimera was enough? Our father—I can call him that
+—should know. And yet he's as gloomy as a god—some
+◊; page-number 10
+white-haired old tramp of a god—and he roams through
+fields and swamps talking to his dead.
+  }
+  ◊hippolochus{What is he looking for?}
+  ◊sarpedon{
+The arm that killed the Chimera. He wants the pride
+of Glaucus and Sisyphus, especially now that he, like them,
+has reached the boundary of things, the limit, the end.
+Their courage torments him. He knows a second Chimera
+will never lie in wait for him among the rocks. And he
+defies the gods.
+  }
+  ◊hippolochus{
+Sarpedon, I'm his son, but these are things I can't
+understand. The earth is just a place now—why can't men
+grow old in piece? In a young man, almost a boy like you,
+Sarpedon, I can understand the tumult of the blood. But
+only in a young man. Only for a just cause. Not revolt
+against the gods.
+  }
+  ◊sarpedon{
+But he knows what it's like to be young, he knows
+what old age is like. He's seen other days. He has looked
+at the gods, as you and I look at each other now. He tells
+of terrible things.
+  }
+  ◊hippolochus{Why listen then?}
+  ◊sarpedon{
+Oh Hippolochus, who could help listening? Bellerophon
+has seen things which don't often happen.
+  }
+  ◊hippolochus{
+I know, Sarpedon, I know. But that world is over.
+When I was a child, he told me the same stories.
+  }
+  ◊sarpedon{
+But there's a difference—he wasn't talking with the
+dead in those days. They were only stories then. But now
+every destiny he meets becomes his own.
+  }
+  ◊hippolochus{What did he tell you?}
+  ◊sarpedon{
+Things you already know. But what you can't know
+is the coldness, the desperation in his eye, like the look of
+a man who is no longer anything but who knows everything.
+Stories of Lydia and Phrygia, old stories, without
+justice, without mercy. You know the story of Silenus?
+How a god challenged him to a contest on Mt. Celaenae,
+◊; page-number 11
+and then killed him by cutting him to pieces, like a butcher
+slicing up a goat? And now a spring—of his own blood,
+they say—wells up from the cave. Or the story of the mother
+who was turned to stone, touched to weeping rock, because
+it pleased a goddess to kill her children with arrows, one
+by one? And the story of Arachne, who shuddered with
+terror at Athena's hatred and became a spider? These are
+things that happened. The gods did them.
+  }
+  ◊hippolochus{
+And the gods were right to do them. What do
+they matter? There's no point in thinking of those things.
+Of those destinies, nothing now remains.
+  }
+  ◊sarpedon{
+The spring remains, the mountain, the terror. The
+dreams remain. Bellerophon can't take a step without stumbling
+on a corpse, an old rancor, a pool of blood, surviving
+from those days when it all happened, and things weren't
+dreams. In those days his right arm had a weight in the
+world, and he killed.
+  }
+  ◊hippolochus{Then he was cruel too.}
+  ◊sarpedon{
+He was just, he was merciful. He killed the Chimera.
+And now that he's old and exhausted, the gods abandon
+him.
+  }
+  ◊hippolochus{And that's why he roams the countryside?}
+  ◊sarpedon{
+He's the son of Glaucus and Sisyphus. He fears the
+caprices, the ferocity of the gods. He feels himself becoming
+a wild animal, and he doesn't want to die. "Boy," he
+says to me, "the mockery and treachery is this: first they
+strip away your strength and then they despise you for being
+less than a man. If you want to live, stop living . . ."
+  }
+  ◊hippolochus{If that's what he thinks, why doesn't he kill himself?}
+  ◊sarpedon{
+Nobody kills himself. Death is destiny. All you can
+do is want it, Hippolochus.
+  }
+◊; page-number 12
 }
 
 ◊dialogue[#:id "dialogue-the-mother"]{
