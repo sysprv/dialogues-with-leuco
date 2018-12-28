@@ -36,5 +36,7 @@
 (define cloud (make-interlocutor "The Cloud"))
 (define hippolochus (make-interlocutor "Hippolochus"))
 (define sarpedon (make-interlocutor "Sarpedon"))
+(define oedipus (make-interlocutor "Oedipus"))
+(define tiresias (make-interlocutor "Tiresias"))
 (define meleager (make-interlocutor "Meleager"))
 (define hermes (make-interlocutor "Hermes"))

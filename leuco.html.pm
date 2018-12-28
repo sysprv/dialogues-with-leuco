@@ -448,6 +448,179 @@ do is want it, Hippolochus.
 ◊; page-number 12
 }
 
+◊dialogue[#:id "dialogue-the-blind"]{
+  ◊dialogue-intro-title{THE BLIND}
+  ◊dialogue-intro{
+Nothing happened in Thebes in which the blind
+prophet Tiresias did not play a part. Shortly after this
+conversation, the misfortunes of Oedipus began—that
+is, his eyes were opened, and he himself dashed them
+out in horror.
+  }
+◊; page-number 14
+
+  ◊dialogue-title{Oedipus, Tiresias}
+
+  ◊oedipus{
+Old Tiresias, must I believe what they say here in
+Thebes? That the gods blinded you out of jealousy?
+  }
+  ◊tiresias{
+If it's true that everything comes from the gods, then
+you must believe it.
+  }
+  ◊oedipus{What do ◊em{you} say?}
+  ◊tiresias{
+That there's too much talk about the gods. Being blind
+is a misfortune no different from being alive. It is my
+experience that disasters strike in their own good time and
+strike where they must.
+  }
+  ◊oedipus{In that case what do the gods do?}
+  ◊tiresias{
+The world is older than the gods. Before time was born,
+the earth was already filling space. It bled, it felt pleasure;
+the earth was the only god. In those days things themselves
+had power. It was ◊em{things} that happened. Whereas now the
+gods turn everything into words, illusions, threats. But the
+gods can only make trouble, join things together or pull
+them apart. Not touch them, not change them. They came
+too late.
+  }
+  ◊oedipus{This is no way for a priest to be talking.}
+  ◊tiresias{
+If I didn't know that much, I wouldn't be a priest.
+Take the case of a boy who goes swimming in the Asopus.
+A morning in summer, say. The boy comes out of the water,
+goes back in happily, dives, dives again. Then he gets
+cramps and drowns. What do the gods have to do with
+this? Should he attribute his death to the gods? Or the
+pleasure he had? Neither one. Something has happened
+◊; page-number 15
+—something which is neither good nor evil, something
+which has no name—the gods will give it a name later.
+  }
+  ◊oedipus{
+And to give things names, to explain them, seems to
+you a small matter, Tiresias?
+  }
+  ◊tiresias{
+You're young, Oedipus, like the gods. And like them
+you explain things by giving them names. You still don't
+know that beneath the earth there is rock, and that the
+bluest sky is the emptiest. For men like me, for the blind,
+all things are a blow. A blow, Oedipus.
+  }
+  ◊oedipus{
+And yet you've spent your life in touch with the gods.
+You have meditated on the seasons, on human miseries and
+pleasures. Men tell many stories about you, as they would
+of a god. And one of them so strange, so improbable, that
+it must have some kind of meaning—the kind of meaning
+that the clouds have perhaps.
+  }
+  ◊tiresias{
+I have lived a long time. I have lived so long that every
+story I hear seems to be my own. What meaning do the
+clouds have?
+  }
+  ◊oedipus{A presence within the emptiness . . .}
+  ◊tiresias{But what is this story which you think has a meaning?}
+  ◊oedipus{Have you always been the man you are now, Tiresias?}
+  ◊tiresias{
+Ah, I understand. The story about the snakes. When I
+was a woman for seven years. Well, what do you make of
+that story?
+  }
+  ◊oedipus{
+It happened to you, and you know it did. But without
+a god such things don't happen.
+  }
+  ◊tiresias{
+You think so? On earth anything can happen. There is
+nothing which hasn't happened before. In those days I had
+feelings of sexual disgust. I felt that my spirit, my sanctity
+as a priest, my character, were degraded by sex. When I
+saw those two snakes taking their pleasure, making love on
+the moss, I couldn't suppress my disgust, I touched them
+with my stick. Shortly afterwards I became a woman—and
+for years my pride was forced to submit. The things of the
+world are rock, Oedipus.
+  }
+◊; page-number 16
+  ◊oedipus{But is the woman's sex really so vile?}
+  ◊tiresias{
+Not at all. Nothing is vile, except to the gods. There are
+irritations, feelings of disgust, and illusions which, when
+they reach the rock, vanish. Here the rock was the force of
+sex, its ubiquity and omnipresence under all forms and
+changes. From man to woman, and vice versa (seven years
+later I saw the two serpents again), what I refused to accept
+with my spirit was done to me by violence or lust, and I,
+proud man or humbled woman, let myself go as a woman
+and was passive as a man. And I learned everything about
+sex: I reached the point where as a man I looked for men,
+and as a woman, looked for women.
+  }
+  ◊oedipus{You see? A god has taught you something.}
+  ◊tiresias{
+Above sex there is no god. It is the rock, I tell you.
+Many gods are beasts, but the snake is the oldest of all the
+gods. When a snake sinks down into the ground—there you
+have the image of sex. Life and death are in it. What god
+can incarnate and include so much?
+  }
+  ◊oedipus{You yourself. You said so.}
+  ◊tiresias{
+Tiresias is old, and he isn't a god. When he was young,
+he was ignorant. Sex is ambiguous and always equivocal. It
+is an end that seems an everything. Man succeeds in incarnating
+it, in living inside it, like a good swimmer in the
+water; but meanwhile he has grown old, he has reached
+the rock. In the one idea, one illusion, remains: that the
+other sex is satisfied. Well, don't believe it. For all of us
+it is wasted effort. I know.
+  }
+  ◊oedipus{
+It isn't easy to refute what you say. It's not for nothing
+that your story begins with the snakes. But it also begins
+with disgust, and sexual fatigue. What would you say to a
+healthy man who swore to you that he had never felt disgust?
+  }
+  ◊tiresias{That he isn't a healthy man. He's still a boy.}
+  ◊oedipus{
+I have had encounters too, Tiresias, on the streets of
+Thebes. And in one of them we talked about man—from
+◊; page-number 17
+infancy until death—and we too reached the rock. As of
+that day I became husband and father, and king of Thebes.
+For me in my life, there is nothing ambiguous or wasted.
+  }
+  ◊tiresias{
+You aren't alone, Oedipus, in thinking that. But words
+don't reach the rock. May the gods protect you! I too speak
+to you, and I am old. Only the blind man knows the darkness.
+It seems to me that I live outside time, that I have
+lived forever, and I no longer believe in the days. In me too
+there is something that feels pleasure and something that
+bleeds.
+  }
+  ◊oedipus{
+You were saying that this something was a god. Why,
+good Tiresias, don't you try praying to it?
+  }
+  ◊tiresias{
+We all pray to some god, but what happens has no
+name. The boy who drowns on a summer morning—what
+does he know of the gods? What does it help him to pray?
+There is a great snake in every day of life, and it sinks down
+and watches us. Have you ever asked yourself, Oedipus, why
+the unhappy go blind as they grow old?
+  }
+  ◊oedipus{May the gods spare me that!}
+◊; page-number 18
+}
+
 ◊dialogue[#:id "dialogue-the-mother"]{
   ◊dialogue-intro-title{THE MOTHER}
   ◊dialogue-intro{
