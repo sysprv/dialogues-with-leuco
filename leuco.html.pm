@@ -621,6 +621,189 @@ the unhappy go blind as they grow old?
 ◊; page-number 18
 }
 
+◊dialogue[#:id "dialogue-the-mares"]{
+  ◊dialogue-intro-title{THE MARES}
+  ◊dialogue-intro{
+Hermes, an ambiguous god, between life and death,
+between sex and spirit, between the Titans and the gods
+of Olympus, is a familiar figure. But how did it come
+about that the good doctor Asclepius sprang from a
+world where god and beast commingled? That does
+require explanation.
+  }
+◊; page-number 20
+
+  ◊dialogue-title{Hermes of the dead, Chiron the centaur}
+
+  ◊hermes{
+The gods ask you to rear this child, Chiron. You know
+already that the beautiful Coronis is dead. With his own
+immortal hands the God snatched the child from her blazing
+womb. I was summoned to that poor human body, but
+it was already afire—the hair was flaring like chaff. The
+shade had left before I came. With a single leap it fled
+from the pyre down to Hades.
+  }
+  ◊chiron{
+They say she became a mare at the moment of death.
+Is it true?
+  }
+  ◊hermes{
+I think so. But her flaring mane and the blazing fire
+were so alike, I couldn't be sure. I arrived an instant too
+late. I had to rescue the child and bring it here.
+  }
+  ◊chiron{
+Little boy, you'd be better off if you had stayed in the
+fire. All you have of your mother is that poor human body.
+Your father is cruel, blinding light, and you must live in a
+world of bloodless, anguished shadow, a world of festering
+flesh, of fever and sighs: all this comes to you from the
+Bright One. The same light that made you will lay bare
+the world before you, implacably; everywhere it will expose
+sadness, wounds, the vileness of things . . . Snakes will
+watch over you.
+  }
+  ◊hermes{
+The world of yesterday has fallen indeed if even snakes
+have gone over to the Light. But why did Coronis die, do
+you know?
+  }
+  ◊chiron{
+Lord of the Ways, we shall not see her again as she
+was, happy, racing from Didymus to Pelion through the
+canebrakes and the rocks. Let that suffice. Words are blood.
+◊; page-number 21
+  }
+  ◊hermes{
+Believe me, Chiron, I mourn for her as much as you.
+Why the God killed her I don't know. In my own country
+of Larissa, they tell of encounters with animals in caves
+and the woods . . .
+  }
+  ◊chiron{
+What do you expect? We are animals. And even you,
+Lord of the Ways, at Larissa you were once bull's sperm.
+And in those early days you mated in the slime with all the
+shapeless things of blood. You, Hermes, should understand.
+  }
+  ◊hermes{
+That was long ago, Chiron. Now I live beneath the
+earth or at the crossroads. Sometimes I see you and your
+brothers bounding down from the hills, like great boulders,
+vaulting over the ponds and the gorges, racing and calling.
+Your hooves, your animal nature I can understand. But
+you're more than that. Look at your arms and your chest,
+like a man's chest. And that great human laugh of yours.
+And the girl who was killed, and her love for the God. And
+her friends who are weeping for her now—you're somehow
+different things. Your own mother, surely, didn't a god
+enjoy her once?
+  }
+  ◊chiron{
+Yes, the world has changed since then. The old god
+turned into a stallion to approach her. On the peak of the
+mountain it was.
+  }
+  ◊hermes{
+Yes, but answer me this. Coronis was a woman. She
+walked through the vineyards and she played with the Bright
+One till he killed her and burnt her body.
+  }
+  ◊chiron{
+Hermes, have you ever looked up from Larissa and seen
+Mount Olympus profiled against the sky after a night of
+wind?
+  }
+  ◊hermes{Yes. And gone up there too, sometimes.}
+  ◊chiron{
+So did we once. We galloped up, we raced from ridge
+to ridge.
+  }
+  ◊hermes{Why don't you go back?}
+  ◊chiron{Coronis went back, Hermes.}
+  ◊hermes{What do you mean by that?}
+◊; page-number 22
+  ◊chiron{
+That mountain is death. That's what I meant. The new
+masters live there. They're not like the masters in the old
+days, Cronos or the Ancient One. They're not like us as
+we used to be, when we bounded among things like the
+things we were. In those days wild beasts and swamp brought
+gods and men together. We were mountain and horse, plant
+and cloud and running water, we were everything then,
+everything on earth. Who could die in those days? What was
+bestial then, if the beast was in us like the god?
+  }
+  ◊hermes{
+You have girls, Chiron, and they are mortal women or
+mares, as they please. Why complain? Here you centaurs
+have the mountain, the plain, the seasons. There is everything
+here you could ask for, even human houses, huts, and
+villages down there by the mouth of the valley, and stables
+and firesides where poor mortals tell tales about you and
+are always glad to welcome you. Don't you think the world
+is governed better by the new masters?
+  }
+  ◊chiron{
+You're one of them and you take their side. But once
+you were bull sperm and bestial rage, Hermes. Now you
+lead the bloodless shades down to the world below. What
+are men but shadows before their time? But I'm happy to
+think that the child's mother leapt down on her own. If
+she found nothing else, she found herself as she died.
+  }
+  ◊hermes{
+Now I know why she died. She climbed the slopes of
+the mountain, she was a woman and she gave the God such
+love that she bore his child. The God has no pity, you say.
+But do you really think Coronis left her animal desires
+behind her in the swamps? Did she leave behind the shapeless
+frenzy of the blood which spawned her?
+  }
+  ◊chiron{Of course she didn't. What then?}
+  ◊hermes{
+The new gods of Olympus are always smiling, but there's
+one thing at which they do not smile. Believe me, I've seen
+destiny. Whenever chaos spills over into the light, into
+◊; page-number 23
+their light, then they must strike down and destroy and
+remake. That is why Coronis died.
+  }
+  ◊chiron{
+But they can't remake Coronis. I was right when I told
+you that Olympus is death.
+  }
+  ◊hermes{
+But the Bright One loved her. If he were not a god he
+would have mourned her. He snatched the child from her
+body—he gives it to you joyfully. He knows that only you
+can make a true man of him.
+  }
+  ◊chiron{
+I have already told you what his fate will be in the
+homes of men. He will be Asclepius, the lord of bodies, a
+man-god. He will live among festering flesh and sighs. Men
+will turn to him to escape their fate, to hold back by one
+night, by a single instant, the pains of death. This little
+child will walk between life and death, like you, Hermes,
+who once were bull sperm and now are only the guide of
+the shades. This is what the Olympians have in store for
+mortal men.
+  }
+  ◊hermes{
+But isn't it better for men to die like this than come
+to that ancient damnation, to mate with beast or tree, to
+become lowing bull or crawling snake, to become eternal
+rock or weeping spring?
+  }
+  ◊chiron{
+Yes. So long as Olympus is heaven. But Olympus too
+shall pass.
+  }
+◊; page-number 24
+}
+
 ◊dialogue[#:id "dialogue-the-mother"]{
   ◊dialogue-intro-title{THE MOTHER}
   ◊dialogue-intro{
