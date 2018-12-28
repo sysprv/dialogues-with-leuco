@@ -804,6 +804,182 @@ shall pass.
 ◊; page-number 24
 }
 
+◊dialogue[#:id "dialogue-the-flower"]{
+  ◊dialogue-intro-title{THE FLOWER}
+  ◊dialogue-intro{
+This act of exquisite infamy, insufficient in itself to turn
+us against a spring god like Apollo the Lucid, must
+have been witnessed by Leopardi's two divinities, Eros
+and Thanatos. This is clear as sunlight.
+  }
+◊; page-number 26
+
+  ◊dialogue-title{Eros, Thanatos}
+
+  ◊eros{Were you expecting this, Thanatos?}
+  ◊thanatos{
+From an Olympian I expect anything. But not that
+it would end like this.
+  }
+  ◊eros{Mortals, luckily, will call it an accident.}
+  ◊thanatos{It isn't the first time and it won't be the last.}
+  ◊eros{
+And in the meantime Hyacinth is dead. His sisters are
+already mourning for him. The useless flower that was
+flecked by his blood now everywhere stars the valleys of the
+Eurotas. It's spring, Thanatos, and this boy won't see it.
+  }
+  ◊thanatos{
+Wherever an immortal has been, these flowers bloom.
+But in the past there was at least some pretext, an attempt
+to escape or an offense of some sort. They struggled against
+The god or were guilty of some wickedness. It was that way
+with Daphne and with Actaeon. But Hyacinth was only a
+boy. He lived his life doing honor to his master. He played
+with the god the way a child plays. He was excited, bewildered.
+You know this, Eros.
+  }
+  ◊eros{
+Mortals are already saying it was an accident. No one stops
+to think that the Bright One rarely misses.
+  }
+  ◊thanatos{
+All I saw was his frowning smile as he followed the
+flight of the discus and watched it come down. He threw it
+high into the sun, and Hyacinth looked up and raised his
+hands and waited for it, dazzled. Why did this happen,
+Eros? You surely must know.
+  }
+  ◊eros{
+What can I say, Thanatos? I can't be moved to pity by a
+god's whim. And you know as well as I do that when a god
+◊; page-number 27
+approaches a mortal, something cruel always happens. It
+was you who spoke of Daphne and Actaeon.
+  }
+  ◊thanatos{But what happened this time?}
+  ◊eros{
+A whim, as I said. The Bright One wanted to play, he
+came down among men and he saw Hyacinth. For six days
+he lived in Amyclae, six days which changed Hyacinth's
+whole life and reshaped the world for him. Finally, the lord
+wanted to go away and Hyacinth looked at him, bewildered.
+So the discus fell and struck him between the eyes.
+  }
+  ◊thanatos{Maybe Apollo didn't want him to cry.}
+  ◊eros{
+No, the Bright One doesn't know what crying is. We know
+it, though, we young gods and daemons who were alive
+when Olympus was still bare rock. We have seen many
+things, we have seen even trees and stones weep. But the
+lord is different. Six days, a life—they're all the same to
+him. No one knew this better than Hyacinth.
+  }
+  ◊thanatos{
+Did he really know these things? Didn't he perhaps
+think of the god as a model, an older friend, a brother he
+trusted and looked up to? I only saw him when he raised
+his arms to play the game—there was nothing in his eyes
+but trust and awe. No, Hyacinth didn't know who the
+Bright One was.
+  }
+  ◊eros{
+Perhaps, Thanatos. Perhaps he didn't even know about
+Actaeon and Daphne. It's hard to tell where fear stops and
+trust begins. But certainly he spent six days of intense
+experience.
+  }
+  ◊thanatos{What do you think he really felt?}
+  ◊eros{
+What every young person feels. But this time the center
+of his thoughts and actions was too much, too much for a
+boy. He was with the stranger everywhere; wherever the
+god was, he was—where men wrestled, in the rooms of the
+palace, beside the Eurotas, talking to him, listening to him.
+He listened to the god's stories about Delos and Delphi,
+about Typho and Thessaly and the land of Hyperboreans.
+◊; page-number 28
+One thing is certain, the god said nothing of his
+home on Olympus, of the other immortals, of divine things.
+No, he talked about himself and his sister, about the Graces,
+in the way people talk of ordinary life: wonderful, but ordinary.
+Sometimes they listened together to a wandering poet
+who was staying for the night.
+  }
+  ◊thanatos{Nothing wrong in all this.}
+  ◊eros{
+Nothing indeed, very reassuring. Hyacinth learned that
+the lord of Delos, with those indescribable eyes and his
+quiet way of speaking, had seen and experienced things
+which might happen someday to him. The god spoke of
+him too and of his fate. The everyday life of Amyclae was
+an open book to him. He made plans for the future, he
+treated Hyacinth like an equal, like someone of his own
+age, and the names of Aglaia, Eurynome, and Auxo, distant
+smiling women, young women, who had lived with the god
+in strange intimacy—he spoke their names casually, calmly,
+with an idle relish that made Hyacinth shiver. This was
+how the boy lived, and felt. When he was with the god,
+everything seemed easy and clear. He felt he could do anything.
+  }
+  ◊thanatos{
+I've known other men too. Men of experience, wiser,
+stronger than Hyacinth. And every one of them was destroyed
+by this craving to do everything.
+  }
+  ◊eros{
+But in Hyacinth it was only hope, a trembling hope of
+becoming like the stranger. But the god refused the enthusiasm
+he read in the boy's eyes—it was enough to arouse
+it. What he saw in his eyes and his curly hair was the
+beautiful purpled flower that was Hyacinth's fate. He paid
+no attention to words or tears—he had come to see a
+flower. And this flower had to be worthy of him, something
+at once wonderful and ordinary, like the memory of the
+Graces. So, tranquilly, he created the flower.
+  }
+  ◊thanatos{
+We are ferocious things, we immortals. I wonder how
+◊; page-number 29
+long the Olympians will make destiny. They dare everything:
+that may destroy them too.
+  }
+  ◊eros{
+Who can tell? From the time of chaos, there has been
+nothing but blood. Men's blood, blood of monsters, of gods.
+We begin and we die in blood. How do you think you were
+born, Thanatos?
+  }
+  ◊thanatos{
+In order to be born, a thing must die: even men know
+that. But the Olympians don't know it, they've forgotten it.
+In a world that passes, they endure. They don't exist, they
+◊em{are}. Their every whim is a fatal law. To express a flower, they
+destroy a man.
+  }
+  ◊eros{
+Yes, Thanatos. But shouldn't we take into account the
+richness of feeling which Hyacinth experienced? That
+tremulous hope in which he died was also his birth. He was
+a boy, his mind was still fresh and unformed, still muffled
+in the early mists of childhood, the son of Amyclas, the
+unimportant king of an unimportant country—what would
+he have been without the stranger from Delos?
+  }
+  ◊thanatos{A man among men, Eros.}
+  ◊eros{
+I know. And I know too that no one escapes his fate.
+But it's not my way to be moved by a god's whim. Hyacinth
+lived six days in the shadow of a light. He lacked
+nothing—he knew perfect joy, he knew its rapid, bitter end.
+Which is something that the Olympians and the immortals
+do not know. What more could he ask, Thanatos?
+  }
+  ◊thanatos{That Apollo should weep for him, as we do.}
+  ◊eros{You ask too much, Thanatos.}
+◊; page-number 30
+}
+
 ◊dialogue[#:id "dialogue-the-mother"]{
   ◊dialogue-intro-title{THE MOTHER}
   ◊dialogue-intro{

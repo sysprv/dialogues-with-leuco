@@ -40,4 +40,6 @@
 (define tiresias (make-interlocutor "Tiresias"))
 (define hermes (make-interlocutor "Hermes"))
 (define chiron (make-interlocutor "Chiron"))
+(define eros (make-interlocutor "Eros"))
+(define thanatos (make-interlocutor "Thanatos"))
 (define meleager (make-interlocutor "Meleager"))
