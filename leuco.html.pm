@@ -1,5 +1,5 @@
 #lang pollen
-# vim:ts=8 sw=2 sts=2 et noai spell
+◊; vim:ts=8 sw=2 sts=2 et noai spell
 
 ◊(define-meta title "Dialogues of Leucò")
 
@@ -237,6 +237,7 @@ Centaurs ran away, and the mountain was ours. You were
 laughing, Nephele. You see, even in my dreams, I can
 accept my fate.
   }
+◊; page-number 6
   ◊cloud{
 Your fate is sealed. No one lifts his eyes to a goddess
 with impunity.
