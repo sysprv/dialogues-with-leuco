@@ -47,4 +47,6 @@
 (define thanatos (make-interlocutor "Thanatos"))
 (define endymion (make-interlocutor "Endymion"))
 (define stranger (make-interlocutor "Stranger"))
+(define sappho (make-interlocutor "Sappho"))
+(define britomart (make-interlocutor "Britomart"))
 (define meleager (make-interlocutor "Meleager"))

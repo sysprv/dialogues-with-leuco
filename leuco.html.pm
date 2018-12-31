@@ -1249,6 +1249,251 @@ that.
 ◊; page-number 38
 }
 
+◊dialogue[#:id "dialogue-sea-foam"]{
+  ◊dialogue-intro-title{SEA FOAM}
+  ◊dialogue-intro{
+Britomart, the Cretan and Minoan nymph, is mentioned
+in Callimachus. That Sappho was a Lesbian from Lesbos
+is regrettable, but far sadder is the dissatisfaction which
+made her throw herself into the Aegean sea. This sea
+is full of islands and it was on the most easterly of them,
+Cyprus, that Aphrodite the wave-born came to land.
+It was a sea that knew many tragic stories. Ariadne,
+Phaedra, Andromache, Helle, Scylla, Io, Cassandra,
+Medea—who does not remember their names? They all
+passed that way and some of them stayed there. Those
+waters, one might say, were drenched in sperm and tears.
+  }
+◊; page-number 40
+
+  ◊dialogue-title{Sappho, Britomart}
+
+  ◊sappho{
+It's boring here, Britomart, the sea is boring. You've
+been here for ages, aren't you sick of it?
+  }
+  ◊britomart{
+You liked being alive better, I know. To become a
+curl of frothing wave isn't enough for you mortals. And yet
+men seek death, this death. Why did you drown yourself,
+Sappho?
+  }
+  ◊sappho{
+I didn't know it was like this. I thought everything
+ended with that final jump. I thought the longing and the
+restlessness and the tumult would all be done with. The sea
+swallows, the sea annuls, I thought.
+  }
+  ◊britomart{
+Everything dies in the sea, and comes to life again.
+You know now.
+  }
+  ◊sappho{
+But you, Britomart, you were one of the nymphs. What
+did you want from the sea?
+  }
+  ◊britomart{
+From the sea? Nothing. I lived on the mountains. A
+man pursued me and I ran away. You don't know our woods,
+Sappho, how tall they are. The mountain falls away sheer,
+and the sea way below . . . I jumped, to save myself.
+  }
+  ◊sappho{To save yourself? But why?}
+  ◊britomart{
+To get away from the man who was pursuing me. To
+be myself. I had to, Sappho.
+  }
+  ◊sappho{Had to? Was he horrid?}
+  ◊britomart{
+I don't know, I didn't see him. All I knew was that
+I had to get away.
+  }
+  ◊sappho{
+But why? I mean, to leave your daily life, the hills and
+the fields? To leave the earth and become sea foam—all
+◊; page-number 41
+this because you ◊em{had to.} Had to ◊em{what?} Surely all this meant
+something to you, weren't these things part of you too?
+  }
+  ◊britomart{
+But Sappho dear, it was desire and longing that made
+you what you are now. And yet you blame me for running
+away.
+  }
+  ◊sappho{You weren't mortal, you knew that there is no escaping.}
+  ◊britomart{
+But I didn't try to escape from desire, Sappho. I have
+what I desire. I was a nymph of the rocks, now I am a sea
+nymph. This is how we're made. Our life is leaf and trunk,
+spring water, sea foam. We play with the surface of things,
+we don't run away from them. We change. This is our
+desire, this is our destiny. Our one terror is that a man
+should possess us, catch us. That would be the end of
+everything. You know Calypso?
+  }
+  ◊sappho{I've heard of her.}
+  ◊britomart{
+Calypso let herself get caught by a man. And nothing
+could help her any more. For years she never left her cave.
+They all came, Leucothea, Callianeira, Cymodoce, Oreithyia,
+Amphitrite . . . They spoke to her, they carried her off
+and saved her. But it took years; and first the man had to go.
+  }
+  ◊sappho{
+I can understand Calypso. But I don't understand why
+she listened to you. If she'd really been in love, how could
+she have given way?
+  }
+  ◊britomart{
+Oh Sappho, mortal wave, will you never learn what
+it is to smile?
+  }
+  ◊sappho{I knew when I was alive. And I went in search of death.}
+  ◊britomart{
+But that's not smiling, Sappho. Smiling means living
+like a wave, like a leaf, accepting your fate. It means dying
+in one form and being reborn in another. It means accepting
+—accepting oneself, accepting fate.
+  }
+  ◊sappho{And did you accept, Britomart?}
+  ◊britomart{I ran away, Sappho. It's easier for the nymphs . . .}
+  ◊sappho{
+I knew how to run away too, when I was alive. My way
+was to look into things, into the tumult, and turn it into
+speech, into song. But fate is something quite different.
+  }
+◊; page-number 42
+  ◊britomart{
+Why, Sappho? Fate is joy, and when you sang your
+song you were happy.
+  }
+  ◊sappho{
+I was never happy, Britomart. Desire is not song. It
+destroys, and burns, like a snake, like the wind.
+  }
+  ◊britomart{
+But have you ever known mortal women who lived
+peacefully in desire and tumult?
+  }
+  ◊sappho{
+None. Wait, yes, perhaps . . . But not mortal women
+like Sappho. You were still a mountain nymph, I wasn't yet
+born, when a woman crossed this sea, a mortal woman, who
+lived always in storm and strife. Perhaps she was in peace.
+She killed, destroyed, blinded. She was like a goddess—
+always herself, unchanging. Perhaps she didn't even have to
+smile. She was lovely, no fool, and around her there was
+nothing but fighting and death. Men fought and died for
+her, Britomart, asking only for her name to be joined to
+theirs for a moment, for her name to be given to their living
+and dying. And they smiled for her. You know her—Helen,
+the daughter of Leda.
+  }
+  ◊britomart{And she, was she happy?}
+  ◊sappho{
+At least she didn't run away, that much is certain. She
+was sufficient unto herself. She didn't ask what her fate was.
+Whoever had the will—and the strength—carried her off.
+For ten years she followed a hero; they took her away from
+him and married her to another man. He too lost her, countless
+men fought for her across the seas. Then the second
+man took her back and she lived with him, at peace. She
+was buried, and in Hades she knew even more men. She lied
+to no one, she smiled at no one. Perhaps she was happy.
+  }
+  ◊britomart{And you envy this woman?}
+  ◊sappho{
+I envy no one. I wanted to die. It's not enough for me
+to be someone else, and if I can't be Sappho, I would sooner
+be nothing.
+  }
+  ◊britomart{Then you accept your fate?}
+  ◊sappho{I don't accept it. I ◊em{am} my fate. Nobody accepts his fate.}
+  ◊britomart{Nobody except us. We who know how to smile.}
+◊; page-number 43
+  ◊sappho{
+What's so hard about that? It's part of your fate. But
+what does it mean?
+  }
+  ◊britomart{It means accepting, and accepting oneself.}
+  ◊sappho{
+Yes, but what does it ◊em{mean?} How can you accept a force
+that seizes you and turns you into desire, into shuddering
+desire that struggles over a body, a man's or a girl's, like
+the foam between the rocks? And this body rejects you and
+crushes you, and you fall and long to embrace the rock, to
+accept it. Sometimes you are the rock yourself, and the foam
+and the tumult are twisting at your feet. No
+one is ever at peace. How can one accept all this?
+  }
+  ◊britomart{
+You have to accept it. You tried to run away, Sappho,
+and where are you now? A bit of frothing wave.
+  }
+  ◊sappho{
+But don't you feel it, Britomart, this langour, this deep
+tidal unrest? Everything here is torn and tormented endlessly.
+Even dead things go on struggling.
+  }
+  ◊britomart{
+You should know the sea, Sappho. You came from
+an island.
+  }
+  ◊sappho{
+Oh Britomart, even when I was a child it frightened
+me. That ceaseless life is monotonous, sad . . . There are no
+words for the weariness of it.
+  }
+  ◊britomart{
+Once in my island I saw people coming and going.
+There were women like you, Sappho, women who lived for
+love. They never looked sad or tired to me.
+  }
+  ◊sappho{
+I know, Britomart, I know. But did you follow them
+on their journeys? There was one woman who hanged herself
+from her own roof beam in a foreign land. And one
+who woke up one morning on a rock, abandoned. And the
+others, so many others, from all the islands and all the lands
+who went down to the sea. Some were enslaved, some were
+tortured, some killed their own children. There were some
+who toiled night and day, and some who never touched
+solid land again and became things, creatures of the sea.
+  }
+  ◊britomart{But Helen—she came out unscathed, you said?}
+◊; page-number 44
+  ◊sappho{
+Sowing fire and slaughter. She smiled at no one, she lied
+to no one. She was a woman worthy of the sea. But Britomart,
+do you remember who was born over there?
+  }
+  ◊britomart{Who do you mean?}
+  ◊sappho{
+There is one island you've never seen. Every morning
+when the sun rises, it touches this island first.
+  }
+  ◊britomart{Oh Sappho.}
+  ◊sappho{
+It was there she sprang from the sea, the goddess who
+has no name, the tormented, restless one who smiles to
+herself.
+  }
+  ◊britomart{But she doesn't suffer. She is a great goddess.}
+  ◊sappho{
+And everything that is torn and tortured in the sea is
+her substance and her breath. Have you seen her, Britomart?}
+  ◊britomart{
+Oh Sappho, don't ask me. I'm only one of the little
+nymphs.
+  }
+  ◊sappho{You must have seen her, then?}
+  ◊britomart{
+In her presence we all run away. Don't speak of her,
+child.
+  }
+◊; page-number 45
+}
+
 ◊dialogue[#:id "dialogue-the-mother"]{
   ◊dialogue-intro-title{THE MOTHER}
   ◊dialogue-intro{
