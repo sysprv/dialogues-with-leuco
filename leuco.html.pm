@@ -1697,3 +1697,225 @@ women are nothing.
   ◊hermes{Ask why they made you, Meleager.}
 ◊; page-number 51
 }
+
+◊dialogue[#:id "dialogue-the-friends"]{
+  ◊dialogue-intro-title{THE FRIENDS}
+  ◊dialogue-intro{
+There is no point in doing Homer over again. My purpose
+is simply to report a conversation that took place on
+the eve of Patroclus' death.
+  }
+◊; page-number 52
+
+  ◊dialogue-title{Achilles, Patroclus}
+
+  ◊achilles{
+Patroclus, why is it that when men want to encourage
+themselves they always say: "I've seen worse than this."
+What they should say is: "There's worse to come. A day
+will come when we are corpses."
+  }
+  ◊patroclus{Achilles, I don't recognize you.}
+  ◊achilles{
+I recognize you, though. It takes more than a drop of
+wine to down Patroclus. This evening I know that when all
+is said and done there's no difference between us and the
+common run of men. There is a worst for all of us. It's the
+last thing to come and it stuffs your mouth like a fistful of
+earth. Oh, it's all very well to be able to say, "I've seen this,
+I've suffered that," but isn't it unjust that when the cruelest
+thing of all comes, we can't even remember it?
+  }
+  ◊patroclus{
+Well, at least one of us will be able to remember for
+the other. That way we'll fool destiny.
+  }
+  ◊achilles{
+That's why men drink at night. Has it ever occurred
+to you that a child doesn't drink because for him death
+doesn't exist? Did you drink when you were a boy, Patroclus?
+  }
+  ◊patroclus{
+Everything I've done has been done with you. And as
+you would do it.
+  }
+  ◊achilles{
+What I mean is, when we were always together, playing
+and hunting, and the day was short but the years never
+passed, did you know then what death was, your death? A
+boy can kill himself, but he doesn't know what death is.
+Then suddenly comes the day when you understand, death
+is inside you, and from that moment on you're a grown man.
+◊; page-number 53
+You fight and dice, you drink, you wish the nights away.
+But have you ever seen a boy drunk?
+  }
+  ◊patroclus{
+I wonder when I was first drunk. I don't know, I can't
+remember. It seems to me that I've always drunk, that I
+never knew what death was.
+  }
+  ◊achilles{You're like a boy, Patroclus.}
+  ◊patroclus{Ask your enemies about it, Achilles.}
+  ◊achilles{
+I will. But for you death doesn't exist. And the man who
+doesn't fear death is not a good soldier.
+  }
+  ◊patroclus{And yet I'm with you tonight, drinking.}
+  ◊achilles{
+But haven't you any memories, Patroclus? Don't you
+ever say: "I've done this, I've seen that," and asked yourself
+what you've really done, what sort of live you've led,
+what mark you have left on the world? What good is it to
+live if we leave no memories behind us?
+  }
+  ◊patroclus{
+When we were boys together, Achilles, we remembered
+nothing. Just being together all day was enough.
+  }
+  ◊achilles{
+Does anyone in Thessaly still remember those days,
+I wonder? And when this war is over and our comrades go
+home, who will walk the streets we used to walk, who will
+know that we were once boys there too—two boys no different
+from any others there now? Do the boys who are
+growing up there know what's waiting for them?
+  }
+  ◊patroclus{A boy doesn't think of such things.}
+  ◊achilles{So many days still to dawn which we shall never see.}
+  ◊patroclus{
+Yes, but haven't we seen a good many already,
+Achilles?
+  }
+  ◊achilles{
+No, Patroclus, not so many! The day will come when
+we are corpses. When our mouths will be stuffed with a
+fistful of earth. And we won't even know what we've seen.
+  }
+  ◊patroclus{Why think of these things?}
+  ◊achilles{
+How not think of them? A boy's like an immortal, he
+looks and laughs. He doesn't know what things cost. He
+doesn't know the sweat and the bitterness. His fighting is
+◊; page-number 54
+a game. He throws himself down on the ground and plays
+dead, then he laughs and goes on with the game.
+  }
+  ◊patroclus{
+But we have other games. Women and plunder. The
+enemy. And our drinking together at night. Achilles, when
+are we going back to the fighting?
+  }
+  ◊achilles{
+We're going back, you can be sure of that. A destiny
+awaits us. When you see ships on fire, that will be the
+moment.
+  }
+  ◊patroclus{Not till then?}
+  ◊achilles{
+Does waiting frighten you? Haven't you seen worse
+than this?
+  }
+  ◊patroclus{
+The waiting gets on my nerves. We came here to finish
+it off. Why not tomorrow?
+  }
+  ◊achilles{
+There's no hurry, Patroclus. Let the gods say Tomorrow.
+It's only for them that what has been will be.
+  }
+  ◊patroclus{
+But whether or not we can say, I've seen worse than
+this—that depends on us. To the very end. So drink,
+Achilles. Drink to the spear, drink to the shield. What has
+been will be again. We'll go back to the fighting, the danger.
+  }
+  ◊achilles{
+I drink to mortal men and to the immortals. To my
+father and my mother. To what has been, the things we
+remember. And to the two of us.
+  }
+  ◊patroclus{Do you have so much to remember?}
+  ◊achilles{
+No more than an old servant or a beggar. They've been
+young too.
+  }
+  ◊patroclus{
+You're rich, Achilles, and for you wealth is just a rag
+to be thrown away. It's only a man like you who can compare
+himself to a beggar. You, the man who stormed the
+citadel of Tenedos and tore the girdle of the Amazon and
+fought with bears on the hills. What other child was tempered
+by his mother on the fire? You are sword and spear,
+Achilles.
+  }
+  ◊achilles{Except for the fire, you've always been with me.}
+  ◊patroclus{
+As the shadow after the cloud. As Pirithous with
+◊; page-number 55
+Theseus. One day, Achilles, perhaps you too will come down
+to Hades, to rescue me.
+  }
+  ◊achilles{
+It was better when there was no Hades. When we wandered
+through the forests and by the streams and washed
+the sweat off our bodies, when we were boys . . . Every
+gesture, then, every motion, was a game. We were memory
+and no one knew it. Were we brave? I don't know, it doesn't
+matter. I know that on the centaur's mountain it was summer,
+it was winter, it was all of life. We were immortal.
+  }
+  ◊patroclus{
+And then the worst came. Danger came, and death.
+And we left for Troy.
+  }
+  ◊achilles{
+There's no escaping fate. I never saw my son. Even
+Deidamia is dead. Oh why did I ever leave the island with
+the women?
+  }
+  ◊patroclus{
+Your memories would have been poor then, Achilles.
+Better to suffer than never to have lived.
+  }
+  ◊achilles{
+But how could I tell that life was to be like this? Oh
+Patroclus, this is what it is. We had to see the worst.
+  }
+  ◊patroclus{Tomorrow I'm going out to the fighting. With you.}
+  ◊achilles{No, my day hasn't yet come.}
+  ◊patroclus{
+Then I'll go alone. And to put you to shame, I'll take
+your spear.
+  }
+  ◊achilles{
+I wasn't born when they cut down the ash to make it.
+I wonder if the clearing in the woods is still there.
+  }
+  ◊patroclus{
+Come and fight, and you'll see that your spear is
+worthy of you. An enemy for every stump.
+  }
+  ◊achilles{The ships aren't burning yet.}
+  ◊patroclus{
+I'll take your greaves and your shield. It will be like
+have you beside me. Nobody will be able to touch me.
+It'll be a kind of game.
+  }
+  ◊achilles{You really are like a boy that drinks, Patroclus.}
+  ◊patroclus{
+When you were a boy, Achilles, running with the
+centaur, you didn't think of your memories. And you were
+no more immortal than you are tonight.
+  }
+◊; page-number 56
+  ◊achilles{
+Only the gods know destiny and live. But you play at
+destiny.
+  }
+  ◊patroclus{
+Another drink, Achilles. Then tomorrow, perhaps in
+Hades, I shall say, "Drink again, Achilles."
+  }
+◊; page-number 57
+}

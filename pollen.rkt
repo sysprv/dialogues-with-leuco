@@ -50,3 +50,5 @@
 (define sappho (make-interlocutor "Sappho"))
 (define britomart (make-interlocutor "Britomart"))
 (define meleager (make-interlocutor "Meleager"))
+(define achilles (make-interlocutor "Achilles"))
+(define patroclus (make-interlocutor "Patroclus"))
