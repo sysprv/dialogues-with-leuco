@@ -980,6 +980,275 @@ do not know. What more could he ask, Thanatos?
 ◊; page-number 30
 }
 
+◊dialogue[#:id "dialogue-the-lady-of-the-beasts"]{
+  ◊dialogue-intro-title{THE LADY OF THE BEASTS}
+  ◊dialogue-intro{
+The love of Artemis and Endymion was, I am sure,
+chaste. This, of course, does not mean that the less
+energetic of the two was not avid to shed blood. There
+was obviously nothing gentle about the character of the
+virgin goddess: mistress of wild beasts, she sprang from
+that horde of indescribable divine mothers spawned
+by the monster-haunted Mediterranean. As for Endymion,
+we know that someone who cannot sleep longs to
+sleep and passes into legend as the eternal dreamer.
+  }
+◊; page-number 32
+
+  ◊dialogue-title{Endymion, A Stranger}
+
+  ◊endymion{
+Listen, you're a stranger, I can talk to you. Don't be
+frightened if my eyes look mad. Those beggar's rags wrapped
+around your feet are no prettier than my eyes. And yet you
+look the sort of man who could settle down in the village of
+his choice and find shelter and work and make a home
+there. If you've stayed on the road, I'm certain it's because
+the only thing you have is your own fate. Here it is, barely
+dawn, and you're already on the move. That's because you
+like to be awake when things are just coming out of the
+dark, still untouched. You see that mountain? Latmos,
+they call it. I've climbed up there a good many times at
+night, in the pitch of dark, and waited among the beech trees
+for dawn. And yet I feel that somehow I have never touched
+the mountain.
+  }
+  ◊stranger{Who ever feels he's touched the things around him?}
+  ◊endymion{
+Sometimes it seems to me that we're like the wind
+going by, untouchable. Or like the dreams we have when
+we're asleep. Do you like to sleep by day, stranger?
+  }
+  ◊stranger{I sleep any time. When I feel tired I go to sleep.}
+  ◊endymion{
+You're a man who walks the roads. Tell me, when
+you're asleep, do you hear the brushing of wind, and birds,
+and ponds, the rustling sounds, the way the water talks?
+Don't you find you're never more alone than when you're
+asleep?}
+  ◊stranger{I don't know, friend. I've always lived alone.}
+  ◊endymion{
+Sleep no longer gives me rest. I think I've always
+slept, but I know this isn't so.
+  }
+◊; page-number 33
+  ◊stranger{You look strong and healthy.}
+  ◊endymion{
+I am, stranger, I am. Sleep after wine and that heavy
+sleep by a woman's side—I know what they're like, but
+they don't help. When I'm in bed I'm tense, ready to leap
+up at any moment. Look at my eyes, they're the eyes of a man
+who stares into the dark. I feel as though I'd always lived
+like this.
+  }
+  ◊stranger{Have you lost someone you love?}
+  ◊endymion{
+◊em{Someone?} Oh stranger, what do you take us for?
+Mortals?
+  }
+  ◊stranger{Is it a friend who died}
+  ◊endymion{
+Much, much more than any friend. Stranger, when
+I climb Mt. Latmos I am no longer mortal. Don't look at
+my eyes! I'm not crazy. And I know it's not a dream. It's
+so long since I slept. You see the dark patches the beech
+trees make on the mountain? Last night I was up there,
+waiting. Waiting for her.
+  }
+  ◊stranger{Who were you waiting for?}
+  ◊endymion{
+We mustn't speak her name. Don't speak her name.
+She has no name—or has many. Friend, you're a man,
+you know the shiver of terror you have at night when suddenly
+a kind of clearing opens before you in the forest? No,
+you don't. Or how at night you remember the clearing you
+passed through during the day: you saw a flower there, or a
+kind of berry swaying in the wind—and this flower, this
+berry, became something wild, something untouchable,
+mortal, there among all the wild things? Do you know
+what I mean? A flower like a wild beast? Tell me, friend,
+have you ever looked at the privates of a she-wolf, a doe, or
+a snake? Looked with horror and desire?
+  }
+  ◊stranger{At the sex of a beast?}
+  ◊endymion{
+More, more than that. Have you ever known someone
+who was many things in one, who brought them with her,
+so that everything she did, every thought of her seems to
+◊; page-number 34
+contain the whole infinity of things of which your countryside,
+your sky consists, and memories and days gone by
+you'll never know, and days to come, and certainties, another
+countryside, another sky forever alien—have you ever
+known such a person, stranger?
+  }
+  ◊stranger{I have heard of such things.}
+  ◊endymion{
+And if this being were the wild beast, the savage
+thing, the untouchable nature that no man may name?
+  }
+  ◊stranger{These are fearful things you speak of.}
+  ◊endymion{
+Yes, but there's more, even more. You're listening,
+and you should. If you walk the roads, you know that divinity
+and terror are everywhere on this earth. If I talk to you,
+it's because we both, travelers and strangers, have something
+divine about us.
+  }
+  ◊stranger{
+I have seen many things. And some of them were terrible
+things. But there's no need to leave home. Remember
+—I don't know if this will help—there are gods in the
+fireplace too.
+  }
+  ◊endymion{
+Good, you understand. You'll believe me then. I had
+fallen asleep one evening on Latmos, propped against a
+tree. It was dark—I'd been wandering late. The moon was
+shining when I woke. In my dream I felt a shiver of dread
+at the thought of being there, in the clearing, in the moonlight.
+  }
+  ◊following{
+Then I saw her. I saw her looking at me, looking at me
+with that sidelong glance of hers. But her eyes were steady,
+clear, with great deeps in them. I didn't know it then, nor
+even the next day, but I was already hers, utterly hers,
+caught within the circles of her eyes, in the space she filled,
+the clearing, and the hill. She smiled at me, timidly. "Lady,"
+I said to her, and she frowned, like a girl, like a shy, wild
+thing, as though she understood that I was amazed, somehow
+dismayed, to find myself calling her Lady. The dismay
+I felt then was always between us.
+  }
+◊; page-number 35
+  ◊following{
+Then she spoke my name and stood beside me—her tunic
+barely reached her knees—and stretched out her hand and
+touched my hair. There was something hesitant in the way
+she touched me, and she smiled, an incredible, mortal
+smile. I thought of all the names men call her by, and I
+would have fallen to my knees but she held me up, as one
+holds up a child, by putting her hand under my chin. Look
+at me, I'm a grown man. And she was just a wild thing, a
+slight awkward girl. Except for her eyes, those eyes of hers.
+I felt like a small boy. "You must never wake again," she
+said. "Don't try to follow me. I'll come to you again." And
+she went off through the clearing.
+  }
+  ◊following{
+I walked all over Latmos that night, until dawn. I followed
+the moon everywhere, through the gorges and the
+scrub, up to the peaks. I listened, listened, and all I could
+hear was her voice, like the sound of sea water, a hoarse
+voice, cold and maternal. Every rustle, every shadow stopped
+me. I caught glimpses of wild animals, running. When the
+light came—a livid, veiled light—I looked down on the
+plain, on this road where we're walking now, and I knew
+that my home was no longer among men. I was no longer
+one of them. I was waiting for the night.
+  }
+  ◊stranger{
+I find this hard to believe, Endymion. I mean, you've
+gone back to the mountain, and yet you're still alive, you're
+still a man, and the Wild One, the lady of many names,
+hasn't made you hers.
+  }
+  ◊endymion{I ◊em{am} hers, stranger.}
+  ◊stranger{
+I mean . . . Do you know the story of that prying
+shepherd who was torn to pieces by his dogs, the stag-man?
+  }
+  ◊endymion{
+Stranger, I know everything about her, everything.
+We talk and talk, and I pretend to be asleep, always, all
+those nights, and I never touch her hand, any more than
+one would touch a lioness or the green water of a pond or
+the thing that is nearest and closest. She stands there before
+◊; page-number 36
+me, a slight, unsmiling girl, looking at me. And those great
+transparent eyes have seen other things. They still do see
+them. Then ◊em{are} those things. Wild berry and wild beast
+are in her eyes, and the howling, the death, the cruelty of
+flesh turned stone. The shed blood, the savaged flesh, the
+ravenous earth, the wilderness—all this I know. For her,
+the Wild One, this is wilderness, and loneliness. For her the
+beasts are wilderness. Her caresses are like the caresses you
+give to a dog or a tree. But she ◊em{looks} at me, stranger, she
+◊em{looks} at me—a slight girl standing there in a tunic, like a
+girl from your own village.
+  }
+  ◊stranger{
+But haven't you ever talked with her about your life
+as a man?
+  }
+  ◊endymion{
+Stranger, you've seen terrible things. You must know
+that the beast and god together blot out the man.
+  }
+  ◊stranger{
+True, when you climb Mt. Latmos you are no longer
+mortal. But immortals know how to live alone, and you
+refuse loneliness. You require the animal encounter, the
+touch of sex. When you're with her, you pretend to be
+asleep. What do you want of her?
+  }
+  ◊endymion{
+I want her to smile once more. And then let me spill
+my blood on the ground at her feet, my flesh torn by her
+hounds.
+  }
+  ◊stranger{And what does she say?}
+  ◊endymion{
+Nothing. She looks at me. At dawn she goes and
+leaves me alone. And I look for her among the beech trees.
+The daylight wounds my eyes. "You must never wake
+again," she said to me.
+  }
+  ◊stranger{
+Oh mortal man, the day you truly waken you'll know
+why she spared you her smile.
+  }
+  ◊endymion{I know now. Stranger, you speak like a god.}
+  ◊stranger{
+Godlike and terrible presences course the world, and
+we walk the roads. You said that yourself.
+  }
+  ◊endymion{
+Oh wanderer god, her sweetness is like dawn, or like
+◊; page-number 37
+earth and heaven revealed. It is godlike. But for others, for
+things and beasts alike, she laughs—briefly. She commands
+—and her command annuls. And no one has ever touched
+her knee.
+  }
+  ◊stranger{
+Mortal heart, resign yourself. No one has touched her,
+neither god nor man. Her voice, that harsh maternal voice
+of hers, is all she can give you.
+  }
+  ◊endymion{And yet—}
+  ◊stranger{And yet?}
+  ◊endymion{
+So long as that mountain stands, I will not sleep in
+peace.
+  }
+  ◊stranger{
+Everyone has his own kind of sleep, Endymion. Your
+sleep is infinite with the cries and the voices of things, it is
+full of earth and sky and day following day. Sleep your
+sleep bravely, you have nothing better. The loneliness, the
+wild places of earth are yours. Love them as she loves them.
+And now, Endymion, I must leave you. You will see her
+tonight.
+  }
+  ◊endymion{Oh wanderer god, I thank you.}
+  ◊stranger{
+Farewell. But you must never wake again, remember
+that.
+  }
+◊; page-number 38
+}
+
 ◊dialogue[#:id "dialogue-the-mother"]{
   ◊dialogue-intro-title{THE MOTHER}
   ◊dialogue-intro{

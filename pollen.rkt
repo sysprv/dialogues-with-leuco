@@ -28,6 +28,9 @@
   (lambda rest
     (apply speaks interlocutor rest)))
 
+; for Endymion
+(define (following . rest)
+  `(p ((class "following")) ,@rest))
 ;
 ;
 ; interlocutors
@@ -42,4 +45,6 @@
 (define chiron (make-interlocutor "Chiron"))
 (define eros (make-interlocutor "Eros"))
 (define thanatos (make-interlocutor "Thanatos"))
+(define endymion (make-interlocutor "Endymion"))
+(define stranger (make-interlocutor "Stranger"))
 (define meleager (make-interlocutor "Meleager"))
