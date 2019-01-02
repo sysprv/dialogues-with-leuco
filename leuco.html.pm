@@ -3336,3 +3336,183 @@ aim. What else has your restless wandering been until now?
   ◊odysseus{The object of my quest is inside me. And so is yours.}
 ◊; page-number 100
 }
+
+◊dialogue[#:id "dialogue-the-lake"]{
+  ◊dialogue-intro-title{THE LAKE}
+  ◊dialogue-intro{
+Hippolytus, the chaste huntsman of Troezen, met a
+terrible death through the anger of Aphrodite. But
+Diana restored him to life and carried him off to
+Italy (Hesperia). Here in the Alban Hills she attached
+him to her cult and gave him the name of Virbius.
+Virbius had children by the nymph Aricia.
+◊br{}
+For the ancients the West was—as in the Odyssey—the
+land of the dead.
+  }
+◊; page-number 102
+
+  ◊dialogue-title{Virbius, Diana}
+
+  ◊virbius{
+I'll admit that I was glad to come here. This lake reminded
+me of the old sea. And I was happy to live your
+life, to be dead to the world, to serve you in the forest and
+on the mountains. Here the wild animals, the peaks, the
+peasants know nothing but you. It is a place where things
+have no past, a place of the dead.
+  }
+  ◊diana{Hippolytus—}
+  ◊virbius{Hippolytus is dead. Virbius is the name you gave me.}
+  ◊diana{
+Hippolytus, don't you mortals forget your lives even when
+you're dead?
+  }
+  ◊virbius{
+Listen. So far as the world is concerned, I am dead; I am
+your servant. When you snatched me away from Hades and
+brought me back to the light, all I wanted was to move, to
+breathe, and worship you. You set me here where earth and
+heaven blaze with light, where everything is vigorous and
+green, everything is new. Even the night here is fresh and
+deep, fresher and deeper than it was at home. Here time
+doesn't pass. There are no memories. And you are the only
+power here.
+  }
+  ◊diana{
+You're drenched with memories, Hippolytus. But suppose
+I admit for a moment that this is a land of the dead.
+What do the dead in Hades do but rehearse the past?
+  }
+  ◊virbius{
+Hippolytus is dead, I tell you. And this lake that looks
+so much like the sky has never heard of Hippolytus. If I
+weren't here, this country would be exactly as it is now.
+It looks like some imagined place, a distant land glimpsed
+◊; page-number 103
+through the clouds. When I was still a boy, I thought that
+if I climbed to the other side of my native mountains, far
+off in the distance where the sun sets—all I had to do was
+keep on walking—I would come to the land of childhood,
+where it was always morning, the land of the hunt and perpetual
+play. A slave said to me, "Beware of what you desire,
+my boy. The gods always grant it." It was this place I
+wanted. I didn't know I wanted to die.
+  }
+  ◊diana{Merely another memory. Why are you unhappy?}
+  ◊virbius{
+Oh, Wild One, I don't know. It seems only yesterday
+that I opened my eyes here. I know that a great deal of
+time has passed, and that these mountains, this lake, these
+great trees are just the same, mute and unmoving. Who is
+Virbius? Am I any different from a boy who wakes up every
+morning and goes back to his games as though time had no
+existence?
+  }
+  ◊diana{
+You are Hippolytus, the boy who died to follow me. And
+now you live beyond time. You have no need of memories.
+Those who live with me live for the day, like the hare, like
+the stag, like the wolf. They flee and are pursued forever.
+This is no country of the dead, but the living twilight of an
+enduring morning. You have no need of memories because
+this is the only life you have ever known.
+  }
+  ◊virbius{
+If anything, this country is more vivid than my own. In
+everything, in the sun too, there is a radiance of light as
+though it came from within, a vigor that seems somehow
+untouched by the days. What does this land of Hesperia
+mean to you gods?
+  }
+  ◊diana{
+Nothing different from any other country anywhere. We
+don't live on past or future. For us each day is like the first
+day. What seems to you a vast silence is our sky.
+  }
+  ◊virbius{
+But I have lived in places you prefer to this. I've gone
+hunting on Didymus; I've run along the beaches of Troezen,
+places as poor and as wild as myself. But this inhuman silence,
+◊; page-number 104
+this life beyond life—I've never breathed anything like this
+before. What makes it so lonely here?
+  }
+  ◊diana{
+Lonely, child? A place where no man has ever set foot will
+always be a land of the dead. From your seas and islands
+other men will come, and they will think they are entering
+Hades. And there are other countries even farther away . . .
+  }
+  ◊virbius{
+Other lakes, other mornings like these. The water is
+bluer than the plums among the leaves. I seem to be a
+shadow among the shadows of the trees. The more I warm
+myself in this sun and take nourishment from this earth, the
+more I seem to dissolve into rustlings and drops of water, in
+the sound of the lake, and the growls of the forest. Behind
+the trunks of the trees, in the stones, in my own sweat, there
+is a remoteness, a distance.
+  }
+  ◊diana{These are the anxieties of your childhood.}
+  ◊virbius{
+I'm not a child any more. I know you, and I have been
+in Hades. My own country is as far away as those clouds up
+there. Look, I slip between trees and objects as though I
+were a cloud.
+  }
+  ◊diana{
+You're happy, Hippolytus. If happiness is possible for
+man, you are happy.
+  }
+  ◊virbius{
+The boy I was, the boy who died, is happy. You saved
+him, and I thank you. But the man who was reborn, your
+servant, the fugitive from Hades who guards your oaks and
+your forests—he isn't happy because he doesn't even know
+if he exists. Who answers his voice, who speaks to him?
+Does his today add anything to his yesterday?
+  }
+  ◊diana{Is that all, Virbius? You want company?}
+  ◊virbius{You know what I want.}
+  ◊diana{
+Mortals always end by wanting that. Why? Is it something
+in your blood?
+  }
+  ◊virbius{Are you asking me what blood is?}
+  ◊diana{
+Sacrificial blood has the savor of god in it. How many
+times have I seen you pull back the head of a kid or the
+◊; page-number 105
+wolf, slash its throat, and plunge your hands into its blood!
+I liked you for that. But that other blood, your own blood,
+which swells your veins and blazes in your eyes—I'm less
+familiar with that blood. I know that for you it is life and
+destiny.
+  }
+  ◊virbius{
+I have already shed that blood. And feeling it run restless
+and confused in me today is my proof of being alive.
+The light of the lake, the green thrust of the trees—these
+are not enough for me. They are things like clouds, everlasting
+wanderers of morning and evening, guardians of the
+horizons, shapes of Hades. Only other blood can still my
+own. Blood running restlessly, and then stilled. Sated.
+  }
+  ◊diana{In short, you want to sacrifice?}
+  ◊virbius{
+That is what I want, Wild One. Before, when I was
+Hippolytus, I sacrificed wild animals. They were enough. But
+here in this land of the dead, even the animals dissolve between
+my hands like clouds. It is my fault, I think. But I
+need the closeness of warm blood, blood of my own kind.
+I need to have a voice and a fate. O Wild One, grant me
+this.
+  }
+  ◊diana{Beware, Virbius-Hippolytus. You have been happy.}
+  ◊virbius{
+I don't care, lady. I've looked at my reflection in the lake
+too often. It's life I want, not happiness.
+  }
+◊; page-number 106
+}

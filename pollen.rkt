@@ -63,3 +63,5 @@
 (define father (make-interlocutor "Father"))
 (define odysseus (make-interlocutor "Odysseus"))
 (define calypso (make-interlocutor "Calypso"))
+(define virbius (make-interlocutor "Virbius"))
+(define diana (make-interlocutor "Diana"))
