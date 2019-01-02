@@ -79,3 +79,5 @@
 (define ariadne (make-interlocutor "Ariadne"))
 (define kratos (make-interlocutor "Kratos"))
 (define bia (make-interlocutor "Bia"))
+(define dionysus (make-interlocutor "Dionysus"))
+(define demeter (make-interlocutor "Demeter"))

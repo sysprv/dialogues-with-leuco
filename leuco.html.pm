@@ -4781,3 +4781,214 @@ understand. They're the choicest fruit of mortal life.
   ◊bia{As man, silly. That's the point.}
 ◊; page-number 144
 }
+
+◊dialogue[#:id "dialogue-the-mystery"]{
+  ◊dialogue-intro-title{THE MYSTERY}
+  ◊dialogue-intro{
+Everyone likes hearing that the Eleusinian mysteries
+presented the initiate with a divine image of
+immortality in the person of Dionysus and Demeter
+(also Core and Pluto). What one likes less is the
+reminder that Demeter is the ear of wheat—bread—and
+Dionysus the grape—wine. "Take and eat this . . ."
+  }
+◊; page-number 146
+
+  ◊dialogue-title{Dionysus, Demeter}
+
+  ◊dionysus{
+These mortals are really amusing. We know things,
+and they do them. I wonder what our lives would be like
+without them. What would we Olympians be? They call on
+us with their feeble voices, and they give us names.
+  }
+  ◊demeter{
+I existed before there were men, and I can tell you it
+was lonely. The earth was forest, snakes, turtles. We were
+the earth, the air, the water. What could one do? It was
+in those days that we began the custom of being immortal.
+  }
+  ◊dionysus{With men that never happens.}
+  ◊demeter{
+True. Everything they touch becomes time. Becomes
+action. Waiting and hope. Even their dying is something.
+  }
+  ◊dionysus{
+They have a way of giving names to themselves and
+things and us which enriches life. Like the vineyards that
+they've taught themselves to grow on these hillsides. When
+I brought the first vine to Eleusis, I never dreamed they
+would make such a delicious place of these wild, rocky
+slopes. And the same is true of their crops and their gardens.
+Wherever they lavish their sweat and their speech, a
+rhythm, a sense, a repose is born.
+  }
+  ◊demeter{
+And that talent they have for making stories about us!
+I sometimes wonder if I really am Gaia, Rhea, Cybele, the
+Great Mother, as they say I am. They have the knack of
+giving us names that reveal us to ourselves, Iacchus. They
+lift us from the grey eternity of fate and quicken us with
+colors, painting us in the days and places where we are.
+  }
+  ◊dionysus{for us you will always be Deo.}
+◊; page-number 147
+  ◊demeter{
+Who could have guessed that their wretched lives
+could hold such riches? For them I am a fierce mountain,
+bristling with forest; I am cloud and cave, goddess of harvests
+and towers and cities; Lady of the Lions, goddess of
+cradle and tomb, and mother of Core. Everything I am I
+owe it to them.
+  }
+  ◊dionysus{They're always talking about me, too.}
+  ◊demeter{
+Then shouldn't we help them more, Dionysus? Make
+amends to them somehow? Stand at their side in the brief
+instant of their lives?
+  }
+  ◊dionysus{
+You gave them grain, Deo. I gave them the vine. Let
+them be. What more do they need?
+  }
+  ◊demeter{
+I don't know why it is, but our gifts are always ambiguous.
+Double-bladed axes. My son Triptolemus almost had
+his throat cut when he brought that Scythian stranger his
+gift of grain. Even your gifts cause the shedding of innocent
+blood, Dionysus. Or so I hear.
+  }
+  ◊dionysus{
+But they wouldn't be men if they weren't miserable.
+Death is what they're born for. It's death that drives them
+to their efforts, to memory and foresight. And don't go
+supposing, Deo, that their blood is any better than the wheat
+or wine with which we feed it. Blood is vile, foul, wretched.
+  }
+  ◊demeter{
+You're young Iacchus, and you don't know that they
+discovered us in blood. You course restlessly through the
+world, and for you death is like wine: exalting, an ecstasy.
+But you forget that mortals have suffered every story they
+tell of us. How many mortal mothers have lost their Core
+and never seen her again? Even today the richest offering
+they can make is blood.
+  }
+  ◊dionysus{
+Is it an offering, Deo? You know better than I that
+there was a time when they thought that in killing their
+victim they were killing us.
+  }
+  ◊demeter{
+Can you blame them? This is why I said they discovered
+us in blood. If for them death is the end and the
+◊; page-number 148
+beginning, then they have to kill us in order to see us
+reborn. They are very unhappy, Iacchus.
+  }
+  ◊dionysus{
+You think so? They seem stupid to me. But maybe
+not. They are so mortal that by killing themselves they give
+a meaning to life. They have to live and die their own
+stories. Take what happened to Icarius . . .
+  }
+  ◊demeter{Poor Erigone.}
+  ◊dionysus{
+Yes, but Icarius was killed because he wanted to be
+killed. Maybe he thought his blood was wine. He gathered
+the grapes, pressed them, and drew off the wine. He worked
+like a madman. It was the first time a froth of must was
+ever seen on a threshing-floor. The bushes, the walls, the
+shovels were spattered with it. Even Erigone plunged her
+hands in it. Then what did the stupid old fool do but go
+down to the fields and ask the herdsmen to drink with him?
+And when they were drunk on it, poisoned, raging like wild
+animals, they tore him to pieces like a goat among the scrub
+and then buried him in order to grow more wine. He knew
+what would happen, it was what he wanted. Was Erigone
+surprised? No, she'd tasted that wine, she knew it would
+happen too. So how else could she round off this story
+except by hanging herself in the sun like a bunch of grapes?
+There's nothing sad about it. Mortals tell their stories with
+blood.
+  }
+  ◊demeter{
+And do you think this sort of thing is worthy of us?
+You were wondering what we would be like without them.
+You know that someday they may grow tired of us gods. You
+understand? Your own interests as a god are bound up with
+blood—that wretched blood, as you call it.
+  }
+  ◊dionysus{
+But what should we give them? Whatever it is, they'll
+turn it into blood. Always blood.
+  }
+  ◊demeter{There's only one thing to do, and you know what it is.}
+  ◊dionysus{What?}
+  ◊demeter{Give a meaning to their dying.}
+◊; page-number 149
+  ◊dionysus{But how?}
+  ◊demeter{By teaching them the life of the blessèd.}
+  ◊dionysus{But that's tempting fate, Deo. They're mortals.}
+  ◊demeter{
+Listen. The day will come when they'll think of it
+themselves. And they'll do it without us, with a story.
+They'll tell stories of men who have conquered death.
+They've already put one of their number in heaven. Every
+six months one of them goes down to Hades. One of them
+has fought with Death and won back a living creature . . .
+Mark my words, Iacchus. They'll do it on their own. And
+then we'll go back to being what we were: air, water, and
+earth.
+  }
+  ◊dionysus{It won't help them live longer.}
+  ◊demeter{
+Of course not, silly boy. But their dying will have a
+meaning. They too will die in order to be reborn, and they
+won't need us anymore.
+  }
+  ◊dionysus{What do you suggest, Deo?}
+  ◊demeter{
+Teach them that they can become like us, beyond grief
+and death. But we'll tell them ourselves. Teach them that
+just as the wheat and the vine go down beneath the earth
+in order to be born again, so death is a new life for them
+too. Give them this holy story. Lead them upward by means
+of this story. Teach them a fate which is woven with our
+own.
+  }
+  ◊dionysus{They'll die anyway.}
+  ◊demeter{
+They'll die, and they will conquer death. They will
+see something beyond blood, they will see the two of us.
+They'll no longer be afraid of death, and they won't have to
+placate it by shedding other blood.
+  }
+  ◊dionysus{
+We can do it, Deo, we can. We can give them the
+story of eternal life. I almost envy them. They won't know
+destiny and they will be immortal. But don't expect the
+bloodshed to stop.
+  }
+  ◊demeter{
+Their only thought will be eternity. But there's one
+danger. They may neglect these fertile fields.
+  }
+◊; page-number 150
+  ◊dionysus{
+For a while. But once the grain and the vineyard take
+on the meaning of eternal life, do you know what men will
+see in bread and wine? Flesh and blood, as now, as always.
+Flesh and blood will be spilled, not to placate death but to
+reach the eternal which awaits them.
+  }
+  ◊demeter{
+It's as though you could read the future. How do you
+know?
+  }
+  ◊dionysus{
+From looking at the past, Deo. Believe me. But I agree
+with you. It will always be a story.
+  }
+◊; page-number 151
+}
