@@ -2710,3 +2710,206 @@ hands.
   }
 ◊; page-number 80
 }
+
+◊dialogue[#:id "dialogue-the-guest"]{
+  ◊dialogue-intro-title{THE GUEST}
+  ◊dialogue-intro{
+Phrygia and Lydia were countries about which the Greeks
+liked to tell terrible stories. There can be no doubt
+that they all took place in Greece, but that was in earlier
+times.
+◊br{}
+◊; insert character entities
+◊string->symbol{nbsp}
+◊string->symbol{nbsp}
+No need to say who won the reaping contest.
+  }
+◊; page-number 82
+
+  ◊dialogue-title{Lityerses, Heracles}
+
+  ◊lityerses{
+Here's the field, stranger. Don't think of leaving. We
+know what hospitality is as well as you Greeks. You're our
+guest and we want you to stay on here. You've eaten with
+us, you've drunk our wine, and now these fields of ours will
+drink your blood. There'll be a bumper crop in the Meander
+Valley next year.
+  }
+  ◊heracles{
+You must have had quite a number of killings in these
+fields?
+  }
+  ◊lityerses{
+Oh, a fair number. But nobody with a build like yours.
+We won't need anyone but you this year. Your skin's as
+ruddy as fresh-turned earth, and your eyes are like flowers.
+You'll fertilize these fields all right.
+  }
+  ◊heracles{Who taught you this practice of yours?}
+  ◊lityerses{
+This is the way it's always been. If a man doesn't feed
+the earth, why should the earth feed him?
+  }
+  ◊heracles{
+This year's crop looks like a splendid one. The wheat
+stands as high as the reaper's shoulders. Who was the
+victim?
+  }
+  ◊lityerses{
+We couldn't get any foreigners last year. So we had to
+make do with an old slave and a goat. It was flabby blood.
+The earth barely felt it. Look how thin the ears are. Before
+cutting up the body, we have to sweat him in the sun till
+he comes to a lather. And that's why we're going to put you
+to work, reaping and bringing in the sheaves until you're
+running with a sweat. And then, at the last minute, when your
+blood is boiling pure and foaming like a living thing—that's
+◊; page-number 83
+the moment when we'll slit your throat. Yessir. You're a
+strong young man.
+  }
+  ◊heracles{Your gods approve of this practice?}
+  ◊lityerses{
+Above this field there are no gods. There is only the
+earth, the Mother, the Cave. She's always waiting, and she
+comes to life when the blood streams down to her. Tonight
+you'll go down to her cave, stranger.
+  }
+  ◊heracles{Don't any of you Phrygians ever visit the cave?}
+  ◊lityerses{
+We leave it when we're born—there's no hurry about
+going back.
+  }
+  ◊heracles{
+I think I understand. They you manure your gods with
+human blood?
+  }
+  ◊lityerses{
+Not the gods, stranger. The earth is our god. Don't
+you worship the earth where you live?
+  }
+  ◊heracles{
+Our gods aren't underground. They rule the sea and
+the earth, the forest and the cloud, as a shepherd keeps his
+flock or a master governs his servants. They live apart, on
+the mountains, like the thoughts you see in a man's eye
+when he speaks to you, or like the clouds in the sky. They
+don't demand blood.
+  }
+  ◊lityerses{
+Stranger, I don't understand. For us the cloud and the
+mountain and the cave all have the same name, they're all
+one. The blood the Mother has given us we give back to
+her in our sweat and death and dung. You must come from
+a long way off, stranger. Those gods of yours don't make
+sense.
+  }
+  ◊heracles{
+Their breed is immortal. They have conquered the
+forest, and the earth and its monsters. As for men like you
+who feed the earth with blood, they have driven them down
+to the cave.
+  }
+  ◊lityerses{
+I'm not saying your gods don't know their business.
+They must have fed the earth with a lot of blood too. Besides,
+no famished earth ever brought forth a man like you.
+  }
+  ◊heracles{Lityerses, shall we start reaping?}
+◊; page-number 84
+  ◊lityerses{
+You're a strange fellow. You know, this is the first
+time anyone ever said that to me. Aren't you afraid of dying
+among the windrows? I suppose you think you'll run off
+through the furrows like a squirrel or a quail?
+  }
+  ◊heracles{
+If I understand you, this isn't dying; it's a return to the
+mother, a guest's gift of friendship. All these peasants
+sweating in the fields will hail the man who gives his blood
+for them. They'll offer him songs and prayers. It's a great
+honor.
+  }
+  ◊lityerses{
+Say, stranger, thanks. That slave we killed last year
+didn't talk like that, I can tell you! He was an old man, on
+his last legs, but we had to tie him up with withies anyway.
+Even so, he thrashed about trying to dodge the sickles for
+so long that he'd lost all his blood before he fell.
+  }
+  ◊heracles{
+That won't happen this time, Lityerses. But when
+you've killed the poor man, what do you do with him?
+  }
+  ◊lityerses{
+His flesh is hacked off while he's still alive. And then
+we scatter the pieces over the fields to waken the Mother
+and touch her into life. We wrap the head in sheaves and
+flowers, then we sing and dance and throw it into the
+Meander. She's cloud and running water too.
+  }
+  ◊heracles{
+You're a wise man, Lityerses, and I can see why you're
+king of the fields at Celaenae. But how about Pessinus? Are
+there killings there too?
+  }
+  ◊lityerses{
+They kill people everywhere, stranger. Our wheat can
+only grow from earth which has been touched to life. The
+earth is a living thing. She too must be fed.
+  }
+  ◊heracles{
+But why do you always kill strangers? Surely the earth,
+the cave from which you came, would sooner take back its
+own, wouldn't it? Don't you like the bread and wine from
+your own fields best?
+  }
+  ◊lityerses{
+You know, I like you, stranger. You might almost be
+one of us. But ask yourself why we endure the sweat and
+the toil of working these fields. To live—right? Well then,
+◊; page-number 85
+it's only fair that we stay alive and enjoy the harvest, and
+let the other people die. But I suppose you wouldn't know.
+You're no peasant.
+  }
+  ◊heracles{
+But wouldn't it be even better to find a way of putting
+an end to the killings and letting everyone, strangers and
+your own people alike, enjoy the harvest? Wouldn't it be
+better to have one last killing which of itself would make
+the earth and the clouds and the strength of the sun forever
+fruitful?
+  }
+  ◊lityerses{
+You're no countryman, anyone can see that. Why, you
+don't even know that every solstice the earth begins anew,
+and the year in its course wears everything away.
+  }
+  ◊heracles{
+But there must be someone who's been nourished,
+from generation to generation, by the sap of every season,
+someone so rich and strong and full-blooded that he could
+at one stroke renew the earth forever?
+  }
+  ◊lityerses{
+You make me laugh, stranger. You know, you might
+almost be talking about me. My family's the only one in
+Celaenae that's been here for generations. I'm the king here,
+and you know it.
+  }
+  ◊heracles{
+Yes, you're the man I had in mind, Lityerses. So let's
+start reaping. I came from Greece for this deed of blood.
+We'll reap, Lityerses, and tonight you'll go down to the
+cave.
+  }
+  ◊lityerses{You want to kill me? On my own field?}
+  ◊heracles{I want to fight you. To the death.}
+  ◊lityerses{You sure you can handle a sickle, stranger?}
+  ◊heracles{Don't worry, Lityerses. Let's get going.}
+  ◊lityerses{You know, stranger, you look strong . . .}
+  ◊heracles{Let's get going, Lityerses.}
+◊; page-number 86
+}
