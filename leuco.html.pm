@@ -2913,3 +2913,257 @@ cave.
   ◊heracles{Let's get going, Lityerses.}
 ◊; page-number 86
 }
+
+◊dialogue[#:id "dialogue-the-bonfires"]{
+  ◊dialogue-intro-title{THE BONFIRES}
+  ◊dialogue-intro{
+Even the Greeks practiced human sacrifice. Every
+peasant culture has done so, and all cultures were at
+one time peasant cultures.
+  }
+◊; page-number 88
+
+  ◊dialogue-title{Two Shepherds, Father and Son}
+
+  ◊son{The whole mountain's blazing!}
+  ◊father{
+Oh, it's nothing much, son. Over on the Cithaeron, now,
+that'll be something to see. Or pastures are too high this
+year. Have you rounded up the animals?
+  }
+  ◊son{Our bonfire's so small nobody can see it.}
+  ◊father{We've kindled it, that's what counts.}
+  ◊son{Look, there are more fires than stars!}
+  ◊father{Throw on the coals, son.}
+  ◊son{Here goes.}
+  ◊father{
+◊em{O Zeus, accept this offering of milk and honey. We're
+just poor shepherds, lord, and the sheep aren't ours to give.
+And may this blazing fire drive away our troubles. And as
+this smoke coils up over this fire, so may the rain clouds
+gather over our fields.}
+  }
+  ◊following{
+Quick, son, sprinkle on the water. They'll be killing a calf
+on one of the big farms tonight. That'll bring rain for us.
+If it rains in one place, it rains everywhere.
+  }
+  ◊son{Are those fires down there, dad, or stars?}
+  ◊father{
+Hey, look what you're doing. You've got to sprinkle over
+this way, towards the sea. That's where the rain comes
+from.
+  }
+  ◊son{
+If it rains in one place, does it rain everywhere? Even at
+Thespiae? Even at Thebes? They don't have any sea at
+Thebes.
+  }
+  ◊father{
+But they've got pastures, stupid. That's why they have
+wells. They've lit bonfires tonight too.
+  }
+◊; page-number 89
+  ◊son{
+And what about after Thespiae? And after that? Where the
+people live who walk all night and all day and never get out
+of the mountains? I've heard that it doesn't ever rain up
+there.
+  }
+  ◊father{There are fires burning everywhere tonight.}
+  ◊son{Why isn't it raining now? They've kindled the fires.}
+  ◊father{
+Because it's a holiday, son. Rain would put the bonfires
+out. Wouldn't do anyone a drop of good. It'll rain tomorrow.
+  }
+  ◊son{
+And it's never rained on the bonfires while they were still
+burning?
+  }
+  ◊father{
+Who knows, son. They were lighting these bonfires long
+before you or I were born. Same night every year. Come
+to think of it, there ◊em{was} one time when it did rain on the
+bonfire. Or so they say.
+  }
+  ◊son{It really did?}
+  ◊father{
+Yes, but it was a long time ago. People were better than
+they are now, and even kings' sons were shepherds in those
+days. This whole country looked like a threshing floor then,
+threshed neat and clean, and it did what king Athamas told
+it to do. People worked and lived their lives, they didn't
+have to hide the young goats from the landowners. One
+year, they say, the August dog days brought a spell of heat
+so bad that the fields and the wells dried up and the people
+were dying. They lit the bonfires, but it didn't do a bit of
+good. So Athamas took counsel. But he was an old man,
+and he'd married a young wife not so long back. She ordered
+him around, the way those young women do. And
+she kept telling him that this was a time for strong measures
+if he didn't want to lose credit. I suppose you want to know
+why they didn't pray and sprinkle water? Well, they did.
+Why didn't they sacrifice a calf and a bull, lots of bulls?
+Well, they did. And what happened? Nothing, that's what.
+  }
+  ◊following{
+So they had to sacrifice his sons. Not his sons by her.
+◊; page-number 90
+No sir. He didn't have any sons by her. No, these were two
+grown-up sons by his first wife—they worked out in the
+fields all day long. Well, Athamas, the crazy fool, decided
+to do it. Go get them, he said. But the kings' sons aren't so
+stupid, you know. So they took off. Then what? Well, as
+soon as some god heard what was happening, he sent the
+rain clouds down. And the minute the boys took off, those
+clouds disappeared. The next thing was that witch of a wife
+of his was saying, "You see! I told you so. The clouds were
+piling up already. We've got to kill some one." Well, she
+kept on like this till the people decided to take Athamas
+and burn him alive. They made the bonfire and lit it. They
+brought in Athamas, tied up and covered with flowers like
+a sacred ox. But suddenly, just when they were about to
+throw him on to the fire, the sky turned black. Thunder and
+lightning, and then the rain came flooding down. The harvest
+was saved. The rain put out the fire, and what do you
+think that old fool Athamas does? He forgives them all,
+even his wife. Look out for women, son. It's easier to tell a
+snake from his missus than know what's going on int a
+woman's mind.
+  }
+  ◊son{But what happened to the king's sons?}
+  ◊father{
+Never heard of again. But two young fellows like that
+will always make out.
+  }
+  ◊son{
+But if men were good in those days, dad, why did they
+want to burn the two boys?
+  }
+  ◊father{
+Because it was August, silly. You don't know what the
+real dog days are like. But I know them, and your grandfather
+knew them. Compared to them, winter's nothing.
+Winter's rough, sure, but you always know it's doing the
+crops good. Not the dog days. The dog days mean drought.
+Everything dies, and thirst and hunger do things to a man.
+A man who hasn't eaten wants to pick a fight. And don't
+forget that in those days people got along with each other.
+◊; page-number 91
+Everyone had his bit of land, they were decent, prosperous
+people. Then suddenly the wells go dry, the wheat burns up,
+people go hungry and thirsty. Before long they turn into
+wild animals.
+  }
+  ◊son{Then they must have been bad.}
+  ◊father{
+No worse than we are. The dog days are our masters
+now, and there's no rain can set us free from ◊em{them.}
+  }
+  ◊son{
+I don't like these bonfires. Not now. What good do they
+do the gods? Is it true there were people burnt on them
+once?
+  }
+  ◊father{
+Oh, not just anyone. They burnt crippled children,
+loafers, idiots. Useless people, or people who stole wheat.
+And that was enough for the gods. Good or bad, it always
+rained.
+  }
+  ◊son{
+What did the gods like about it? I mean, if it rained anyway.
+And what about Athamas? Didn't the gods put out
+the fire?
+  }
+  ◊father{
+Look, the gods are our masters. They're like the landowners—they're
+our masters too. You think they'd let one
+of their kind burn? Not them. They help each other
+out. But with us, it's different. Nobody helps us. Rain or
+shine, what do the gods care? We're lighting the bonfires
+tonight. Brings on the rain, they say. But do the landowners
+care? Ever seen one of them come down to the fields?
+  }
+  ◊son{No, never.}
+  ◊father{
+Figure it out for yourself. Let's suppose a bonfire can
+make it rain, and burning some useless loafer can save the
+harvest. Well, how many owners' houses would you have to
+burn, how many owners would you have to kill in the streets
+to bring some justice back to the world and make us our
+own masters again?
+  }
+  ◊son{What about the gods?}
+  ◊father{What have the gods got to do with it?}
+  ◊son{
+Didn't you say the gods and the owners are in it together?
+They're masters.
+  }
+◊; page-number 92
+  ◊father{
+Yes, they're the masters. Well, we'll give them their goat.
+What else can we do? We'll burn the useless loafers, the
+thieves who steal our wheat! We'll make a real bonfire.
+  }
+  ◊son{I wish it was morning, dad. These gods frighten me.}
+  ◊father{
+You're right, son. That's why we have to try and get the
+gods on our side. At your age it would be a bad thing to
+forget what the gods are like.
+  }
+  ◊son{
+I want to forget. The gods aren't just. Why do they have to
+burn people alive?
+  }
+  ◊father{
+They wouldn't be gods if they didn't. They don't have
+to work—how else do you expect them to spend their time?
+In the days before there were landowners and there was
+still some justice in the world, someone had to be killed
+every once in a while to keep the gods happy. That's the
+way they are. But nowadays they don't need that sort of
+thing any more. There's so many of us being miserable that
+the gods are happy just sitting there, watching us. That
+satisfies ◊em{them.}
+  }
+  ◊son{So ◊em{they're} the useless loafers!}
+  ◊father{You're right, son. Useless loafers is just what they are.}
+  ◊son{
+What about the crippled children? What did they do when
+they were burned? Did they scream?
+  }
+  ◊father{
+It's no the screaming that matters, son, it's who does the
+screaming. Crippled people or criminals—they're both useless.
+But when a man with children of his own sees a lot
+of loafers getting fat at his expense, that's what hurts. That's
+the injustice.
+  }
+  ◊son{
+It makes me shiver when I think of the bonfires they had
+in the old days. Look down there. Bonfires burning everywhere.
+  }
+  ◊father{
+It wasn't the way you think, son. There wasn't a boy
+burned on every bonfire. They did it then as we do now
+with the goats. Figure it out for yourself. If one goat makes
+it rain, there's rain enough for everybody. One man was
+enough for a whole mountainside, a whole village.
+  }
+◊; page-number 93
+  ◊son{
+I don't want to think about it. I won't. If that's the way
+we treated each other, then the landowners have every
+right to eat us alive. The gods are right to watch us suffer.
+We're evil, we're all evil.
+  }
+  ◊father{
+Wet down the branches, son, and sprinkle on the water.
+You're too young to understand. Who are you to be talking
+about what's right and wrong? No, stupid, over there,
+towards the sea.
+  }
+  ◊following{◊em{O Zeus, accept this offering . . .}}
+◊; page-number 94
+}

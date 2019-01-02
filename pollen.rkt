@@ -28,10 +28,9 @@
   (lambda rest
     (apply speaks interlocutor rest)))
 
-; for Endymion
 (define (following . rest)
   `(p ((class "following")) ,@rest))
-;
+
 ;
 ; interlocutors
 
@@ -60,3 +59,5 @@
 (define hunter1 (make-interlocutor "1st Hunter"))
 (define hunter2 (make-interlocutor "2nd Hunter"))
 (define lityerses (make-interlocutor "Lityerses"))
+(define son (make-interlocutor "Son"))
+(define father (make-interlocutor "Father"))
