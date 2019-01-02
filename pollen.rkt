@@ -55,3 +55,5 @@
 (define beggar (make-interlocutor "Beggar"))
 (define heracles (make-interlocutor "Heracles"))
 (define prometheus (make-interlocutor "Prometheus"))
+(define orpheus (make-interlocutor "Orpheus"))
+(define bacchante (make-interlocutor "Bacchante"))

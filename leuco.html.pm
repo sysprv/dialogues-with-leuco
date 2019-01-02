@@ -2305,3 +2305,238 @@ matter.
   }
 ◊; page-number 68
 }
+
+◊dialogue[#:id "dialogue-the-inconsolable"]{
+  ◊dialogue-intro-title{THE INCONSOLABLE}
+  ◊dialogue-intro{
+Sex, drunkenness, and blood always evoked the world
+below and, to a select few, gave promise of a blessèd
+life among the dead. But the Thracian Orpheus—
+singer, voyager to Hades, and victim, torn to pieces like
+Dionysus himself—promised even more.
+  }
+◊; page-number 70
+
+  ◊dialogue-title{Orpheus, Bacchante}
+
+  ◊orpheus{
+This is how it happened. We were climbing the path
+through the Forest of Shadows. Cocytus, the Styx, Charon's
+skiff, and the screams of the damned were far behind us.
+Reflected on the leaves I could just make out the first
+glimmer of the sky. But I was still down there in Hades,
+and that chill was still with me. I was thinking that someday
+I would have to go back down, that what has been will be
+again. I was thinking of my life with her, how it had been
+before; someday it would have to finish again. What has
+been, will be. I was thinking of that cold, of that emptiness
+I had passed through and which she was carrying with her
+in her bones, in her marrow, her blood. Was it worth the
+anguish of coming back to life? I was thinking of this, when
+I saw the first glimmer of the light. Then I said, "Let's
+finish it once and for all." And I turned around. Eurydice
+disappeared like a snuffed candle. All I heard was a faint
+squeal, like a mouse skittering to its hole.
+  }
+  ◊bacchante{
+A strange story, Orpheus. I can barely believe it.
+People here used to say that you were loved by the gods
+and the Muses. And like me, many Bacchantes follow you
+because they know you're in love and unhappy. You were
+so much in love that you alone among men have gone
+through the gates of nothingness. No, I don't believe you,
+Orpheus. It isn't your fault if destiny misled you.
+  }
+  ◊orpheus{
+Destiny has nothing to do with it. My destiny does not
+mislead. It's absurd that after such a journey, after looking
+◊; page-number 71
+nothingness in the face, I should have turned around on a
+sudden impulse, or by mistake.
+  }
+  ◊bacchante{Here they say you did it for love.}
+  ◊orpheus{Nobody loves the dead.}
+  ◊bacchante{
+And yet you mourned her, wandering the mountains
+and hills—searching for her, calling her. You went down
+into Hades. Wasn't that love?
+  }
+  ◊orpheus{
+You claim to see things like a man. Then you must
+know that there's nothing a man can do with death. The
+Eurydice I mourned was a season of life. I was looking down
+there for something very different from my love. I was looking
+for a past which Eurydice knows nothing of. I understood
+this among the dead while I was singing my song. I
+saw the shades stiffen and stare vacantly, heard the lamentation
+stop. Persephone hid her face, and Hades himself, the
+inscrutable lord of the shadows, leaned forward like a mortal
+man and listened. I understood that the dead are nothing.
+  }
+  ◊bacchante{
+Grief has distracted your mind, Orpheus. Who
+wouldn't want his past again? Eurydice was almost reborn.
+  }
+  ◊orpheus{
+Reborn for what? Only to die all over again, Bacchante.
+To carry in her blood the horror of Hades and to tremble
+at my side night and day. You don't know what nothingness
+is.
+  }
+  ◊bacchante{
+Through your singing you had recovered the past.
+But instead you rejected it and destroyed it. No, I can't
+believe it.
+  }
+  ◊orpheus{
+Listen, Bacchante. Only in my song was the past real.
+No sooner had I started on the way back than that past
+vanished away, became memory, tasted of death. When I
+saw the first flicker of light, I jumped for joy like a child,
+barely believing it. It was joy for myself, selfish joy, joy for
+the world of the living. The season I had been searching
+for was there in that glimmer of light. The woman following
+me no longer mattered. My past was that first glimmer of light,
+it was the song, and the morning. And I turned around.
+  }
+◊; page-number 72
+  ◊bacchante{
+I can't believe it, Orpheus. How could you have endured
+such a loss? Those who saw your face when you came
+back were frightened. For you Eurydice was a season of life.
+  }
+  ◊orpheus{
+Nonsense. When Eurydice died, she became something
+else. The Orpheus who went down into Hades was no longer
+either husband or widower. The grief I felt at the same time was
+like the grief of a child—you smile when you remember it.
+That season is over. When I wept, I was no longer looking
+for her, but for myself. For a fate, if you like. I was listening
+to myself.
+  }
+  ◊bacchante{
+Many of us follow you because we believe in your
+sorrow. Have you misled us then?
+  }
+  ◊orpheus{
+Oh Bacchante, Bacchante, why won't you understand?
+My destiny does not mislead. I was looking for myself. What
+else can one look for?
+  }
+  ◊bacchante{
+We're simple people, Orpheus. Here we believe in
+love and death; we laugh and feel sorrow with others. Our
+most joyful festivals are those in which blood flows. The
+women of Thrace are not afraid of things like this.
+  }
+  ◊orpheus{
+If life is all you know, everything is beautiful. But once
+you've been among the dead . . . Believe me, you can't say
+that.
+  }
+  ◊bacchante{
+You weren't like this once. You didn't use to talk
+about nothingness. It's the encounter with death that makes
+us like gods. It was you yourself who taught us that ecstasy
+confounds life and death and makes us more than human
+. . . You've seen the festival.
+  }
+  ◊orpheus{
+◊; blood and these together on the same line to
+◊; not insert whitespace before the em dash
+It isn't the blood that matters, girl. Ecstasy and blood—these
+things aren't enough. A man's fate is not so easily
+defined. You don't know the answer, Bacchante.
+  }
+  ◊bacchante{You'd be nothing without us, Orpheus.}
+  ◊orpheus{
+I've never denied that. What does it matter? I went
+down to Hades without you . . .
+  }
+  ◊bacchante{You went there to look for us—}
+◊; page-number 73
+  ◊orpheus{
+But I didn't find you there. I wanted something very
+different. Something I found when I returned to the light.
+  }
+  ◊bacchante{
+There was a time when you sang of Eurydice on the
+mountains—
+  }
+  ◊orpheus{
+Time passes, Bacchante. The mountains are still there,
+Eurydice isn't. These things have a name, and their name
+is man. Invoking the gods of your rite is no help here.
+  }
+  ◊bacchante{You once invoked them too.}
+  ◊orpheus{
+In life a man does everything. Believes everything. He
+even believes that his own blood runs in the veins of others.
+Or that what has been can be undone. He believes his ecstasy
+can shatter fate. I know all this, and it is nothing.
+  }
+  ◊bacchante{
+You don't know what to make of death, Orpheus,
+and yet death is your only thought. There was a time when
+our rite made us immortal.
+  }
+  ◊orpheus{
+Go on then, enjoy your rite. Only your ignorance makes
+it possible. Everyone must descend at least once into his
+own private hell. The ritual of my destiny ended in Hades,
+when I sang, as only I have the right to sing, of death and
+life.
+  }
+  ◊bacchante{
+You say your destiny doesn't mislead. What do you
+mean?
+  }
+  ◊orpheus{
+I mean that it's inside you, the fact of your being,
+deeper than blood, beyond all ecstasy. No god can touch it.
+  }
+  ◊bacchante{
+Perhaps, Orpheus. But we aren't looking for Eurydice.
+So why tell us that we all must go down to hell?
+  }
+  ◊orpheus{
+Every time you invoke a god, you meet death. And you
+go down to Hades to bring something back, to violate a
+destiny. You don't defeat the darkness, and you lose the
+light. You're torn apart, like a man possessed.
+  }
+  ◊bacchante{
+You're evil, Orpheus . . . You mean you lost the
+light?
+  }
+  ◊orpheus{
+I was almost lost, and then I sang. By comprehension
+I found myself.
+  }
+◊; page-number 74
+  ◊bacchante{
+If that's the price, is it worth it? There's a simpler
+way, the way of ignorance and joy. The god is like a lord,
+midway between life and death. You yield to his ecstasy,
+you're torn to pieces and you tear others to pieces. And
+we're reborn, Orpheus, every time, and we waken—like you
+when you returned to the light.
+  }
+  ◊orpheus{
+Don't talk of daylight, of waking. Few men know.
+Women like you don't know what it is.
+  }
+  ◊bacchante{
+Maybe this is why the women of Thrace follow you.
+For them you're like the god. You came down from the
+mountains. You sing songs of love and death . . .
+  }
+  ◊orpheus{
+Fool. But at least I can talk to you. Perhaps someday
+you'll be like a man.
+  }
+  ◊bacchante{So long as the women of Thrace—}
+  ◊orpheus{Yes?}
+  ◊bacchante{Don't tear the god to pieces.}
+◊; page-number 75
+}
