@@ -69,3 +69,5 @@
 (define leuco (make-interlocutor "Leucothea"))
 (define lelegus (make-interlocutor "Lelegus"))
 (define theseus (make-interlocutor "Theseus"))
+(define castor (make-interlocutor "Castor"))
+(define pollux (make-interlocutor "Polydeuces"))

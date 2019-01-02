@@ -3928,3 +3928,236 @@ kills. But we've come from a long way away, you forget that.
   ◊theseus{We haven't reached home yet, Lelegus.}
 ◊; page-number 120
 }
+
+◊dialogue[#:id "dialogue-in-the-family"]{
+  ◊dialogue-intro-title{IN THE FAMILY}
+  ◊dialogue-intro{
+The tragic events which afflicted the house of
+Atreus are well known. Here I need only recall certain
+family relationships. Tantalus was the father of Pelops;
+Pelops of Thyestes and Atreus; Atreus was the father
+of Menelaus and Agamemnon, and Agamemnon of
+Orestes, who killed his mother. It has long been my
+conviction that the Arcadian sea goddess Artemis enjoyed
+a special cult in this family. Think for instance of
+the proposed sacrifice of Iphigenia by her father.
+  }
+◊; page-number 122
+
+  ◊dialogue-title{Castor, Polydeuces}
+
+  ◊castor{
+Remember, Poly, how we got her back after she eloped
+with Theseus?
+  }
+  ◊pollux{That was a great night!}
+  ◊castor{
+She was just a child then. I remember thinking as we
+rode through the night how terrified she must be, galloping
+through the forest on Theseus' horse, with us galloping after
+her. We were naive.
+  }
+  ◊pollux{This time she's taken better precautions.}
+  ◊castor{
+Yes, this time she's got the whole Trojan army to fight for
+her. She's put the sea between us.
+  }
+  ◊pollux{Then we'll cross the sea.}
+  ◊castor{
+I've had enough. It's up to the Atreidae now. It's no
+concern of ours.
+  }
+  ◊pollux{We'll cross the sea!}
+  ◊castor{
+Believe me, Poly, it's not worth it. Don't be naive. Let
+the Atreidae take care of her—she's their worry now.
+  }
+  ◊pollux{But she's our sister!}
+  ◊castor{
+We should have known she'd never stay put at Sparta.
+She's not the sort of girl you can keep shut up in a palace.
+  }
+  ◊pollux{What else does she want, Castor?}
+  ◊castor{
+She doesn't want anything, that's just it. She's the same
+child she always was! She's incapable of taking a home or a
+husband seriously. But there's no use chasing after her. She'll
+come back some day, you'll see.
+  }
+  ◊pollux{
+Heaven knows what the Atreidae will do to avenge
+this affront to their family. They're not people to swallow an
+◊; page-number 123
+insult. Where their honor's at stake, they're as touchy as
+the gods.
+  }
+  ◊castor{
+Leave the gods out of it. These are people who have
+eaten each other in the past. Beginning with Tantalus, who
+served up his own son at table . . .
+  }
+  ◊pollux{You really believe those stories?}
+  ◊castor{
+That's what you'd expect from ◊em{them.} People who live
+in castles at Mycenae and Sparta, who wear golden masks;
+rulers of the sea who squint out at it through arrow-slits—they're
+capable of anything. Don't you sometimes wonder,
+Polydeuces, why their women—and I include Helen—sooner
+or later turn wild and violent, why they murder and drive
+others to murder? There's not one man of the house of
+Pelops, not one, whose wife has closed his eyes at death. If
+that's what being touchy about their honor means . . .
+  }
+  ◊pollux{
+But our little sister Clytemnestra—she's not like
+those women.
+  }
+  ◊castor{Don't count your chickens, Poly.}
+  ◊pollux{
+If you knew all this, why did you let the girls marry
+into that family?
+  }
+  ◊castor{
+I didn't let them. These things happen. Everyone gets
+the wife he deserves.
+  }
+  ◊pollux{
+What do you mean by that? That their women are
+as bad as they are? Are you criticizing our sister?
+  }
+  ◊castor{
+Come off it, Poly. Nobody's listening. Don't you understand
+that the men of this family always marry the same
+woman? We're Helen's brothers, maybe we don't really
+know her. It took Theseus to give us an idea. Then there
+was Menelaus. Now it's Paris, a foreigner. I ask you, is all
+this just coincidence? Does she always have to fall for men
+like that? No, it's obvious that they were made for each
+other.
+  }
+  ◊pollux{You're crazy!}
+  ◊castor{
+Nothing crazy about it! If the Tantalids lost their heads—literally,
+◊; page-number 124
+in some cases—that's their business. A race of sea
+kings who live cooped up in those mountain castles of
+theirs . . . There may have been a time when they saw the
+world—Tantalus certainly did. But after him they shut
+themselves up with their women and their piles of gold—suspicious
+and discontented, incapable of energy or action.
+The sea fed them, fed them well: fat, gross, gluttonous men.
+A family of feasters! That's why they wanted strong, half
+savage women to shut up in their castles with them. They've
+always found what they wanted.
+  }
+  ◊pollux{
+But I don't see what Helen has to do with all this. Or
+why you say she was made for men like Theseus and Paris.
+  }
+  ◊castor{
+For them or others, Poly, the names don't matter. It's the
+house of Atreus we're talking about. And if the women of
+that house, from Hippodameia on, were as like one another
+as a herd of wild mares, it wasn't their fault. You could almost
+say the story of that family is the same man looking
+for the same woman: and finding her, over and over. Every
+one of their women, from Hippodameia down to Helen and
+Clytemnestra, has had to fight and defend herself. This is
+obviously what the Tantalids like in their women. They
+don't know it, but it's what they want. They're schemers,
+men of blood. Fat men, bloated with power. They need a
+woman with a whip.
+  }
+  ◊pollux{
+Who cares what Hippodameia did? All right, so she
+whipped her horses in that chariot race. I know the story too.
+What's that got to do with our sister? Helen has the hand
+of a child, a hand that's never held a whip. How can you
+compare them?
+  }
+  ◊castor{
+We don't know much about women, do we, Poly? We
+all grew up together, and to us she's still a little girl playing
+ball. But a woman doesn't have to whip horses to feel her
+blood run wild. It's enough to please the fancy of a man like
+Menelaus.
+  }
+◊; page-number 125
+  ◊pollux{Anyway, what was so bad about Hippodameia?}
+  ◊castor{
+She treated men as though they were horses. That's what.
+She got her charioteer to murder her father. Then she had
+Pelops murder the charioteer. She gave birth to Atreus and
+Thyestes, both murderers. She made blood flow in torrents.
+◊em{She} didn't run away, not her.
+  }
+  ◊pollux{But didn't you say that all this was Pelops' fault?}
+  ◊castor{
+I said that Pelops and all the men of his family preferred
+women like that. That they deserved the women they got.
+  }
+  ◊pollux{
+But Helen doesn't murder. She doesn't make men
+murder.
+  }
+  ◊castor{
+Are you sure, Poly? Remember when we got her back
+from Theseus—three horses galloping through the forest? If
+we weren't all killed then, it was because we were boys and
+to us it was almost a game. And wasn't it you who asked just
+now how much blood the Atreidae will shed?
+  }
+  ◊pollux{But she doesn't drive anyone to murder.}
+  ◊castor{
+Do you think Hippodameia drove the charioteer? She
+simply smiled and said her father wanted her. She didn't
+even say she disliked the idea . . . A look can kill. Then
+when Myrtilus saw he'd been tricked by Pelops and he
+wanted to shout out the truth, all Hippodameia had to say
+to her husband was: "Keep your eyes on that man—he
+knows about Oenomaus." The Tantalids have a liking for
+that kind of talk.
+  }
+  ◊pollux{Do all their women kill, then?}
+  ◊castor{
+No, not all. Some bow their heads and resign themselves.
+But sooner or later the castle unleashes the beast in them.
+The Tantalids kill and are killed. They have to whip or be
+whipped.
+  }
+  ◊pollux{Helen just ran away.}
+  ◊castor{You think so, Poly? Remember Atreus' wife, Aerope?}
+  ◊pollux{She was drowned.}
+  ◊castor{
+But not before she drove her lover to steal the golden
+◊; page-number 126
+ram. There's a woman who was driven wild by the castle.
+A woman who could have spent her days in idle lechery,
+growing fat beside her lover. But her lover was Thyestes, her
+husband was Atreus. They had chosen her and they left her
+no way out. They unleashed the beast in her too, like the
+other women. The Tantalids have a craving for violence.
+  }
+  ◊pollux{
+Our sister too? You mean they'll put her to death for
+adultery? You mean she's a whore?
+  }
+  ◊castor{
+If only she were, Poly, if only she were. But being a whore
+isn't a matter of choice. Not when you're married to one of
+the Atreidae. Don't you see that for them sexual pleasure
+means taking a woman by force, beating her till she bleeds?
+They wouldn't know what to do with a tame, submissive
+woman. They need a woman with cold, killer's eyes, eyes
+without shame. Eyes like arrow-slits. Like Hippodameia's.
+  }
+  ◊pollux{I've seen that look in Helen's eyes.}
+  ◊castor{
+They need the cruelty of a virgin. The virgin who moves
+on the mountains. ◊em{She,} she is the woman they marry. For
+her they serve up their sons, for her they murder their daughters . . .
+  }
+  ◊pollux{Those days are gone forever.}
+  ◊castor{They're just beginning, Polydeuces.}
+◊; page-number 127
+}
