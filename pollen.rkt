@@ -61,3 +61,5 @@
 (define lityerses (make-interlocutor "Lityerses"))
 (define son (make-interlocutor "Son"))
 (define father (make-interlocutor "Father"))
+(define odysseus (make-interlocutor "Odysseus"))
+(define calypso (make-interlocutor "Calypso"))

@@ -3167,3 +3167,172 @@ towards the sea.
   ◊following{◊em{O Zeus, accept this offering . . .}}
 ◊; page-number 94
 }
+
+◊dialogue[#:id "dialogue-the-island"]{
+  ◊dialogue-intro-title{THE ISLAND}
+  ◊dialogue-intro{
+Everybody knows that when Odysseus was shipwrecked
+on his way home from Troy, he spent nine years
+on the island of Ogygia, where his only companion
+was Calypso, an ancient goddess.
+  }
+◊; page-number 96
+
+  ◊dialogue-title{Odysseus, Calypso}
+
+  ◊calypso{
+Odysseus, our situations are much the same. You want
+to live on an island, and so do I. You've seen and suffered
+everything. Someday perhaps I'll tell you what I've suffered.
+We're both tired of a burdensome duty. Why go on?
+What do you care if this island isn't the one you were looking
+for? Nothing ever happens here. A bit of land and a
+horizon. Here you can live forever.
+  }
+  ◊odysseus{An immortal life.}
+  ◊calypso{
+Immortality means accepting the moment, no longer
+recognizing a tomorrow. But if you like the word, use it.
+Have you really reached that point?
+  }
+  ◊odysseus{
+I used to think the man who wasn't afraid of death
+was immortal.
+  }
+  ◊calypso{
+No, the immortal is the man who doesn't hope to live.
+The man you almost are. You too have suffered a great deal.
+But why this eagerness to return home? You're still restless.
+Why do you wander off by yourself among the rocks and
+talk to the sea?
+  }
+  ◊odysseus{Would it upset you if I left tomorrow?}
+  ◊calypso{
+You want to know too much, dear. Let's say that I'm
+immortal. But if you don't renounce your memories and
+your dreams, if you don't put your longing aside and accept
+the horizon, you'll never escape that fate you know so well.
+  }
+  ◊odysseus{
+Always the same advice. Accept the horizon. And
+what will it get me?
+  }
+  ◊calypso{
+Peace and quiet, Odysseus. Have you ever wondered
+◊; page-number 97
+why is it that even we gods want sleep? Have you ever asked
+yourself where the old gods go, the gods whom the world
+has forgotten? Why it is that they sink deep into time, like
+stones in the ground, though they live forever? Why I am,
+who Calypso is?
+  }
+  ◊odysseus{I asked you if you were happy.}
+  ◊calypso{
+It isn't that, Odysseus. The air, even the air of this
+desert island, which quivers now with the dull roar of the
+sea and the cries of the birds, is too empty. In this emptiness
+there is nothing to be regretted, nothing at all. But
+haven't you felt it too—on certain days, a silence, a pause,
+like the trace of an old tension and presence, long since
+vanished?
+  }
+  ◊odysseus{So you talk to the rocks too?}
+  ◊calypso{
+It's a silence, I tell you. Something remote, almost dead.
+Something which has been and which will never be again,
+from the old world of the gods when anything I did was
+destiny. I had terrible names, Odysseus. The earth and sea
+obeyed me. Then I grew tired. Time passed. I lost the will
+to move. A few of us resisted the new gods; I let my names
+sink deep into time. Everything changed and everything
+remained the same; it wasn't worth the trouble to contest
+destiny with the new gods. From that time on I knew my
+horizon and why the Old Ones hadn't fought at our side.
+  }
+  ◊odysseus{But weren't you immortal?}
+  ◊calypso{
+Was and am, Odysseus. I have no hope of dying. And
+no hope of living either. I accept the moment. You mortals
+accept something like it, old age and regret. Why won't
+you bow your head as I have, here on this island?
+  }
+  ◊odysseus{
+I would, if I thought you were resigned. Once you
+were mistress of all things. But now you need me, a mortal,
+to help you endure,◊; a comma?
+  }
+  ◊calypso{
+The favor is mutual, Odysseus. The only real silences
+are shared.
+  }
+◊; page-number 98
+  ◊odysseus{It isn't enough that I'm here with you now?}
+  ◊calypso{
+You aren't here with me, Odysseus. You don't accept
+the horizon of this island. There is something you regret.
+  }
+  ◊odysseus{
+What I regret is a living part of myself, just as your
+silence is a part of you. What has changed for you since that
+day when earth and sea obeyed you? You noticed that you
+were alone, that you were tired and had forgotten your
+names. Nothing has been taken from you. What you wanted
+to be, you are.
+  }
+  ◊calypso{
+What I am is almost nothing, dear. Almost mortal,
+almost a shade like you. It is all a long sleep which began
+who knows when. And you arrived in this sleep like a dream.
+I am afraid of the darn, of waking up. If you leave me, I
+will waken.
+  }
+  ◊odysseus{That's no way for a goddess to be talking.}
+  ◊calypso{
+I'm afraid of waking up, as you are afraid of death. Yes.
+Once I was dead, now I know it. The only thing left of me
+in this island was the voice of the wind and the sea. Oh,
+I didn't suffer, I was asleep. But when you came, you
+brought another island with you.
+  }
+  ◊odysseus{
+I've been looking too long for that island. You don't
+know what it's like, catching sight of land and then shutting
+your eyes in order to deceive yourself. I can't accept, can't
+be silent.
+  }
+  ◊calypso{
+But according to you men, Odysseus, no good ever came
+of recovering what you have lost. The past does not come
+back. Nothing resists the passing of time. You are a man
+who has looked at Ocean, the monsters, the Elysian Fields.
+Will you still be able to recognize human houses, your own
+home?
+  }
+  ◊odysseus{It was you who said I carried an island with me.}
+  ◊calypso{
+Oh, but changed, lost, a silence. The echo of the sea
+between two rocks, or a wisp of smoke. No one can share it
+with you. The houses will look like an old man's face. Your
+◊; page-number 99
+words will have a meaning which is not their own. You will
+be lonelier than you were at sea.
+  }
+  ◊odysseus{At least I'll know that's where my journey ends.}
+  ◊calypso{
+It's no good, Odysseus. If you don't stop now, here and
+now, you'll never stop again. What you do now, you will do
+forever. You must break with your fate once and for all;
+you must stop and let yourself sink deep into time . . .
+  }
+  ◊odysseus{I'm not immortal.}
+  ◊calypso{
+You will be, if you listen to me. What is eternal life if
+it's not accepting the moment that comes and the moment
+that goes? Drunkenness, pleasure, and death have no other
+aim. What else has your restless wandering been until now?
+  }
+  ◊odysseus{If I knew, I would have stopped. But you forget something.}
+  ◊calypso{What?}
+  ◊odysseus{The object of my quest is inside me. And so is yours.}
+◊; page-number 100
+}
