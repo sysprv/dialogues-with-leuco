@@ -67,3 +67,5 @@
 (define diana (make-interlocutor "Diana"))
 (define circe (make-interlocutor "Circe"))
 (define leuco (make-interlocutor "Leucothea"))
+(define lelegus (make-interlocutor "Lelegus"))
+(define theseus (make-interlocutor "Theseus"))

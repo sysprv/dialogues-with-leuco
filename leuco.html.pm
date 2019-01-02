@@ -3757,3 +3757,174 @@ even men smile. A smile of resignation.
   ◊circe{I know my destiny, Leucò. Never fear.}
 ◊; page-number 114
 }
+
+◊dialogue[#:id "dialogue-the-bull"]{
+  ◊dialogue-intro-title{THE BULL}
+  ◊dialogue-intro{
+Everyone knows that Theseus, on his way home from
+Crete, pretended to forget the black sails flying
+from his mast in token of mourning. The result was
+that his father, thinking him dead, threw himself
+into the sea and left his kingdom to Theseus. This is
+thoroughly Greek. And equally Greek is the distaste for
+any mystical cult of monsters.
+  }
+◊; page-number 116
+
+  ◊dialogue-title{Lelegus, Theseus}
+
+  ◊lelegus{That hill is home, sir.}
+  ◊theseus{
+When you're away from home, any hill seen at twilight
+looks like your own hills.
+  }
+  ◊lelegus{
+Yes, when we saw the sun sinking behind Mt. Ida, we
+drank a toast to our return.
+  }
+  ◊theseus{
+It's good to come home, Lelegus, and good to go away.
+Let's drink again. Let's drink to the past. Things we've lost
+and then recovered are good things.
+  }
+  ◊lelegus{
+While we were in Crete, you never spoke of home. You
+didn't think of all the things we'd left behind. You lived for
+the day. And I saw you leave Crete in the same way you left
+home, without once looking back. Are you thinking of the
+past this evening?
+  }
+  ◊theseus{
+We're alive, Lelegus; there's wine on the table, we're in
+home waters. A man thinks of a good many things on an
+evening like this. Tomorrow, perhaps, these things—the
+wine, the sea—won't give us the same peace.
+  }
+  ◊lelegus{
+What are you afraid of? Why don't you give the order
+to lower these black sails and break out the white? You
+promised your father you would.
+  }
+  ◊theseus{
+Time enough for that later, Lelegus. Time enough tomorrow.
+I like listening to these sails cracking in the wind.
+The same sails we carried when we set our course for Crete
+and danger, and not a man of you knew if he'd ever see
+home again.
+  }
+  ◊lelegus{But you knew, Theseus?}
+◊; page-number 117
+  ◊theseus{More or less. My axe never misses.}
+  ◊lelegus{You don't sound very sure.}
+  ◊theseus{
+It's not that. I'm thinking of the Cretans and how little
+I knew about them. I'm thinking of the great mountain and
+our role in the island. And those last days in the palace, with
+its endless courtyards one after the other, and the soldiers
+calling me the Bull-King—do you remember, Lelegus? You
+become what you kill in Crete. Later I began to think I
+understood them. Then they told us about the forests of Ida
+where the caves of the gods are, where the gods were born
+and where they died. Did you know, Lelegus? In the island
+the gods are killed, killed like animals. And the man who
+kills a god becomes a god himself. It was then that we tried
+to climb Mt. Ida.
+  }
+  ◊lelegus{A man feels brave when he's away from home.}
+  ◊theseus{
+And they told us unbelievable things. Their women—you
+remember those tall blonde women who spend the
+morning basking in the sun on the palace terraces and at
+night go up to the fields of Ida and lie with trees and beasts?
+Sometimes they stay there for good.
+  }
+  ◊lelegus{
+Only the women are brave there. You know that,
+Theseus.}
+  ◊theseus{
+I know one thing—I prefer women who stay at their
+looms.
+  }
+  ◊lelegus{
+But there aren't any looms in Crete. They buy foreign
+cloth. What do you expect them to do?
+  }
+  ◊theseus{
+Not sit around ripening in the sun, thinking about gods
+all the time. Not look for gods in the trunks of trees and in
+the sea. Not chase after bulls. At first I thought it was their
+fathers' fault—those decadent merchants who dress like
+women and spend their time watching boys vaulting over
+bulls. And that isn't all. It's as though they were another
+race, another breed. There was a time when there were only
+goddesses on Ida. Only a single goddess. She was the sun,
+◊; page-number 118
+she was the trees, she was the sea. And in her presence gods
+and men were trampled underfoot. When a woman runs
+away from a man to be with the sun and the beasts, it is not
+a man's fault. The blood is rotten. This is chaos.
+  }
+  ◊lelegus{Only you can say, sir. Is it Ariadne you're speaking of?}
+  ◊theseus{Yes, her too.}
+  ◊lelegus{
+You're the captain, sir, and it's not our place to criticize
+you. But to us she seemed a gentle, docile girl.
+  }
+  ◊theseus{
+Too docile, Lelegus. Like grass, like sea water. You
+looked at her and realized she wasn't even aware of you.
+Like the meadows of Ida—you move forward, your hand on
+your axe, and then suddenly the silence becomes suffocating
+and you have to stop. There's a sound of breathing, like a
+beast about to spring. Even the sun seems to be lying in
+wait, even the air . . . There's no fighting with the great
+Goddess. You can't fight the earth and its silences.
+  }
+  ◊lelegus{
+Yes, I have known these things too. But Ariadne—she
+let you out of the maze. She left home for you. She abandoned
+her gods to follow you. If her blood was rotten, as you
+say, she wouldn't have done that.
+  }
+  ◊theseus{But her gods didn't abandon her.}
+  ◊lelegus{Didn't you say they kill the gods on Ida?}
+  ◊theseus{
+And the killer is the new god. Oh Lelegus, you can kill
+gods and bulls in a cave, but the god you carry in your blood
+cannot be killed. Ariadne too was blood and breed of the
+island. I knew her as I knew the bull.
+  }
+  ◊lelegus{
+You were too cruel, Theseus. What do you suppose she said,
+poor girl, when she woke on Naxos?
+  }
+  ◊theseus{
+I know, I know. She must have howled, like a wild
+thing. But in vain. She'll have called on her country and her
+home and her gods. She still has the earth and the sun. We
+Greeks are nothing to her now.
+  }
+  ◊lelegus{She was beautiful, sir. She was made of earth and sun.}
+  ◊theseus{
+Whereas we are only men. I'm certain that a god will
+◊; page-number 119
+be sent to console her, some soft ambiguous god, a god of
+sorrows, one of those who have already savored death, and
+whom the Great Mother carries in her lap. What will he be,
+I wonder? A tree, a horse, a ram? Or perhaps a lake or a
+cloud? Anything can happen on that sea of hers.
+  }
+  ◊lelegus{
+Sir, forgive me for speaking plainly. But I don't understand
+you. Sometimes you speak like a boy playing a game.
+And sometimes you sound old and cruel, as though the
+island had left something of itself in you.
+  }
+  ◊theseus{
+Perhaps, you may be right. A man becomes the thing he
+kills. But we've come from a long way away, you forget that.
+  }
+  ◊lelegus{This good Greek wine should cheer you up, sir.}
+  ◊theseus{We haven't reached home yet, Lelegus.}
+◊; page-number 120
+}
