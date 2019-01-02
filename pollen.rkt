@@ -52,3 +52,4 @@
 (define meleager (make-interlocutor "Meleager"))
 (define achilles (make-interlocutor "Achilles"))
 (define patroclus (make-interlocutor "Patroclus"))
+(define beggar (make-interlocutor "Beggar"))

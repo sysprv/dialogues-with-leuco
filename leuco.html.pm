@@ -1919,3 +1919,194 @@ Hades, I shall say, "Drink again, Achilles."
   }
 ◊; page-number 57
 }
+
+◊dialogue[#:id "dialogue-the-road"]{
+  ◊dialogue-intro-title{THE ROAD}
+  ◊dialogue-intro{
+Everyone knows that after Oedipus had defeated the
+Sphinx and married Jocasta, he discovered who he
+was by questioning the shepherd who had saved him on
+Mt. Cithaeron. It was then that the prophecy that
+he was to kill his father and marry his mother was
+proved true. So Oedipus put out his eyes in horror
+and went away from Thebes and died a beggar.
+  }
+◊; page-number 58
+
+  ◊dialogue-title{Oedipus, a Beggar}
+  ◊oedipus{
+I am not a man like other men, friend. I have been
+condemned by fate. I grew up on the mountains. The sight
+of a mountain or a tower excited me—or a town seen in the
+distance as I walked along in the dust. And I didn't know I
+was searching for my fate. These days I no longer see anything,
+and the mountains tire me. Everything I do is destiny.
+Do you understand?
+  }
+  ◊beggar{
+I'm old, Oedipus, and I've seen my share of destinies.
+But don't you think other people—even slaves, hunchbacks,
+cripples—would have liked to be the king of Thebes like you?
+  }
+  ◊oedipus{
+But that's not it, I tell you. My troubles go further back,
+to the time before I was born, when I might still have been
+a man like other men. But no, there was that destiny of
+mine. I had to end up at Thebes. I had to kill that man.
+Father those children. What's the point of doing something
+that was as good as done before you were born?
+  }
+  ◊beggar{
+There is a point, Oedipus. It's our fate, that's point
+enough for us. Leave the rest to the gods.
+  }
+◊; page-number 59
+  ◊oedipus{
+There are no gods in my life. My fate is crueler than
+the gods. I was ignorant, as all men are ignorant. I wanted
+to do good, I wanted to find some good—what, I didn't
+know—something to console me in the nights, a hope of
+doing something more tomorrow. Even the wicked can hope
+for that. But suspicion followed me everywhere, vague
+rumors, threats. At first it was only an oracle, an ill-omened
+word, and I hoped to escape. I lived all those years like a
+fugitive, looking behind me. I dared believe only in my own
+thoughts, in the instants of truce, in the unforeseen awakenings.
+It was like an ambush. I was always on the alert. And
+I didn't escape. It was precisely at that instant that my fate
+fulfilled itself.
+  }
+  ◊beggar{
+But Oedipus, it's the same for us all. This is what a fate
+means. Not that you haven't suffered terribly.
+  }
+  ◊oedipus{
+No, you don't understand. That's not it. I'd rather my
+sufferings had been far worse. I'd rather have been the lowest
+man on earth if only I could have willed what I did. Not
+merely suffered it when I wanted to do something else.
+What is Oedipus, what are all men on earth if our most
+secret desire already stirs in the blood before we were born,
+if everything has been spoken already?
+  }
+  ◊beggar{
+Even you, Oedipus, have surely known a few days of
+happiness. I don't mean when you overcame the Sphinx
+and all Thebes acclaimed you or when your first son was
+born, or when you sat in state among your councillors. Of
+course, you can't let yourself think of things like that. All
+the same, you've lived the life we all live. You were young,
+you saw the world, you laughed and joked and talked—like
+the wise man you were. You've enjoyed things, waking and
+sleeping and walking the roads. You're blind now, yes. But
+you've seen better days, Oedipus.
+  }
+  ◊oedipus{
+I'd be a fool to deny it. And my life has been a long
+one. But I tell you again: I was born to rule over you, to be
+◊; page-number 60
+king. To a sick man even the finest fruit tastes foul. And
+my sickness is destiny—the fear, the perpetual horror of
+doing precisely the thing you're fated to do. I knew, I've
+always known, that I was like the squirrel who thinks he's
+climbing up his cage when he's only making the treadmill
+turn. And I ask myself: who is Oedipus?
+  }
+  ◊beggar{
+And you can answer: a great man. That's how people
+used to talk about you in the streets of Thebes. And there
+was a man who left home and traveled about Boeotia and
+saw the sea and went to Delphi to consult the oracle—all
+this to achieve the same fate as you, Oedipus. Your fate was
+so exceptional, you see, that it altered other people's. But
+what about the man who's always lived in the same village,
+done the same job every day, had the usual children, the
+usual festivals, and dies at the same age as his father of
+the usual trouble?
+  }
+  ◊oedipus{
+I know I'm not a man like other men. But I also know
+that the lowest slave, the village idiot, if he knew what his
+life was going to be like would loathe even the poor pleasure
+it affords. And those poor devils who wanted to achieve my
+fate—do you think they escaped their own?
+  }
+  ◊beggar{
+Much can happen in a man's life, Oedipus. I myself
+was one of those men. I left home and traveled all over
+Greece. I consulted the oracle at Delphi and reached the
+sea. What I wanted was an encounter, to make my fortune,
+to meet the Sphinx . . . I knew you were happy in your
+palace at Thebes. I had my health then. And even if I
+didn't meet the Sphinx and no oracle had spoken of me,
+I've enjoyed the life I made for myself. You were my oracle,
+you transformed my life, my fate. Beggar or prince, what's
+the difference? Both of us have lived. Leave the rest to
+the gods.
+  }
+  ◊oedipus{
+You'll never know if what you've done is what you
+really wanted. But certainly there's something human,
+◊; page-number 61
+something uniquely human, in walking the open road. Tortuous,
+lonely, it is an image of the sorrow that eats us away.
+A sorrow which is almost relief, like rain after heat: so still,
+so tranquil that it seems as though it welled up from things,
+from the depth of the heart. This fatigue, this peace, after
+all the uproar of our destiny—they're perhaps the only
+things that are truly our own.
+  }
+  ◊beggar{
+There was a time when we didn't exist, Oedipus. That
+means that even the deepest desires of our heart, our blood,
+our moments of awakening, have sprung from nothing. Even
+your desire to escape destiny is perhaps destiny. It isn't we
+who made our own blood. It's enough to feel it and live
+like free men, as the oracle bids us.
+  }
+  ◊oedipus{
+Yes, as long as a man is still searching. You had the
+luck never to reach your goal. But the day comes when you
+go back the Cithaeron, you forget everything and the mountain
+seems to bring back your childhood. You look at it day
+after day and maybe you climb it. Then someone tells you
+that you were born up there. And everything crumbles.
+  }
+  ◊beggar{
+I understand, Oedipus. But we all have a mountain
+which is part of our childhood. And however far away we
+wander we always find ourselves walking its paths again.
+There we were made what we are.
+  }
+  ◊oedipus{
+Talking is one thing, friend, suffering another. But
+certainly talking brings a kind of comfort to the heart. Like
+walking the roads day and night as we do, with no goal in
+sight. Not like the travels of young men seeking their fortune.
+And you, you have talked a lot and seen a lot: did
+you really want to be king?
+  }
+  ◊beggar{
+Who knows? What I do know is that I had to change,
+to become something else. You look for one thing and find
+something quite different. But talking helps us find ourselves.
+  }
+  ◊oedipus{You have a family? Anyone at all?}
+◊; page-number 62
+  ◊beggar{A family? I wouldn't be what I am.}
+  ◊oedipus{
+Strange. To understand our neighbor we have to get
+away from him. And it's only with strangers, in chance
+encounters, that we really speak the truth. That's the way
+I should have lived—I, Oedipus, along the roads of Phocis
+and the Isthmus, when I still had my eyes. And not climbing
+mountains, not listening to oracles . . .
+  }
+  ◊beggar{But there's one encounter you've forgotten, Oedipus.}
+  ◊oedipus{Which, friend?}
+  ◊beggar{
+The encounter at the crossroads. When you met the
+Sphinx.
+  }
+◊; page-number 63
+}
