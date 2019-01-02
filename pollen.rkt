@@ -77,3 +77,5 @@
 (define jason (make-interlocutor "Jason"))
 (define melita (make-interlocutor "Melita"))
 (define ariadne (make-interlocutor "Ariadne"))
+(define kratos (make-interlocutor "Kratos"))
+(define bia (make-interlocutor "Bia"))

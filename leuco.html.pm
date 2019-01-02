@@ -4615,3 +4615,169 @@ who waits for you is a god of the night. Don't be afraid.
   }
 ◊; page-number 138
 }
+
+◊dialogue[#:id "dialogue-mankind"]{
+  ◊dialogue-intro-title{MANKIND}
+  ◊dialogue-intro{
+Kratos and Bia—Power and Strength—lived, Hesiod
+tells us, "not far from Zeus." This was their reward
+for the help they gave him in his struggle against the
+Titans. Everyone knows about Zeus' flight and his
+many adventures.
+  }
+◊; page-number 140
+
+  ◊dialogue-title{Kratos, Bia}
+
+  ◊kratos{
+He's gone off to visit mankind. He has taken to road
+through the valleys, he lingers among the vineyards or by
+the seashore. Sometimes he goes up to the gates of a town.
+No one would take him for the Lord, the Father of gods
+and men. I can't understand what he's looking for. After all
+that trouble we had putting the world in his hands—giving
+him the fields and the mountain peaks and the clouds . . .
+He could sit up there at his ease. And what does he do? He
+goes off to visit mankind.
+  }
+  ◊bia{
+What's so strange about that? If you're the chief, you do
+what you want.
+  }
+  ◊kratos{
+Without a thought of Olympus or us. And it's thanks
+to us, his humble servants, that he's in charge. He ought to
+be satisfied with having the world afraid of him and praying
+to him. Why is he interested in men, the wretched little
+creatures?
+  }
+  ◊bia{They're part of the world too, you know.}
+  ◊kratos{
+Thinks aren't what they used to be, somehow. "He'll
+come like the storm," Mother said, "and the seasons will
+change." This son of the Mountain who rules with his nod
+isn't like the old masters, Night and Earth and Father
+Ouranos and Chaos. The world seems to be divided. Every
+event had its goal, and everything that lived was one. But
+now there's a law and a mind. Zeus has made himself immortal
+and us along with him. Even men pay attention to
+us: they know they have to die, and that sets them to thinking
+◊; page-number 141
+about us. Up to that point I can understand them—that
+was why we fought the Titans. But what I don't like
+is that he, the Lord, who from his seat on the mountains
+promised us these gifts should leave the peaks and go off
+to amuse himself among mankind. I don't like it, I tell you.
+What do you think, sister?
+  }
+  ◊bia{
+He wouldn't be the Lord if he were bound by the laws he
+made. But do you think he really breaks his own laws?
+  }
+  ◊kratos{
+I don't understand him and that's a fact. When we made
+our assault on the mountains, he smiled—as though he'd
+won already. He fought with nods, with a few brief words.
+He never showed he was angry with the Titans for their
+revolt. They were defeated and he simply smiled, smiled.
+That was how he crushed the Titans, and mankind. I admired
+him then; he was merciless. And I remember another
+occasion when he smiled in the same way: when he decided
+to give mankind the woman, Pandora, to punish them for
+the theft of fire. I simply don't understand after this how
+he can spend his time in vineyards and towns.
+  }
+  ◊bia{
+Maybe the woman, Pandora, is not mere misfortune. Perhaps
+he sees some good in her, perhaps he takes pleasure in
+her. After all, he did give her to men.
+  }
+  ◊kratos{
+But do you realize what men are? Wretched little creatures
+who are bound to die. More wretched than worms or
+last year's leaves: they're dead and they don't even know
+they die. But men do know and they talk about it, they
+never stop invoking us, trying to snatch a favor or a glance
+from us. They light fires to us—the fires they stole away in
+the fennel stalk. And with their women and their offerings
+and their songs and their fine words they have persuaded
+some of us immortals to go down among them and be kind
+to them and have children by them. Do you see what they're
+after, their wretched, brazen deceit? Do you understand
+now why I'm angry?
+  }
+◊; page-number 142
+  ◊bia{
+Mother was right, the world has changed. That's what you're
+saying. This isn't the first time the lord of the Mountain
+has gone down among men. Have you forgotten how long
+ago he lived in exile on an island in the sea where he died
+and was buried. That used to happen to the gods in those
+days.
+  }
+  ◊kratos{Yes, it's an old story.}
+  ◊bia{
+But that didn't mean his power was lost. No, it was
+the lords of Chaos who were lost, they who once ruled over
+a world without law. In the beginning, men and animals
+and even stones were gods. Everything happened without
+a name and without a law. The change came later. It took
+a great deal to turn the son of Kronos into the good Judge,
+into restless, immortal mind. He had first to take flight and
+suffer the unjust punishment of living in exile among men
+when he was still a baby, suckled by a goat. He had to grow
+up on the mountain and the forests. Men had first to find
+words and the laws to live by, grief and death and the
+sense of loss. Only then did the son of Kronos change his
+nature. And you, do you think you really helped him to
+crush the Titans? Why, he fought as though he had won
+already. You said so yourself. The reborn child became the
+master living among men.
+  }
+  ◊kratos{
+So be it. Law was worth fighting for. But why does he
+have to go down there again now that he's master of us all?
+  }
+  ◊bia{
+Brother, dear, will you try to understand that even though
+the world is no longer divine, for this very reason the gods
+who come down from the Mountain find it always new and
+always rewarding. To hear the speech of men—what a marvelous
+experience that can be! They know they suffer, they
+struggle, they possess the earth. All this is revealed in their
+words. No wonder the young gods, who have come after the
+lords of Chaos, are all down on earth among men. And if
+some of the gods still keep their love for the high places,
+◊; page-number 143
+for the caves and the savage skies, this is because men have
+penetrated even there. There voices love to violate our
+silence.
+  }
+  ◊kratos{
+If the son of Kronos would only be content with visiting
+men. With listening to them and punishing them, according
+to the law. But how can he bring himself to enjoy them and
+be enjoyed by them? How can he steal away their women
+and their sons?
+  }
+  ◊bia{
+If you had known them, you'd understand. Men are poor
+worms, but with them everything is unforeseen, everything
+is a discovery. You can understand an animal and even a
+god, but no one, not even we immortals, knows what is
+going on in the hearts of men. Some of them even dare to
+make a stand against destiny. Only if you live with them and
+for them can you enjoy the savor of the world.
+  }
+  ◊kratos{
+Or the savor of the women? The daughters of Pandora,
+animals—
+  }
+  ◊bia{
+Women or animals, it's all the same. Or brother, you don't
+understand. They're the choicest fruit of mortal life.
+  }
+  ◊kratos{Does Zeus approach them as animal or as god?}
+  ◊bia{As man, silly. That's the point.}
+◊; page-number 144
+}
