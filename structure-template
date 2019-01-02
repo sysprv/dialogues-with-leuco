@@ -1,0 +1,8 @@
+◊dialogue[#: dialogue-id]{
+  ◊dialogue-intro-title{TITLE}
+  ◊dialogue-intro{
+
+  }
+
+  ◊dialogue-title{interlocutors}
+}
