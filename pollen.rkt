@@ -14,6 +14,9 @@
 
 (define dialogue-title (default-tag-function 'h3))
 
+(define (footnote . rest)
+  `(p ((class "footnote")) ,@rest))
+
 (define (roman . rest)
   `(span ((class "roman")) ,@rest))
 
@@ -71,3 +74,6 @@
 (define theseus (make-interlocutor "Theseus"))
 (define castor (make-interlocutor "Castor"))
 (define pollux (make-interlocutor "Polydeuces"))
+(define jason (make-interlocutor "Jason"))
+(define melita (make-interlocutor "Melita"))
+

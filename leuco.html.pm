@@ -4161,3 +4161,266 @@ her they serve up their sons, for her they murder their daughters . . .
   ◊castor{They're just beginning, Polydeuces.}
 ◊; page-number 127
 }
+
+◊dialogue[#:id "dialogue-the-argonauts"]{
+  ◊dialogue-intro-title{THE ARGONAUTS}
+  ◊dialogue-intro{
+The temple on the Acrocorinth, with its attendant
+hierodules, is mentioned by no less an author than
+Pindar. That the young monster-slayers should all
+(Theseus the Athenian included) have had trouble
+with women is something we might have imagined
+for ourselves, even if the tradition did not unanimously
+suggest it. With one of the worst of these women,
+Medea—witch, jealous wife, infanticide—Euripides
+deals at generous length in a famous play.
+  }
+◊; page-number 128
+
+  ◊dialogue-title{Jason, Melita}
+
+  ◊jason{
+Go ahead, pull the curtains wide, Melita. I can feel the
+breeze swelling it. On a morning like this, even Jason wants
+to see the sky. Tell me what the sea is like, tell me what's
+been happening in the harbor.
+  }
+  ◊melita{
+Oh king Jason, it's lovely from up here. The docks are
+crammed with people and there's a big ship going out between
+the boats. It's so clear you can see it reflected upside
+down in the water. Oh, look at the flags and the prows hung
+with flowers—if only you could see them! And what a lot of
+people! They've even climbed up the statues on the docks.
+Now the sun's in my eyes.
+  }
+  ◊jason{
+The other girls are probably there to say goodbye. Can
+you see the, Melita?
+  }
+  ◊melita{
+I don't know, there are so many people. Look, the sailors
+are waving to us. Oh, how tiny they look, up there on the
+rigging.
+  }
+  ◊jason{
+Wave to them, Melita. It must be the Cyprus ship. They'll
+pass by your islands, and when they talk about Corinth and
+its famous temple, they'll talk about you too.
+  }
+  ◊melita{
+What would they say about me, sir? Who in the islands
+remembers me?
+  }
+  ◊jason{
+Young people always have someone who remembers them.
+It's good to remember the young. The gods are young, aren't
+they? That's why we all remember them and envy them.
+  }
+  ◊melita{
+We serve them, king Jason. I serve the goddess too in my
+own way.
+  }
+◊; page-number 129
+  ◊jason{
+There'll be someone, Melita, a guest or a sailor who climbs
+up to the temple to sleep with you and not with any of the
+others. Someone who leaves part of his offering to you alone.
+I'm old, Melita, and I can't climb up there now. But there
+was a time once, in Iolchos—you weren't even born then—when
+I would have climbed more than a mountain to be
+with you.
+  }
+  ◊melita{
+You give the orders, sir. At the temple we do what you
+say. Oh look, the ship is spreading sail! It's all white. Come
+and look, king Jason.
+  }
+  ◊jason{
+No, you stay by the window, Melita, and I'll look at you
+while you look at the ship. I can almost see the pair of you
+catching the wind together. The morning air would make
+me shiver. I'm an old man. I'd see too many things if I
+looked down there.
+  }
+  ◊melita{
+The ship's keeling in the sun. How she flies! She's skimming
+the water like a dove.
+  }
+  ◊jason{
+And she's only making for Cyprus. Nowadays ships put out
+from Corinth and the islands, furrowing the sea everywhere.
+But there was a time when this sea was like a desert. You
+weren't born then, Melita. How long ago it all seems.
+  }
+  ◊melita{You really mean, sir, that no one dared cross the sea?}
+  ◊jason{
+There's a virginity in things, Melita, more frightening than
+danger. Think of the terror of the mountain peaks, how
+sound re-echoes there.
+  }
+  ◊melita{
+The mountains aren't for me. But I can't believe the sea
+ever frightened any one.
+  }
+  ◊jason{
+As a matter of fact, it didn't It was on a morning like that
+we put out from Iolchos. We were all young and the gods
+were with us. It was wonderful just sailing on, without a
+thought of tomorrow. Then strange, incredible things began
+to happen . . . It was a younger world, Melita, with days
+like clear mornings, nights of dense blackness, a world
+where anything could happen. Sometimes the strange
+◊; page-number 130
+things were men, sometimes they were monsters, or springs,
+or rocks. Some of us disappeared, some died. Every landfall
+was a loss. Every day the sea was more beautiful, more virginal.
+The days went by in waiting for something . . . Then
+the rains came, fogs, black foam.
+  }
+  ◊melita{Yes, you have told me of these things.}
+  ◊jason{
+The danger wasn't the sea. We realized, from one landfall
+to the next, that we had grown during our journey. We
+were stronger, more detached. We were like gods, Melita,
+but it was this that led us toward fatal risks. So we made
+land at Phasis, there on the fields of golden crocus. Oh I was
+young then, and I looked squarely at my fate.
+  }
+  ◊malita{
+When we talk of you and your companions, in the temple,
+we lower our voices.
+  }
+  ◊jason{
+Yes, and sometimes you laugh, Melita, I know. Corinth is
+a gay place and people like to laugh. When will that
+old fellow stop running on about his gods, they say. Anyway,
+those gods are dead, aren't they, like the rest of the gods?—Life
+is what Corinth wants.
+  }
+  ◊melita{
+Up at the temple, we talk about the witch, king Jason.
+Some people still remember her. Tell me about her, sir.
+  }
+  ◊jason{
+Everyone knows a witch, except here at Corinth where the
+temple teaches people to laugh. We Argonauts, old or
+young, we all knew a witch.
+  }
+  ◊melita{But what about ◊em{your} witch, sir?}
+  ◊jason{
+We violated the sea, we destroyed monsters, we walked
+through the fields of saffron. A golden cloud glittered in the
+wood. And yet everyone of us died through the arts of a
+witch, everyone of us died by the spells of the passion of
+a witch. One of our crew had his head torn off and thrown
+into a river. One has grown old. He's talking to you now . . .
+He saw his children sacrificed by their mother in her madness.
+  }
+◊; page-number 131
+  ◊melita{
+They say she isn't dead, sir, they say her spells have conquered
+death.
+  }
+  ◊jason{
+It's her destiny—I don't envy her. She breathed death, she
+spattered it around her. Perhaps she's gone home.
+  }
+  ◊melita{
+But how could she have laid hands on her own children?
+She must have cried terribly . . .
+  }
+  ◊jason{
+I never saw her cry, Medea couldn't cry. And the only time
+she ever smiled was when she said she would go away with
+me.
+  }
+  ◊melita{
+But she did go away with you, king Jason, she left her
+country and her home, she accepted her fate. You were cruel
+like all young men. Even you.
+  }
+  ◊jason{
+I was young, Melita. Nobody laughed at me in those days.
+But I didn't know then that your way, the way of the temple,
+is wiser, and that what I asked of the goddess was impossible.
+But for us everything seemed possible. We had
+destroyed the dragon, captured the golden cloud. Men do
+evil trying to be great, trying to be gods.
+  }
+  ◊melita{But why is your victim always a woman?}
+  ◊jason{
+Little Melita, you're one of the temple girls. Surely you all
+know that when a man climbs up there it's because he
+wants to become a god, at least for a day, for an hour. Because
+he wants to sleep with you as though you were the
+goddess. He always pretends he's sleeping with her, then he
+realizes it's only mortal flesh he was dealing with, poor
+human creatures like you and your friends up there, like all
+women. Then he flies into a rage and tries to be a god somewhere
+else.
+  }
+  ◊melita{Though some men seem quite happy with us, sir.}
+  ◊jason{
+Oh yes, men grown old before their time, men who pay
+your visits . . . But not before they've tried everything else.
+Not someone who's seen other days. Have you heard of the
+son of Aegeus who went down to Hades to bring back
+Persophone—the son of that king of Athens who threw himself
+into the sea?
+  }
+◊; page-number 132
+  ◊melita{
+The men from Phaleron speak of him. He was a sailor
+like you.
+  }
+  ◊jason{
+Little Melita, he was almost a god. He found his woman
+overseas, a woman who helped him in a fatal task, as the
+witch helped me. He abandoned her, on an island, early one
+morning. Then there were new conquests, new horizons, and
+xxxxx[todo] Antiope, that restless Amazon, was his. And then
+Phaedra, the light of the day, and she too killed herself. And
+Helen, the daughter of Leda. Till at last he tried to snatch
+Persephone from the jaws of Hades. There was only one
+woman he never wanted—the one who fled from Corinth,
+who murdered her children, the witch . . . You know about
+her.
+  }
+  ◊melita{
+But you still remember her, sir. You're kinder than king
+Theseus. And since then you haven't made any woman cry.
+  }
+  ◊jason{
+Here at Corinth I've learned not to be a god. And I
+know you, Melita.
+  }
+  ◊melita{Oh king Jason, what am I?}
+  ◊jason{
+A girl of the islands who comes down from her temple
+when the old man calls her. And you are the goddess too.
+  }
+  ◊melita{I am her slave.}
+  ◊jason{
+She has a great sanctuary in an island in the west which
+bears your name.* Did you know?
+  }
+  ◊melita{
+It's an ordinary name, sir, they gave it to me as a joke.
+Sometimes I think of those lovely names the witches have
+and the women who wept for great men like you.
+  }
+  ◊jason{
+Megara, Iole, Auge, Hippolyta, Omphale, Deianeira . . .
+Do you know what man it was who wept for them?
+  }
+  ◊melita{Oh, but he was a god. And now he lives with the gods.}
+  ◊jason{
+So they say. Poor Heracles, he was one of us too. I don't
+envy him.
+  }
+
+  ◊footnote{* Melita = Malta. [Trans.]}
+
+◊; page-number 133
+}
