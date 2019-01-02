@@ -2540,3 +2540,173 @@ you'll be like a man.
   ◊bacchante{Don't tear the god to pieces.}
 ◊; page-number 75
 }
+
+◊dialogue[#:id "dialogue-the-werewolf"]{
+  ◊dialogue-intro-title{THE WEREWOLF}
+  ◊dialogie-intro{
+Zeus changed Lycaon, lord of Arcadia, into a wolf
+as punishment for inhumanity. But the myth does
+not say where and how Lycaon died.
+  }
+◊; page-number 76
+
+  ◊dialogue-title{1st Hunter, 2nd Hunter}
+
+  ◊hunter1{It's not the first time an animal's been killed.}
+  ◊hunter2{But it's the first time we've killed a man.}
+  ◊hunter1{
+That's not our worry. The dogs flushed him. It's none
+of our business who he was. When we saw him turn at bay
+against the rocks, splashing in the mud, his white fur splattered
+with blood and his fangs redder than his eyes—who
+worried then about who he was and the old stories? He died
+savaging the javelin as though it were a dog's throat. Had
+the heart of an animal as well as the hide. It's been a long
+time since a wolf that size has been seen in these woods.
+  }
+  ◊hunter2{
+◊em{I} worried about it. I remembered who he was. People
+were talking about him when I was a boy. Incredible
+stories of what happened when he was human—how he
+tried to murder the Lord of the Mountain. His pelt was
+the color of trampled snow—he was old, gray, a phantom—and
+his eyes were the color of blood.
+  }
+  ◊hunter1{
+What's done is done. Let's skin him and get back
+down to the valley. Think of the feast they'll give us.
+  }
+  ◊hunter2{
+Let's leave at dawn. We'll make a fire tonight to
+keep ourselves warm. The dogs will watch the corpse.
+  }
+  ◊hunter1{
+It isn't a corpse, it's a carcass. But we'd better skin
+him now, or he'll be hard as a rock tomorrow.
+  }
+  ◊hunter2{
+What do you think? Should we bury him after we
+skin him? He was a man once. It's his animal blood that's
+soaked the ground. And once he's skinned, there'll be nothing
+left but a little naked pile of bone and flesh—like an
+old man's or a child's.
+  }
+◊; page-number 77
+  ◊hunter1{
+He's old all right. He was a wolf before there were
+men in these mountains. He was older than the lichens on
+the trees. Who remembers now that he had a name, was
+somebody? If you ask me, he should have died a long time
+ago.
+  }
+  ◊hunter2{
+But can we leave his body unburied? This was
+Lycaon. He was a hunter like us.
+  }
+  ◊hunter1{
+Anyone of us could meet his death up here on the
+mountain and nobody but the rain or the buzzards would
+ever find him. If he was really a hunter, he met a bad end.
+  }
+  ◊hunter2{
+He fought like an old man, with his eyes. But you
+don't really believe he was ever a man, do you? You don't
+believe he had a name. If you did, you wouldn't want to
+insult his corpse. You'd know that he too dishonored the
+dead, that he too lived brutally and cruelly—and this was
+why the Lord of the Mountain turned him into a wild
+animal.
+  }
+  ◊hunter1{They say he roasted men alive.}
+  ◊hunter2{
+I know men who've done much less, and except for
+howling and skulking in the forest, they're wolves. Are you
+so sure of yourself that you don't sometimes feel a Lycaon
+in you? Most of us have days when, if a god touched us,
+we'd howl and tear out the throat of anyone who got in our
+way. The only thing that saves us is waking up and finding
+we have hands and a mouth and human speech. But for
+him there was no escape—he left the eyes and the homes of
+men behind him forever. Now that he's dead, let him lie in
+peace.
+  }
+  ◊hunter1{
+Peace wasn't what he wanted. Peace for him was
+curling up among the rocks and howling at the moon. I've
+lived in the woods long enough to know that wild things
+have no terror of the holy: animals look at heaven only
+to yawn, the trees rustle their leaves. And in one respect,
+they're like gods: they have no sense of guilt.
+  }
+◊; page-number 78
+  ◊hunter2{To hear you talk, being a wolf is a fine fate.}
+  ◊hunter1{
+I wouldn't know whether it's fine or not, but I do
+know this—I never heard of a plant or an animal that
+wanted to turn into a human being. Whereas these woods
+are full of men and women who were touched by divinity
+and became bush or bird or wolf. No matter how evil they
+were or what crimes they committed, their hands were
+cleansed of blood, they were freed from guilt and hope,
+they forgot they were humans. Isn't that what it is to be a
+god?
+  }
+  ◊hunter2{
+A punishment is a punishment. But it removes the
+sinner's hopes and fears, and makes destiny of his remorse.
+Even if the animal has no memory of the past and lives
+solely for his prey, for death, the thing he was remains.
+Over there on the hill old Callisto lies buried. Who remembers
+what her crime was now? The lords of the sky punished
+her severely. Think of it. A beautiful woman, they say she
+was, turned into a growling, sobbing bear. She was afraid
+of the dark and wanted to go home. There's an animal that
+had no peace. Her son came and killed her with his lance,
+and the gods didn't move a finger. Some say the gods repented
+later and turned her into a tangle of stars. But the
+body remained, and that was buried.
+  }
+  ◊hunter1{
+And so? I know the old stories too. It wasn't the
+gods' fault if Callisto didn't know how to accept her fate.
+It's like someone who wears mourning to a feast, or gets
+drunk at a funeral. If I were a wolf, I'd be a wolf even in
+my sleep.
+  }
+  ◊hunter2{
+Because you don't know the way of the blood. The
+gods add nothing, take nothing away. All they do is touch
+you lightly—and nail you where you are. What once was
+wish or choice, you find is fate. That means becoming a
+wolf. But something of you remains, the you who ran from
+the house, the old Lycaon in us all.
+  }
+◊; page-number 79
+  ◊hunter1{
+You mean that Lycaon suffered like a man when
+the dogs sank their teeth in his throat?
+  }
+  ◊hunter2{
+He was old, on his last legs. You said just now that
+he couldn't defend himself. While he was dying there on
+the rocks, unable to speak a word, I thought of those poor
+old beggars and how they stop short just outside the gate
+while the dogs strain at their leashes trying to get at them.
+This is something we've seen even here. Admitted, he lived
+like a wolf. But when he died and looked at us, he knew he
+was a man. His eyes said he was.
+  }
+  ◊hunter1{
+Friend, the last thing he saw was men hunting him
+down. Do you think it matters to him whether he rots underground,
+like a man?
+  }
+  ◊hunter2{
+There's a peace beyond death. A common lot. It
+matters to the living, it matters to the wolf in us all. It was
+our fate to kill him. The least we can do is honor custom,
+and leave the insults to the gods. Let's go home with clean
+hands.
+  }
+◊; page-number 80
+}

@@ -57,3 +57,5 @@
 (define prometheus (make-interlocutor "Prometheus"))
 (define orpheus (make-interlocutor "Orpheus"))
 (define bacchante (make-interlocutor "Bacchante"))
+(define hunter1 (make-interlocutor "1st Hunter"))
+(define hunter2 (make-interlocutor "2nd Hunter"))
