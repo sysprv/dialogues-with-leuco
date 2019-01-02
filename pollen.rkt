@@ -53,3 +53,5 @@
 (define achilles (make-interlocutor "Achilles"))
 (define patroclus (make-interlocutor "Patroclus"))
 (define beggar (make-interlocutor "Beggar"))
+(define heracles (make-interlocutor "Heracles"))
+(define prometheus (make-interlocutor "Prometheus"))

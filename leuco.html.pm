@@ -2110,3 +2110,198 @@ Sphinx.
   }
 ◊; page-number 63
 }
+
+◊dialogue[#:id "dialogue-the-mountain"]{
+  ◊dialogue-intro-title{THE MOUNTAIN}
+  ◊dialogue-intro{
+In world history, the era named after the Titans was
+peopled with men and monsters and with gods not
+yet organized on Olympus. But some people believe
+that only monsters existed then—that is, intelligences
+enclosed in misshapen animal bodies. Hence the
+suspicion that many of the monster-killers, beginning
+with Heracles, shed kindred blood.
+  }
+◊; page-number 64
+
+  ◊dialogue-title{Heracles, Prometheus}
+
+  ◊heracles{Prometheus, I've come to free you.}
+  ◊prometheus{
+I was expecting you. I'm very grateful. You've had
+a long and fearful journey. But you don't know the meaning
+of fear.
+  }
+  ◊heracles{You're much worse off than I was, Prometheus.}
+  ◊prometheus{
+You really don't know what fear is? No, I don't
+suppose you do.
+  }
+  ◊heracles{
+If fear is not doing what you ought to do, then I've
+never known fear. But I'm a man, and sometimes I'm not
+sure what I ought to do.
+  }
+  ◊prometheus{Man is pity and fear. Nothing else.}
+  ◊heracles{
+Prometheus, you keep me here talking, and every moment
+that passes your torture continues. I've come to set
+you free.
+  }
+  ◊prometheus{
+I know, Heracles. I knew when you were still only
+a baby in swaddling clothes, I knew before you were even
+born. But I'm like someone who has suffered a great deal
+—in prison, in exile, from some danger. When the moment
+comes for him to go, he can hardly bring himself to leave
+the place where he's suffered so much.
+  }
+  ◊heracles{You mean you don't want to leave your rock?}
+  ◊prometheus{
+I must leave it, Heracles—I said I was expecting
+you. But this is a hard moment, as hard for me as for the
+man in prison. You know this is a place of suffering?
+  }
+  ◊heracles{I can tell that by looking at you, Prometheus.}
+  ◊prometheus{
+You suffer till you want to die. One day you will
+◊; page-number 65
+climb your own mountain and you will know this too. But
+I cannot die. For that matter, you won't die either, Heracles.
+  }
+  ◊heracles{What do you mean?}
+  ◊prometheus{A god will lift you up. Or rather a goddess.}
+  ◊heracles{I wouldn't know, Prometheus. Here, let me untie you.}
+  ◊prometheus{
+Yes, you'll be like a baby, overflowing with gratitude
+and love. You'll forget your labors and Hera's cruelty
+and spend your days praising the gods for their wisdom and
+goodness.
+  }
+  ◊heracles{
+Why not? Doesn't everything we have come from
+them?
+  }
+  ◊prometheus{
+Oh Heracles, there's a wisdom more ancient than
+theirs. The world is old, older than this rock. Even they
+know that. Everything has a destiny. But the gods are young,
+almost as young as you are.
+  }
+  ◊heracles{Aren't you a god too?}
+  ◊prometheus{
+I will be someday. So destiny wills. But once I was
+a Titan and I lived in a world without gods. Yes, there was
+such a world. Can you imagine it, Heracles?
+  }
+  ◊heracles{It was a world of rocks and mountains.}
+  ◊prometheus{
+Every man has his rock—that is why I love men.
+It's only the gods who don't yet know the rock. They
+don't know how to laugh or cry. They smile at destiny.
+  }
+  ◊heracles{Who nailed you here, Prometheus? Tell me that.}
+  ◊prometheus{
+Oh Heracles, the victor is always a god. So long as
+the Titan-man struggles and endures, he can laugh and cry.
+And if they nail you here, or you climb your mountain, that
+◊; page-number 66
+is the victory that fate allows you. We should be grateful
+for this. What is a victory but pity turned gesture, saving
+others at your own expense? Everyone works for others,
+under the law of destiny. Even I, Heracles, if I am freed
+today, owe it to someone.
+  }
+  ◊heracles{
+I've had harder tasks than this, Prometheus. Besides,
+I haven't freed you yet.
+  }
+  ◊prometheus{
+I'm not talking about you, Heracles. You're brave
+and compassionate. But you've already done your job.
+  }
+  ◊heracles{I haven't done anything, Prometheus.}
+  ◊prometheus{
+You wouldn't be a man if you knew what was destined.
+But you live in a world of gods, and the gods have
+taken this knowledge from you too. You know nothing and
+you've already done everything. Remember the centaur.
+  }
+  ◊heracles{The beast-man I killed this morning?}
+  ◊prometheus{
+Monsters can't be killed. Not even the gods can
+do that. A day will come when you'll think you've killed a
+second monster, far less human than the first, and all you'll
+have done is prepare your rock. Do you know who you
+struck down this morning?
+  }
+  ◊heracles{A centaur.}
+  ◊prometheus{
+It was Chiron you killed, the good, compassionate
+Chiron, friend of Titans and men.
+  }
+  ◊heracles{Oh Prometheus . . .}
+  ◊prometheus{
+Don't be troubled, Heracles. Our fates are fused.
+By the world's law, no one goes free unless another's blood
+is shed for him. The same will happen with you, on Mt.
+Oeta. And Chiron knew this.
+  }
+  ◊heracles{You mean he sacrificed himself?}
+  ◊prometheus{
+What else? Just as once I knew that the theft of
+fire would mean my rock.
+  }
+  ◊heracles{
+Let me untie you, Prometheus. Then you can tell me
+all about Chiron and Mt. Oeta.
+  }
+  ◊prometheus{
+I'm free already. I could be released only if someone
+◊; page-number 67
+took my place. Chiron let himself be struck down by you;
+and you were sent by fate. But in this world born of chaos
+there is a law of justice. Pity, fear, and courage are only
+its instruments. Whatever is done must one day recur. The
+blood which you have shed, which you will shed will drive
+you up to Oeta to die your own death there. It will be the
+blood of the monsters which you now live to destroy. And
+the pyre you mount will burn with the fire I stole.
+  }
+  ◊heracles{But you told me I couldn't die.}
+  ◊prometheus{
+Death entered this world with the gods. You mortals
+fear death because you know that the gods, by being gods,
+are immortal. But everyone has the death he deserves. Their
+day will come too.
+  }
+  ◊heracles{What do you mean, Prometheus?}
+  ◊prometheus{
+Not everything can be explained. But always remember
+that monsters do not die. What dies is the fear they
+inspire. So with the gods: when men no longer fear them,
+they will vanish.
+  }
+  ◊heracles{And will the Titans return then?}
+  ◊prometheus{
+Rocks and forests don't return. They are. What
+has been will be.
+  }
+  ◊heracles{
+And yet you Titans were changed by the gods. You too,
+Prometheus.
+  }
+  ◊prometheus{
+Titan is a name, nothing more. Understand me,
+Heracles. The world has its seasons, like the fields, like the
+earth. Winter returns, summer returns. How can we say
+that the forest dies, or remains the same? Before long, men
+will be the Titans.
+  }
+  ◊heracles{We mortals?}
+  ◊prometheus{
+You mortals—or immortals. The name doesn't
+matter.
+  }
+◊; page-number 68
+}
