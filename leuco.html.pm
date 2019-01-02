@@ -2543,7 +2543,7 @@ you'll be like a man.
 
 ◊dialogue[#:id "dialogue-the-werewolf"]{
   ◊dialogue-intro-title{THE WEREWOLF}
-  ◊dialogie-intro{
+  ◊dialogue-intro{
 Zeus changed Lycaon, lord of Arcadia, into a wolf
 as punishment for inhumanity. But the myth does
 not say where and how Lycaon died.
@@ -4287,7 +4287,7 @@ but it was this that led us toward fatal risks. So we made
 land at Phasis, there on the fields of golden crocus. Oh I was
 young then, and I looked squarely at my fate.
   }
-  ◊malita{
+  ◊melita{
 When we talk of you and your companions, in the temple,
 we lower our voices.
   }
