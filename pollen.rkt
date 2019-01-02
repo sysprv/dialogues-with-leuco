@@ -76,4 +76,4 @@
 (define pollux (make-interlocutor "Polydeuces"))
 (define jason (make-interlocutor "Jason"))
 (define melita (make-interlocutor "Melita"))
-
+(define ariadne (make-interlocutor "Ariadne"))

@@ -4424,3 +4424,194 @@ envy him.
 
 ◊; page-number 133
 }
+
+◊dialogue[#:id "dialogue-the-vineyard"]{
+  ◊dialogue-intro-title{THE VINEYARD}
+  ◊dialogue-intro{
+After the adventure in the labyrinth, Ariadne was
+abandoned by Theseus on the island of Naxos. It was
+there that Dionysus, on his return from India, made
+harvest of her beauty and set her among the
+constellations of heaven.
+  }
+◊; page-number 134
+
+  ◊dialogue-title{Leucothea, Ariadne}
+
+  ◊leuco{How much longer are you going to cry, Ariadne?}
+  ◊ariadne{Oh. Where did ◊em{you} come from?}
+  ◊leuco{From the sea, like you. Well, have you stopped sobbing?}
+  ◊ariadne{I can't very well cry with you here, can I?}
+  ◊leuco{
+I thought you mortal women only cried when you
+had an audience.
+  }
+  ◊ariadne{For a nymph, you've got a sharp tongue.}
+  ◊leuco{
+So he's gone away too, has he? Why do you think
+he deserted you?
+  }
+  ◊ariadne{Look, who ◊em{are} you?}
+  ◊leuco{
+A girl who did what you didn't do. I tried to drown
+myself. Ino was my name then. A goddess rescued me, and
+now I'm the nymph of the island.
+  }
+  ◊ariadne{Well, what do you want with me?}
+  ◊leuco{
+If that's your tone, you already know the answer.
+I've come to tell you that your handsome boyfriend with the
+fine promises and the violet curls, is gone for good. He's
+jilted you. The black sail disappearing from sight will be
+your last memory of him. So sob and carry on as much as
+you like. It's all over.
+  }
+  ◊ariadne{You tried to kill yourself. Were you jilted too?}
+  ◊leuco{
+We're not talking about me, dear. You're a silly,
+stubborn girl. You don't deserve what I'm going to tell you.
+  }
+  ◊ariadne{
+Listen, sea-nymph, what you want with me I don't
+know. You've told me very little—or a great deal too much.
+◊; page-number 135
+If I want to kill myself, I'll manage it on my own, thank
+you.
+  }
+  ◊leuco{Believe me, silly. Your tears are trivial.}
+  ◊ariadne{Is that what you came to tell me?}
+  ◊leuco{Why do you think he deserted you?}
+  ◊ariadne{Oh nymph, please don't . . .}
+  ◊leuco{
+Go on, cry. It makes things easier. Talking won't help
+you. Only crying will rid you of your silly pride, and expose
+your grief for the petty thing it is. But until your heart
+breaks, until you howl like a bitch and want to snuff yourself
+in the sea like a blazing brand, you won't know what
+grief is.
+  }
+  ◊ariadne{My heart . . . is broken . . . already.}
+  ◊leuco{
+Go on. Cry. Don't say a word . . . You don't know
+anything. Someone else is waiting for you.
+  }
+  ◊ariadne{What's your name now, nymph?}
+  ◊leuco{
+Leucothea. Listen, Ariadne. The black sail has gone
+for good. That chapter's finished.
+  }
+  ◊ariadne{And my life is finished with it.}
+  ◊leuco{
+Someone else awaits you, silly girl. Tell me, what god
+did you worship in your country?
+  }
+  ◊ariadne{What god can send his ship back to me?}
+  ◊leuco{I asked you what god you worshipped.}
+  ◊ariadne{
+In my country there's a mountain which inspired even
+the sailors with terror. Great gods are born on that mountain,
+and they are the gods we worship. I've already prayed
+to them all, but none of them has heard me. What can I do?
+  }
+  ◊leuco{What do you expect from the gods?}
+  ◊ariadne{I don't expect anything any more.}
+  ◊leuco{Then listen. Someone is coming.}
+  ◊ariadne{What do you mean?}
+  ◊leuco{I tell you, someone is coming.}
+  ◊ariadne{But you're only a nymph.}
+  ◊leuco{Perhaps. But even a nymph can announce a great god.}
+◊; page-number 136
+  ◊ariadne{A god, Leucothea? Which god?}
+  ◊leuco{Are you thinking of the god? Or your boyfriend?}
+  ◊ariadne{I don't know. What do you mean? I kneel before the gods.}
+  ◊leuco{
+Then you understand. He is a new god. The youngest
+of all the gods. He has seen you, and he likes you. His name
+is Dionysus.
+  }
+  ◊ariadne{I've never heard of him.}
+  ◊leuco{
+He was born at Thebes, and he courses the world.
+He is a god of joy. All mankind follows him and acclaims
+him.
+  }
+  ◊ariadne{Is he strong?}
+  ◊leuco{
+He kills with laughter. Bulls and tigers walk beside
+him. His life is a festival, and he likes you.
+  }
+  ◊ariadne{But when did he see me?}
+  ◊leuco{
+Who knows? Have you ever been in a vineyard on a
+hillside by the sea, in that drowsy hour when the earth gives
+off its own particular fragrance? A lingering smell of grapevines,
+halfway between fig and pine? At the hour when the
+grapes ripen, and the air is heavy with must? Have you ever
+seen a pomegranate, blooming and fruiting? This is where
+Dionysus grows and is, and in the cool of the ivy, among
+the pines and over the threshing-floors.
+  }
+  ◊ariadne{
+Isn't there any place on earth so lonely that the gods
+can't see us there?
+  }
+  ◊leuco{
+My dear, the gods are the place itself, the loneliness,
+the passing of time. Dionysus will come, and you'll think
+you've been whirled away by a great wind, like those dust
+devils that swirl over the threshing-floors and the vineyards.
+  }
+  ◊ariadne{When will he come?}
+  ◊leuco{
+I'm here to announce his coming, dear. This is why
+the boat sailed away.
+  }
+  ◊ariadne{Who told you all this?}
+  ◊leuco{My home is Thebes, Ariadne. I'm his mother's sister.}
+◊; page-number 137
+  ◊ariadne{
+In my country people say that the gods were born on
+Mt. Ida. No mortal has ever climbed beyond the timberline.
+Even the shadow thrown by the mountain frightens us.
+How can I accept what you say?
+  }
+  ◊leuco{
+You have run risks before, little one. Wasn't your friend
+wit the violet curls like a god to you?
+  }
+  ◊ariadne{
+He was a god—whose life I saved. What good did it
+do me?
+  }
+  ◊leuco{
+A great deal. You've been afraid, you've suffered.
+You've thought of dying. You've learned what waking is.
+Now you're alone, and you're expecting a god.
+  }
+  ◊ariadne{What's he like? Is he cruel?}
+  ◊leuco{
+All gods are cruel. Divinity is cruel by nature. It
+shatters the frail being who resists. To waken, to waken
+well, you must yield to sleep. No god can know remorse.
+  }
+  ◊ariadne{This Theban god of yours . . . You said he kills with laughter?}
+  ◊leuco{
+Those who resist him. Those who resist him are torn
+to pieces. But he is no more pitiless than other gods. For
+him laughing is like breathing.
+  }
+  ◊ariadne{Then he's no different from any mortal.}
+  ◊leuco{
+This too is an awakening, child. It will be like loving
+a place, a stream of water, an hour of the day. No man can
+give you this. The gods last as long as the things that make
+them gods. So long as the goats frisk through the pines and
+the vineyards, he will please you and you will please him.
+  }
+  ◊ariadne{I'll die like any goat.}
+  ◊leuco{
+The stars shine over the vineyards at night. The god
+who waits for you is a god of the night. Don't be afraid.
+  }
+◊; page-number 138
+}
