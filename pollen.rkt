@@ -65,3 +65,5 @@
 (define calypso (make-interlocutor "Calypso"))
 (define virbius (make-interlocutor "Virbius"))
 (define diana (make-interlocutor "Diana"))
+(define circe (make-interlocutor "Circe"))
+(define leuco (make-interlocutor "Leucothea"))

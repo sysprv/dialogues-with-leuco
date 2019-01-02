@@ -3516,3 +3516,244 @@ too often. It's life I want, not happiness.
   }
 ◊; page-number 106
 }
+
+◊dialogue[#:id "dialogue-the-witches"]{
+  ◊dialogue-intro-title{THE WITCHES}
+  ◊dialogue-intro{
+When Odysseus came to Circe's island, he had been
+warned of the danger and immunized, magically,
+against her spells. But the witch Circe—an ancient
+Mediterranean goddess who had come down in the
+world—had known for some time that an Odysseus
+would enter her life. In this respect Homer's
+account leaves something to be desired.
+  }
+◊; page-number 108
+
+  ◊dialogue-title{Circe, Leucothea}
+
+  ◊circe{
+Believe me, Leucò, I didn't understand all at once. Sometimes
+you get the formula wrong, your mind suddenly goes
+blank. And yet I'd touched him. The truth is I'd been expecting
+him so long that I wasn't thinking about it anymore.
+The moment I understood—he made a sudden movement
+and reached for his sword—I almost smiled, I felt so
+happy and at the same time disappointed. I even thought I
+could avoid the whole affair and escape what had been fated.
+After all, I said to myself, Odysseus is a man who wants to
+go home. I thought about putting him in a boat immediately.
+There he was, Leucò my dear, waving that sword of
+his, ridiculous and clever as only a mortal can be—and I had
+to smile and look at him square in the eye the way I do with
+them, then look surprised and draw back. I felt as though I
+were a girl again—when we were girls and they told us what
+we'd do when we were grown up, and we all giggled. The
+whole thing was like a dance. He took me by the wrists,
+raised his voice, I blushed—I paled inwardly, Leucò—I
+clasped his knees and went into my act. "Who are you, what
+land gave birth to you . . ." Poor fellow, I thought to myself,
+he doesn't know what's in store for him. He was a big man,
+curly haired, handsome, Leucò. What a wonderful boar he
+would have made—or maybe a wolf.
+  }
+  ◊leuco{
+But did you tell him all this, during the year he spent
+with you?
+  }
+  ◊circe{
+Oh child, you don't speak of the things of destiny with a
+◊; page-number 109
+mortal. They think they've said the last word when they call
+it the Iron Chain, the Fatal Decree and so on. They call us
+the Fatal Ladies, you know.
+  }
+  ◊leuco{They don't know how to smile.}
+  ◊circe{
+Yes. Some of them can laugh in the face of destiny, but
+they laugh afterwards. At the time they have to be serious
+about it or they die. They don't know how to joke about
+divine things, they don't have the sense of playing a role, as
+we do. Their life is so short they can't bear to do things already
+done or already known. If I talked to Odysseus in this
+vein, he looked mystified and started talking about Penelope.
+And he was a brave man.
+  }
+  ◊leuco{How tiresome.}
+  ◊circe{
+Yes, but you see I really understood him. With Penelope
+he didn't have to smile; with her everything, even their daily
+meal, was serious and unrehearsed—they might have been
+preparing themselves for death. You can't imagine the way
+death fascinates them. They're destined to die, of course, it's
+a repetition, something they know in advance. And yet they
+deceive themselves into thinking that it changes something.
+  }
+  ◊leuco{Then why didn't he want to become a boar?}
+  ◊circe{
+Oh Leucò, he didn't even want to become a god, though
+Calypso, that silly creature, kept nagging him about it. But
+that was the way Odysseus was, neither boar nor god, just
+man, a very intelligent man and clever in the face of destiny.
+  }
+  ◊leuco{Tell me, my dear, did you enjoy yourself with him?}
+  ◊circe{
+Something occurs to me, Leucò. Not one of us goddesses
+has ever tried to become mortal, no one has ever wanted it.
+Yet this might be the new thing, the thing that might break
+the chain.
+  }
+  ◊leuco{Would you like to?}
+  ◊circe{
+Really, Leucò. Odysseus didn't understand why I smiled.
+Often he didn't even understand that I was smiling. I
+thought once I had explained to him why animals are more
+◊; page-number 110
+like us immortals than a brave, intelligent man can be. An
+animal eats, it mounts, it has no memory. He answered that
+at home there was a dog waiting for him, a poor dog that
+may have been dead already. And he told me its name. That
+dog had a ◊em{name,} Leucò.
+  }
+  ◊leuco{They give us names too, you know.}
+  ◊circe{
+Odysseus gave me many names when he was in bed with
+me. There was a new one every time. At first it was like the
+noise an animal makes, a boar or a wolf, but bit by bit he
+himself realized that he was spelling out the syllables of a
+single word. He called me by the names of all the goddesses,
+of our sisters, he called me by the names of the Mother of
+all living things. It was as though he were struggling with
+me, with fate. He wanted to name me, to hold me, make me
+mortal. He wanted to break something. He brought intelligence
+and courage to the job—he had both—but he could
+never smile. He never understood the smile of the gods, the
+way we, who know destiny, smile.
+  }
+  ◊leuco{
+No man understands us, or the animals either. I've
+seen these men of yours—transformed into wolves or wild
+boars they still howl like real men. It's tormenting. They're
+so crude in spite of their intelligence. Have you played with
+them much?
+  }
+  ◊circe{
+I amuse myself with them, Leucò, as best I can. I wasn't
+granted a god in my bed, and the only man was Odysseus.
+All the others turn into animals at my touch; they go crazy
+and come after me, like wild beasts. Their frenzy is no better
+and no worse than the love of a god. But with them I
+mustn't even smile. I feel them mount me and then run off
+back to their lairs. I don't lower my eyes.
+  }
+  ◊leuco{And Odysseus . . .}
+  ◊circe{
+I don't ask myself their names. Do you know who Odysseus
+was?
+  }
+  ◊leuco{Yes, Circe?}
+◊; page-number 111
+  ◊circe{
+One evening he described his arrival at Aeaea. His men
+were frightened, they posted guards by the ships, and he told
+me how all night long, stretched out their on the shore
+under their cloaks, they listened to the roaring and the
+snarling. Then when the sun rose, they saw a spiral of smoke
+beyond the woods and they shouted for joy as they recognized
+their country and their homes. He smiled as he told
+me about this—in the way men smile—sitting beside me in
+front of the fire. He said he wanted me to forget who I was and
+where he was. That evening he called me Penelope.
+  }
+  ◊leuco{Oh Circe, how silly!}
+  ◊circe{I was silly too, Leucò, and I told him to cry.}
+  ◊leuco{Why, the idea.}
+  ◊circe{
+No, but he didn't cry. He knew that Circe loves wild animals,
+who don't cry. He cried later on, the day I told him of
+the long journey still to make and the descent into Avernus
+and the blackness of Ocean. But they were the kind of tears
+that clean your eyes and give you strength—I too can understand
+them. But that evening, laughing strangely, he spoke
+to me about his childhood and his destiny, and he asked
+about me. He spoke playfully, of course.
+  }
+  ◊leuco{I don't understand.}
+  ◊circe{
+His mouth and his voice laughed, but his eyes were full of
+memories. And then he told me to sing. And as I sang, I
+went to the loom, and I put his home and his childhood
+into that harsh voice of mine, I gentled it, I was his Penelope.
+He took his head between his hands.
+  }
+  ◊leuco{Who had the last laugh?}
+  ◊circe{
+No one, Leucò. That evening, I was mortal too. I had a
+name: Penelope. That was the only time I looked my fate
+in the face without laughing, the only time I lowered my
+eyes.
+  }
+  ◊leuco{And this man loved a dog?}
+  ◊circe{
+A dog, a woman, his son, and a boat to sail the sea. He
+never looked on the endless cycle of days as destiny, he ran
+◊; page-number 112
+towards his death knowing what it was, and enriched the
+earth with words and actions.
+  }
+  ◊leuco{
+I don't have eyes like you, Circe, but here I feel it's
+my turn to smile. You were naive. If you'd told him that the
+wolves and boars mounted you like an animal, he'd have
+turned into an animal himself.
+  }
+  ◊circe{
+I did tell him. His mouth contracted, only a little though,
+and after a while he said—"So long as they're not my men."
+  }
+  ◊leuco{So he was jealous.}
+  ◊circe{
+No, not jealous. He was loyal to them. He understood
+everything, that man, except the way we gods smile. The day
+when he wept in my bed, it wasn't because he was afraid,
+but because his last journey was imposed on him by fate, it
+was something he knew in advance. "Why trouble to make
+the journey, in that case?" he asked me as he buckled on his
+sword and walked down to the sea. I brought him the black
+lamb and while his men were weeping, he noticed a flight of
+swallows over the roof. "So they're going too," he said.
+"They don't know what they're doing. But you know, lady."
+  }
+  ◊leuco{Is that all he said?}
+  ◊circe{That was all.}
+  ◊leuco{Circe, why didn't you kill him?}
+  ◊circe{
+I'm a real fool. Sometimes I forget that we immortals
+◊em{know.} Then I'm as happy as though I were still a girl. As
+though all these things happened to the great gods, to the
+Olympians, and happened in this way, inexorably, but absurdly,
+unforeseen. What I never manage to foresee is precisely
+this, that I ◊em{have} foreseen, that I always know what I'm
+going to do and say. And in this way what I do and say becomes
+something always new and surprising. Like a game—like
+that game of chess which Odysseus taught me, all rules
+and regulations, but so new and exciting, with those lovely
+ivory pieces! That game is like life, he used to say. According
+to him, it was a way of overcoming time.
+  }
+  ◊leuco{
+You have too many memories of him, Circe. You
+◊; page-number 113
+didn't turn him into a boar or a wolf. You turned him into
+memory.
+  }
+  ◊circe{
+That's the one immortal thing about a mortal, Leucò. The
+memory he carries with him, the memory he leaves behind
+him. That is what names and words are. When they remember
+even men smile. A smile of resignation.
+  }
+  ◊leuco{Circe, you're speaking words too.}
+  ◊circe{I know my destiny, Leucò. Never fear.}
+◊; page-number 114
+}
