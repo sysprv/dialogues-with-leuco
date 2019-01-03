@@ -81,3 +81,5 @@
 (define bia (make-interlocutor "Bia"))
 (define dionysus (make-interlocutor "Dionysus"))
 (define demeter (make-interlocutor "Demeter"))
+(define hamadryad (make-interlocutor "Hamadryad"))
+(define satyr (make-interlocutor "Satyr"))

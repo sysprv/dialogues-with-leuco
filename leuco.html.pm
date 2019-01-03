@@ -4992,3 +4992,192 @@ with you. It will always be a story.
   }
 ◊; page-number 151
 }
+
+◊dialogue[#:id "dialogue-the-flood"]{
+  ◊dialogue-intro-title{THE FLOOD}
+  ◊dialogue-intro{
+The Greek flood too was a punishment for a mankind
+which had lost respect for its gods. It is well known
+that the earth was later repopulated by the throwing
+of certain stones . . .
+  }
+◊; page-number 152
+
+  ◊dialogue-title{Satyr, Hamadryad}
+
+  ◊hamadryad{I wonder what mortals think of this rain.}
+  ◊satyr{
+What do they know about it? They take it. Maybe some of
+them hope it will mean a bigger harvest.
+  }
+  ◊hamadryad{
+The rivers are already in flood, sweeping away the
+trees. Everywhere it rains, it rains on water now.
+  }
+  ◊satyr{
+They're huddled together in caves and huts on the mountains.
+They listen to the rain. They think of the people down
+in the valleys who are fighting the flood, and they hope.
+  }
+  ◊hamadryad{
+They'll go on hoping for the rest of the night. But
+tomorrow morning, in that terrible dawn, when they see
+nothing but a sheet of water stretching to the horizon, and
+the mountains shrunk to nothing, they won't go back to the
+caves. They'll look. They'll cover their heads against the
+rain, and they'll look.
+  }
+  ◊satyr{
+You're confusing them with wild animals. No mortal can
+know that he's dying and look directly at death. Men have
+to run, think, talk. Talk to the survivors.
+  }
+  ◊hamadryad{
+This time there won't be any survivors. What will
+they do then? That's what I want to see.
+  }
+  ◊satyr{
+When they realize they're all doomed, every man on
+earth, they'll celebrate. You'll see. Perhaps they'll come
+looking for us.
+  }
+  ◊hamadryad{Us? What do we have to do with them?}
+  ◊satyr{
+A great deal. For them we are the festival they celebrate.
+We are life. They'll come to us in search of life. They'll
+look for life to the very end.
+  }
+◊; page-number 153
+  ◊hamadryad{
+I don't see what life we can give them. We can't
+even die. All we can do is look. Look and know. But according
+to you they can't look at death and they don't know
+how to resign themselves. So what can they want with us?
+  }
+  ◊satyr{
+Many things, sweet goat. For them we are like wild animals.
+Animals are born and die like the leaves. They glimpse
+us disappearing between the branches and they begin to
+think of us as being somehow divine—that when we run to
+hide we are the life that endures in the forest—a life like
+their own, but everlasting, a richer life. They'll come looking
+for us. Mark my words. We'll be their last hope.
+  }
+  ◊hamadryad{Hope? In a rain like this? And what will they do?}
+  ◊satyr{
+Don't you know what it means to hope? They'll believe
+that a forest where we live can't possibly be flooded. They'll
+tell themselves that it's inconceivable that mankind should
+utterly, totally, disappear; otherwise what meaning would
+there be in being born and knowing us? They'll realize that
+the great gods, the gods of Olympus, desire their death. But
+we, like them, like the little animals, are life, earth, the
+reality that matters. The seasons of their life are festivals,
+and we are their festivals, the life they celebrate.
+  }
+  ◊hamadryad{
+That's convenient. They have the hope, and we
+have the destiny. But it's stupid.
+  }
+  ◊satyr{Not so stupid as you think. They'll salvage something.}
+  ◊hamadryad{
+Yes, but who provoked the great gods' anger in the
+first place? Who was it who made such a mess of things that
+even the sun hid his face? They did, if you ask me. So it
+serves them right.
+  }
+  ◊satyr{
+Come, my dear, do you really believe that nonsense? Don't
+you think, if they had really violated life, that life itself
+could have punished them without any need for Olympus
+to send down this flood? Believe me, if anybody has violated
+anything, it isn't them.
+  }
+  ◊hamadryad{
+Yes, but they're doing the dying. How will they
+feel tomorrow when they know what has happened?
+  }
+◊; page-number 154
+  ◊satyr{
+Listen to the torrent, little one. Tomorrow we'll be under
+water too. You like to look; well, you'll see some ugly sights.
+It's a good thing we can't die.
+  }
+  ◊hamadryad{
+Sometimes I'm not so sure. I wonder what it would
+be like to die. Dying's the only thing we really don't have.
+We know everything, and yet this one simple thing we don't
+know. I'd like to try it—and then wake up, of course.
+  }
+  ◊satyr{
+Listen to the girl. But dying is precisely this—no longer
+knowing that you're dead. And this is what this flood means:
+dying in such numbers that there won't be anyone left to
+know it. That's why they'll come to look for us. And they'll
+ask us to save them and they'll want to become like us, like
+plants and stones—insensible things that are nothing but
+destiny. In them they will save themselves. When the waters
+retreat, they'll come forth as stones and trees, just as
+they did before. And this is all that mortals want, just as
+before.
+  }
+  ◊hamadryad{
+Strange people. They treat destiny and the future as
+though it were a past.
+  }
+  ◊satyr{
+That's the meaning of hope. Giving destiny a name to
+remember it by.
+  }
+  ◊hamadryad{
+And you think they'll really be turned into stones
+and trees?
+  }
+  ◊satyr{
+They have the knack of making myths, these mortals. Their
+future lives will be modeled upon the imaginative shape they
+give to their terror of tonight and tomorrow. They will be
+wild animals and rocks and plants. They will be gods. They
+will even dare to kill the gods in order to make them live
+again. They will give themselves a past in order to escape
+death. They are only and always these two things: hope or
+destiny.
+  }
+  ◊hamadryad{
+If that's so, I can't pity them. It must be wonderful
+to live in a world of utter make-believe.
+  }
+  ◊satyr{
+Yes, it's wonderful. But you mustn't suppose that they're
+aware of improvising, of their make-believe. Their most
+◊; page-number 155
+miraculous escapes have been made quite by accident, when
+they were already caught in the crushing grip of destiny.
+They don't have time to savor their own make-believe. All
+they can do is pay for it in person. That much they can do.
+  }
+  ◊hamadryad{
+Well, I hope this flood at least serves to teach them
+the meaning of festival and play. After all, there's a make-believe
+which destiny imposes upon us immortals and which
+we are aware of—why can't they learn to live their make-believe
+as though each moment of their wretched little lives
+was eternal? Why won't they realize that it's precisely the
+shortness of their lives that gives them their value?
+  }
+  ◊satyr{
+One can't have everything, little one. We who know—we
+have no preferences. And they, who live unpredictable,
+unique moments, are ignorant of their value. They envy us
+our eternity. Such is the world.
+  }
+  ◊hamadryad{
+They too will learn something tomorrow. And the
+clods of earth and the stones in which they will someday
+make their return to the light, will not live solely in hope or
+anguish. You'll see. In the new world even the shortest lives
+will be in some way blessed.
+  }
+  ◊satyr{God willing, little one. I'd like that too.}
+◊; page-number 156
+}
