@@ -12,7 +12,8 @@
 (define (dialogue-intro . rest)
   `(p ((class "intro")) ,@rest))
 
-(define dialogue-title (default-tag-function 'h3))
+(define (interlocutors . rest)
+  `(h3 ((class "interlocutors")) ,@rest))
 
 (define (footnote . rest)
   `(p ((class "footnote")) ,@rest))

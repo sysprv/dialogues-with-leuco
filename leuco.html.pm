@@ -55,7 +55,7 @@ later pursued with implacable hatred.
   }
 ◊; page-number 2
 
-  ◊dialogue-title{The Cloud, Ixion}
+  ◊interlocutors{The Cloud, Ixion}
 
   ◊cloud{Ixion, there is a law and we must obey it.}
   ◊ixion{
@@ -269,7 +269,7 @@ who died under the walls of Troy.
   }
 ◊; page-number 8
 
-  ◊dialogue-title{Hippolochus, Sarpedon}
+  ◊interlocutors{Hippolochus, Sarpedon}
 
   ◊hippolochus{Ah, there you are, boy.}
   ◊sarpedon{
@@ -459,7 +459,7 @@ out in horror.
   }
 ◊; page-number 14
 
-  ◊dialogue-title{Oedipus, Tiresias}
+  ◊interlocutors{Oedipus, Tiresias}
 
   ◊oedipus{
 Old Tiresias, must I believe what they say here in
@@ -633,7 +633,7 @@ require explanation.
   }
 ◊; page-number 20
 
-  ◊dialogue-title{Hermes of the dead, Chiron the centaur}
+  ◊interlocutors{Hermes of the dead, Chiron the centaur}
 
   ◊hermes{
 The gods ask you to rear this child, Chiron. You know
@@ -814,7 +814,7 @@ and Thanatos. This is clear as sunlight.
   }
 ◊; page-number 26
 
-  ◊dialogue-title{Eros, Thanatos}
+  ◊interlocutors{Eros, Thanatos}
 
   ◊eros{Were you expecting this, Thanatos?}
   ◊thanatos{
@@ -995,7 +995,7 @@ sleep and passes into legend as the eternal dreamer.
   }
 ◊; page-number 32
 
-  ◊dialogue-title{Endymion, A Stranger}
+  ◊interlocutors{Endymion, A Stranger}
 
   ◊endymion{
 Listen, you're a stranger, I can talk to you. Don't be
@@ -1266,7 +1266,7 @@ waters, one might say, were drenched in sperm and tears.
   }
 ◊; page-number 40
 
-  ◊dialogue-title{Sappho, Britomart}
+  ◊interlocutors{Sappho, Britomart}
 
   ◊sappho{
 It's boring here, Britomart, the sea is boring. You've
@@ -1506,7 +1506,7 @@ it burn.
   }
 ◊; page-number 46
 
-  ◊dialogue-title{Meleager, Hermes}
+  ◊interlocutors{Meleager, Hermes}
 
   ◊meleager{Hermes, I burned like a brand.}
   ◊hermes{But you can't have suffered much.}
@@ -1707,7 +1707,7 @@ the eve of Patroclus' death.
   }
 ◊; page-number 52
 
-  ◊dialogue-title{Achilles, Patroclus}
+  ◊interlocutors{Achilles, Patroclus}
 
   ◊achilles{
 Patroclus, why is it that when men want to encourage
@@ -1933,7 +1933,7 @@ and went away from Thebes and died a beggar.
   }
 ◊; page-number 58
 
-  ◊dialogue-title{Oedipus, a Beggar}
+  ◊interlocutors{Oedipus, a Beggar}
   ◊oedipus{
 I am not a man like other men, friend. I have been
 condemned by fate. I grew up on the mountains. The sight
@@ -2124,7 +2124,7 @@ with Heracles, shed kindred blood.
   }
 ◊; page-number 64
 
-  ◊dialogue-title{Heracles, Prometheus}
+  ◊interlocutors{Heracles, Prometheus}
 
   ◊heracles{Prometheus, I've come to free you.}
   ◊prometheus{
@@ -2317,7 +2317,7 @@ Dionysus himself—promised even more.
   }
 ◊; page-number 70
 
-  ◊dialogue-title{Orpheus, Bacchante}
+  ◊interlocutors{Orpheus, Bacchante}
 
   ◊orpheus{
 This is how it happened. We were climbing the path
@@ -2550,7 +2550,7 @@ not say where and how Lycaon died.
   }
 ◊; page-number 76
 
-  ◊dialogue-title{1st Hunter, 2nd Hunter}
+  ◊interlocutors{1st Hunter, 2nd Hunter}
 
   ◊hunter1{It's not the first time an animal's been killed.}
   ◊hunter2{But it's the first time we've killed a man.}
@@ -2726,7 +2726,7 @@ No need to say who won the reaping contest.
   }
 ◊; page-number 82
 
-  ◊dialogue-title{Lityerses, Heracles}
+  ◊interlocutors{Lityerses, Heracles}
 
   ◊lityerses{
 Here's the field, stranger. Don't think of leaving. We
@@ -2923,7 +2923,7 @@ one time peasant cultures.
   }
 ◊; page-number 88
 
-  ◊dialogue-title{Two Shepherds, Father and Son}
+  ◊interlocutors{Two Shepherds, Father and Son}
 
   ◊son{The whole mountain's blazing!}
   ◊father{
@@ -3178,7 +3178,7 @@ was Calypso, an ancient goddess.
   }
 ◊; page-number 96
 
-  ◊dialogue-title{Odysseus, Calypso}
+  ◊interlocutors{Odysseus, Calypso}
 
   ◊calypso{
 Odysseus, our situations are much the same. You want
@@ -3352,7 +3352,7 @@ land of the dead.
   }
 ◊; page-number 102
 
-  ◊dialogue-title{Virbius, Diana}
+  ◊interlocutors{Virbius, Diana}
 
   ◊virbius{
 I'll admit that I was glad to come here. This lake reminded
@@ -3530,7 +3530,7 @@ account leaves something to be desired.
   }
 ◊; page-number 108
 
-  ◊dialogue-title{Circe, Leucothea}
+  ◊interlocutors{Circe, Leucothea}
 
   ◊circe{
 Believe me, Leucò, I didn't understand all at once. Sometimes
@@ -3771,7 +3771,7 @@ any mystical cult of monsters.
   }
 ◊; page-number 116
 
-  ◊dialogue-title{Lelegus, Theseus}
+  ◊interlocutors{Lelegus, Theseus}
 
   ◊lelegus{That hill is home, sir.}
   ◊theseus{
@@ -3944,7 +3944,7 @@ the proposed sacrifice of Iphigenia by her father.
   }
 ◊; page-number 122
 
-  ◊dialogue-title{Castor, Polydeuces}
+  ◊interlocutors{Castor, Polydeuces}
 
   ◊castor{
 Remember, Poly, how we got her back after she eloped
@@ -4177,7 +4177,7 @@ deals at generous length in a famous play.
   }
 ◊; page-number 128
 
-  ◊dialogue-title{Jason, Melita}
+  ◊interlocutors{Jason, Melita}
 
   ◊jason{
 Go ahead, pull the curtains wide, Melita. I can feel the
@@ -4436,7 +4436,7 @@ constellations of heaven.
   }
 ◊; page-number 134
 
-  ◊dialogue-title{Leucothea, Ariadne}
+  ◊interlocutors{Leucothea, Ariadne}
 
   ◊leuco{How much longer are you going to cry, Ariadne?}
   ◊ariadne{Oh. Where did ◊em{you} come from?}
@@ -4627,7 +4627,7 @@ many adventures.
   }
 ◊; page-number 140
 
-  ◊dialogue-title{Kratos, Bia}
+  ◊interlocutors{Kratos, Bia}
 
   ◊kratos{
 He's gone off to visit mankind. He has taken to road
@@ -4794,7 +4794,7 @@ Dionysus the grape—wine. "Take and eat this . . ."
   }
 ◊; page-number 146
 
-  ◊dialogue-title{Dionysus, Demeter}
+  ◊interlocutors{Dionysus, Demeter}
 
   ◊dionysus{
 These mortals are really amusing. We know things,
@@ -5003,7 +5003,7 @@ of certain stones . . .
   }
 ◊; page-number 152
 
-  ◊dialogue-title{Satyr, Hamadryad}
+  ◊interlocutors{Satyr, Hamadryad}
 
   ◊hamadryad{I wonder what mortals think of this rain.}
   ◊satyr{
@@ -5200,7 +5200,7 @@ Greeks moved down the peninsula.
   }
 ◊; page-number 158
 
-  ◊dialogue-title{Mnemosyne (Memory), Hesiod}
+  ◊interlocutors{Mnemosyne (Memory), Hesiod}
 
   ◊mnemosyne{In short, you aren't happy.}
   ◊hesiod{
