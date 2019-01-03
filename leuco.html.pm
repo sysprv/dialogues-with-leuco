@@ -4379,7 +4379,7 @@ Little Melita, he was almost a god. He found his woman
 overseas, a woman who helped him in a fatal task, as the
 witch helped me. He abandoned her, on an island, early one
 morning. Then there were new conquests, new horizons, and
-xxxxx[todo] Antiope, that restless Amazon, was his. And then
+lunar Antiope, that restless Amazon, was his. And then
 Phaedra, the light of the day, and she too killed herself. And
 Helen, the daughter of Leda. Till at last he tried to snatch
 Persephone from the jaws of Hades. There was only one
