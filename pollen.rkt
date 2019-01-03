@@ -85,3 +85,7 @@
 (define satyr (make-interlocutor "Satyr"))
 (define mnemosyne (make-interlocutor "Mnemosyne"))
 (define hesiod (make-interlocutor "Hesiod"))
+
+; For all interlocutors of the final dialogue
+(define (x . rest)
+  `(p ((class "final-dialogue-interlocutor")) "— " ,@rest))

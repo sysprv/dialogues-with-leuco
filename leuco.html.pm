@@ -5431,3 +5431,137 @@ let me adore you.
   ◊mnemosyne{Try telling mortals the things you know.}
 ◊; page-number 163
 }
+
+◊dialogue[#:id "dialogue-the-gods"]{
+  ◊dialogue-intro-title{THE GODS}
+
+  ◊x{
+The mountain is wild, friend. On the rusty grass of last winter
+there are still patches of snow. It looks like the centaur's
+robe. These high places are all like this. A few tiny changes,
+and the countryside becomes exactly what it was when these
+things happened.
+  }
+  ◊x{I wonder if they really saw them.}
+  ◊x{
+Who can say? But surely they did see them. They told their
+names, and that was all. There lies the whole difference between
+stories and the truth. "It was this man, or that man."
+"He did this, he said that." The man who tells the truth is
+satisfied with that. He doesn't even suspect that his listeners
+might not believe him. We are the liars. We have never seen
+these things, and yet we know exactly what robe the centaur
+wore or the color of the grapes on the threshing-floor of
+Icarius.
+  }
+  ◊x{
+All it takes is a hill, a peak, a shore. Any lonely place where
+your eyes lift up and stop at the sky. The incredible relief of
+things outlined in the air still seizes the heart. For my part I
+believe that a tree, a rock, profiled against the sky, were gods
+from the very beginning.
+  }
+  ◊x{
+There was a time when even those things didn't exist up
+here.
+  }
+  ◊x{
+Agreed. Before them there were the voices of the earth—the
+roots, the springs, he snakes. If the daemon links earth with
+heaven, he must emerge into the light from the darkness of
+the ground.
+  }
+◊; page-number 164
+  ◊x{
+I don't know. Those people knew too many things. With a
+simple name they told the story of the cloud, the forest, the
+fates. They saw with certainty what we barely know. They
+had neither the time nor the taste for losing themselves in
+dreams. They saw terrible, incredible things, and weren't even
+surprised. They knew what it was. If what they said was false,
+who could blame them? In those days even you couldn't have
+said "It's morning" or "it looks like rain" without losing
+your head.
+  }
+  ◊x{
+Yes, they spoke names. So much so that at times I wonder
+whether the things or those names came first.
+  }
+  ◊x{
+Believe me, they came together. And it happened here, in
+these wild and lonely places. Is there anything surprising in
+their coming here? What else could those people have looked
+for in a place like this, if not an encounter with the gods?
+  }
+  ◊x{
+Who can say why they stopped here? But in every abandoned
+place, an emptiness, an expectation remains.
+  }
+  ◊x{
+It's the only thing a man could think of, here. These places
+have names forever. All that remains is the grass and the sky,
+and yet the breath of the wind is more fragrant to the memory
+than a storm in a forest. There is neither emptiness nor
+expectation. What has been exists forever.
+  }
+  ◊x{
+But those people are dead and buried. These places now are
+what they were before there were men. I am willing to grant
+you that what they said was true. But what else remains?
+You'll admit that we no longer have encounters with gods on
+the mountain paths. When I saw, "It's morning" or "It looks
+like rain," I'm not talking about gods.
+  }
+  ◊x{
+We talked about the gods tonight. Yesterday you were talking
+about summer, and the desire you feel when you breathe the
+warm evening air. At other times you talk about man, about
+people you have known, of your past tastes, of unexpected
+encounters. All things that once existed. I can assure you that
+I listened to you as I listen once again to those ancient names
+◊; page-number 165
+within me. When you tell me the things you know, I don't
+ask you, "But what else remains?" or whether the word or
+the things came first. I live with you, and I feel myself alive.
+  }
+  ◊x{
+It isn't easy to live as though what happened in another age
+were real. Yesterday when the fog overtook us in lonely country,
+and a couple of stones tumbled down from the hill to our
+feet, we didn't think of divine things or a fantastic encounter,
+but only of the night and the hares we had startled. Who we
+are and what we believe emerge when we are confronted with
+hardship, in the hour of risk.
+  }
+  ◊x{
+When we are home again it will be pleasant to talk with our
+friends about last night and the hares we startled. But our
+fear is something to smile at if we think of the terror of those
+people to whom everything that happened was mortal, fatal.
+People for whom the air was crowded with nocturnal terrors,
+mysterious threats, dreadful memories. Think, for instance, of
+storms or earthquakes. And if their uneasiness was real—as it
+certainly was—then the hope, the courage, the joyous discovery
+of powers, of promises, of encounters, were also real. For
+my part, I never tire of hearing them tell of the terrors in the
+night and the things in which they set their hopes.
+  }
+  ◊x{
+And you believe in the monsters? In the tales of men turned
+into beasts, in the breathing rocks, in the divine smiles, and
+the words that annihilated?
+  }
+  ◊x{
+I believe in what every man has hoped for and suffered. If
+they in their time climbed up to these rock-strewn heights, or
+scoured the world for fatal swamps, it was because they found
+in those places something of which we are ignorant. Not
+bread, not pleasure. Not precious health. Men know where
+those things are found. Not here. As for us who live far
+away, down by the shore or in the fields, we have lost that
+other thing.
+  }
+  ◊x{That other thing? What do you mean?}
+  ◊x{You know. Those encounters of theirs.}
+◊; page-number 166
+}
