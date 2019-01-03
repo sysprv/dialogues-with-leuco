@@ -9,7 +9,8 @@
 
 (define dialogue (default-tag-function 'section))
 
-(define dialogue-title (default-tag-function 'h2))
+(define (dialogue-title . rest)
+  `(h2 ((class "dialogue-title")) ,@rest))
 
 (define (dialogue-intro . rest)
   `(p ((class "intro")) ,@rest))
