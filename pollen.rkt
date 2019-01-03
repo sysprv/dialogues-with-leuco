@@ -5,6 +5,8 @@
 (provide (all-defined-out))
 
 
+(define part (default-tag-function 'h1))
+
 (define dialogue (default-tag-function 'section))
 
 (define dialogue-title (default-tag-function 'h2))

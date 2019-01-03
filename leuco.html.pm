@@ -40,6 +40,8 @@ never seen before.
   }
 }
 
+◊part{I}
+
 ◊dialogue[#:id "dialogue-the-cloud"]{
   ◊dialogue-title{THE CLOUD}
   ◊dialogue-intro{
@@ -2111,6 +2113,8 @@ Sphinx.
 ◊; page-number 63
 }
 
+◊part{II}
+
 ◊dialogue[#:id "dialogue-the-mountain"]{
   ◊dialogue-title{THE MOUNTAIN}
   ◊dialogue-intro{
@@ -3167,6 +3171,8 @@ towards the sea.
   ◊following{◊em{O Zeus, accept this offering . . .}}
 ◊; page-number 94
 }
+
+◊part{III}
 
 ◊dialogue[#:id "dialogue-the-island"]{
   ◊dialogue-title{THE ISLAND}
@@ -4615,6 +4621,8 @@ who waits for you is a god of the night. Don't be afraid.
   }
 ◊; page-number 138
 }
+
+◊part{IV}
 
 ◊dialogue[#:id "dialogue-mankind"]{
   ◊dialogue-title{MANKIND}
