@@ -41,7 +41,7 @@ never seen before.
 }
 
 ◊dialogue[#:id "dialogue-the-cloud"]{
-  ◊dialogue-intro-title{THE CLOUD}
+  ◊dialogue-title{THE CLOUD}
   ◊dialogue-intro{
 It seems likely that Ixion was condemned to Tartarus
 because of his presumptions. But that he fathered the
@@ -254,7 +254,7 @@ I'll be with you till the end.
 }
 
 ◊dialogue[#:id "dialogue-the-chimera"]{
-  ◊dialogue-intro-title{THE CHIMERA}
+  ◊dialogue-title{THE CHIMERA}
   ◊dialogue-intro{
 It was with high hearts that the youth of Greece set out
 for the East in quest of glory and death. Here their
@@ -449,7 +449,7 @@ do is want it, Hippolochus.
 }
 
 ◊dialogue[#:id "dialogue-the-blind"]{
-  ◊dialogue-intro-title{THE BLIND}
+  ◊dialogue-title{THE BLIND}
   ◊dialogue-intro{
 Nothing happened in Thebes in which the blind
 prophet Tiresias did not play a part. Shortly after this
@@ -622,7 +622,7 @@ the unhappy go blind as they grow old?
 }
 
 ◊dialogue[#:id "dialogue-the-mares"]{
-  ◊dialogue-intro-title{THE MARES}
+  ◊dialogue-title{THE MARES}
   ◊dialogue-intro{
 Hermes, an ambiguous god, between life and death,
 between sex and spirit, between the Titans and the gods
@@ -805,7 +805,7 @@ shall pass.
 }
 
 ◊dialogue[#:id "dialogue-the-flower"]{
-  ◊dialogue-intro-title{THE FLOWER}
+  ◊dialogue-title{THE FLOWER}
   ◊dialogue-intro{
 This act of exquisite infamy, insufficient in itself to turn
 us against a spring god like Apollo the Lucid, must
@@ -981,7 +981,7 @@ do not know. What more could he ask, Thanatos?
 }
 
 ◊dialogue[#:id "dialogue-the-lady-of-the-beasts"]{
-  ◊dialogue-intro-title{THE LADY OF THE BEASTS}
+  ◊dialogue-title{THE LADY OF THE BEASTS}
   ◊dialogue-intro{
 The love of Artemis and Endymion was, I am sure,
 chaste. This, of course, does not mean that the less
@@ -1250,7 +1250,7 @@ that.
 }
 
 ◊dialogue[#:id "dialogue-sea-foam"]{
-  ◊dialogue-intro-title{SEA FOAM}
+  ◊dialogue-title{SEA FOAM}
   ◊dialogue-intro{
 Britomart, the Cretan and Minoan nymph, is mentioned
 in Callimachus. That Sappho was a Lesbian from Lesbos
@@ -1495,7 +1495,7 @@ child.
 }
 
 ◊dialogue[#:id "dialogue-the-mother"]{
-  ◊dialogue-intro-title{THE MOTHER}
+  ◊dialogue-title{THE MOTHER}
   ◊dialogue-intro{
 Meleager's life was linked to a brand which his mother
 Althaea drew from the fire when he was born. She was
@@ -1699,7 +1699,7 @@ women are nothing.
 }
 
 ◊dialogue[#:id "dialogue-the-friends"]{
-  ◊dialogue-intro-title{THE FRIENDS}
+  ◊dialogue-title{THE FRIENDS}
   ◊dialogue-intro{
 There is no point in doing Homer over again. My purpose
 is simply to report a conversation that took place on
@@ -1921,7 +1921,7 @@ Hades, I shall say, "Drink again, Achilles."
 }
 
 ◊dialogue[#:id "dialogue-the-road"]{
-  ◊dialogue-intro-title{THE ROAD}
+  ◊dialogue-title{THE ROAD}
   ◊dialogue-intro{
 Everyone knows that after Oedipus had defeated the
 Sphinx and married Jocasta, he discovered who he
@@ -2112,7 +2112,7 @@ Sphinx.
 }
 
 ◊dialogue[#:id "dialogue-the-mountain"]{
-  ◊dialogue-intro-title{THE MOUNTAIN}
+  ◊dialogue-title{THE MOUNTAIN}
   ◊dialogue-intro{
 In world history, the era named after the Titans was
 peopled with men and monsters and with gods not
@@ -2307,7 +2307,7 @@ matter.
 }
 
 ◊dialogue[#:id "dialogue-the-inconsolable"]{
-  ◊dialogue-intro-title{THE INCONSOLABLE}
+  ◊dialogue-title{THE INCONSOLABLE}
   ◊dialogue-intro{
 Sex, drunkenness, and blood always evoked the world
 below and, to a select few, gave promise of a blessèd
@@ -2542,7 +2542,7 @@ you'll be like a man.
 }
 
 ◊dialogue[#:id "dialogue-the-werewolf"]{
-  ◊dialogue-intro-title{THE WEREWOLF}
+  ◊dialogue-title{THE WEREWOLF}
   ◊dialogue-intro{
 Zeus changed Lycaon, lord of Arcadia, into a wolf
 as punishment for inhumanity. But the myth does
@@ -2712,7 +2712,7 @@ hands.
 }
 
 ◊dialogue[#:id "dialogue-the-guest"]{
-  ◊dialogue-intro-title{THE GUEST}
+  ◊dialogue-title{THE GUEST}
   ◊dialogue-intro{
 Phrygia and Lydia were countries about which the Greeks
 liked to tell terrible stories. There can be no doubt
@@ -2915,7 +2915,7 @@ cave.
 }
 
 ◊dialogue[#:id "dialogue-the-bonfires"]{
-  ◊dialogue-intro-title{THE BONFIRES}
+  ◊dialogue-title{THE BONFIRES}
   ◊dialogue-intro{
 Even the Greeks practiced human sacrifice. Every
 peasant culture has done so, and all cultures were at
@@ -3169,7 +3169,7 @@ towards the sea.
 }
 
 ◊dialogue[#:id "dialogue-the-island"]{
-  ◊dialogue-intro-title{THE ISLAND}
+  ◊dialogue-title{THE ISLAND}
   ◊dialogue-intro{
 Everybody knows that when Odysseus was shipwrecked
 on his way home from Troy, he spent nine years
@@ -3338,7 +3338,7 @@ aim. What else has your restless wandering been until now?
 }
 
 ◊dialogue[#:id "dialogue-the-lake"]{
-  ◊dialogue-intro-title{THE LAKE}
+  ◊dialogue-title{THE LAKE}
   ◊dialogue-intro{
 Hippolytus, the chaste huntsman of Troezen, met a
 terrible death through the anger of Aphrodite. But
@@ -3518,7 +3518,7 @@ too often. It's life I want, not happiness.
 }
 
 ◊dialogue[#:id "dialogue-the-witches"]{
-  ◊dialogue-intro-title{THE WITCHES}
+  ◊dialogue-title{THE WITCHES}
   ◊dialogue-intro{
 When Odysseus came to Circe's island, he had been
 warned of the danger and immunized, magically,
@@ -3759,7 +3759,7 @@ even men smile. A smile of resignation.
 }
 
 ◊dialogue[#:id "dialogue-the-bull"]{
-  ◊dialogue-intro-title{THE BULL}
+  ◊dialogue-title{THE BULL}
   ◊dialogue-intro{
 Everyone knows that Theseus, on his way home from
 Crete, pretended to forget the black sails flying
@@ -3930,7 +3930,7 @@ kills. But we've come from a long way away, you forget that.
 }
 
 ◊dialogue[#:id "dialogue-in-the-family"]{
-  ◊dialogue-intro-title{IN THE FAMILY}
+  ◊dialogue-title{IN THE FAMILY}
   ◊dialogue-intro{
 The tragic events which afflicted the house of
 Atreus are well known. Here I need only recall certain
@@ -4163,7 +4163,7 @@ her they serve up their sons, for her they murder their daughters . . .
 }
 
 ◊dialogue[#:id "dialogue-the-argonauts"]{
-  ◊dialogue-intro-title{THE ARGONAUTS}
+  ◊dialogue-title{THE ARGONAUTS}
   ◊dialogue-intro{
 The temple on the Acrocorinth, with its attendant
 hierodules, is mentioned by no less an author than
@@ -4426,7 +4426,7 @@ envy him.
 }
 
 ◊dialogue[#:id "dialogue-the-vineyard"]{
-  ◊dialogue-intro-title{THE VINEYARD}
+  ◊dialogue-title{THE VINEYARD}
   ◊dialogue-intro{
 After the adventure in the labyrinth, Ariadne was
 abandoned by Theseus on the island of Naxos. It was
@@ -4617,7 +4617,7 @@ who waits for you is a god of the night. Don't be afraid.
 }
 
 ◊dialogue[#:id "dialogue-mankind"]{
-  ◊dialogue-intro-title{MANKIND}
+  ◊dialogue-title{MANKIND}
   ◊dialogue-intro{
 Kratos and Bia—Power and Strength—lived, Hesiod
 tells us, "not far from Zeus." This was their reward
@@ -4783,7 +4783,7 @@ understand. They're the choicest fruit of mortal life.
 }
 
 ◊dialogue[#:id "dialogue-the-mystery"]{
-  ◊dialogue-intro-title{THE MYSTERY}
+  ◊dialogue-title{THE MYSTERY}
   ◊dialogue-intro{
 Everyone likes hearing that the Eleusinian mysteries
 presented the initiate with a divine image of
@@ -4994,7 +4994,7 @@ with you. It will always be a story.
 }
 
 ◊dialogue[#:id "dialogue-the-flood"]{
-  ◊dialogue-intro-title{THE FLOOD}
+  ◊dialogue-title{THE FLOOD}
   ◊dialogue-intro{
 The Greek flood too was a punishment for a mankind
 which had lost respect for its gods. It is well known
@@ -5183,7 +5183,7 @@ will be in some way blessed.
 }
 
 ◊dialogue[#:id "dialogue-the-muses"]{
-  ◊dialogue-intro-title{THE MUSES}
+  ◊dialogue-title{THE MUSES}
   ◊dialogue-intro{
 A vast theme. The writer who has glimpsed a single deity
 behind the nine Muses of tradition—or Muses and Graces
@@ -5433,7 +5433,7 @@ let me adore you.
 }
 
 ◊dialogue[#:id "dialogue-the-gods"]{
-  ◊dialogue-intro-title{THE GODS}
+  ◊dialogue-title{THE GODS}
 
   ◊x{
 The mountain is wild, friend. On the rusty grass of last winter

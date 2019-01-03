@@ -1,5 +1,5 @@
 ◊dialogue[#: dialogue-id]{
-  ◊dialogue-intro-title{TITLE}
+  ◊dialogue-title{TITLE}
   ◊dialogue-intro{
 
   }
