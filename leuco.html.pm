@@ -114,7 +114,7 @@ changed.
   ◊cloud{
 I mean that if you try to do what you once did, you'll
 do something terrible. Like a man who tries to embrace a
-friend and strangle him, or is strangled himself.
+friend and strangles him, or is strangled himself.
   }
   ◊ixion{
 I don't understand. You mean you're leaving the mountain?
@@ -497,9 +497,9 @@ A morning in summer, say. The boy comes out of the water,
 goes back in happily, dives, dives again. Then he gets
 cramps and drowns. What do the gods have to do with
 this? Should he attribute his death to the gods? Or the
-pleasure he had? Neither one. Something has happened
+pleasure he had? Neither one. Something has happened—something
 ◊; page-number 15
-—something which is neither good nor evil, something
+which is neither good nor evil, something
 which has no name—the gods will give it a name later.
   }
   ◊oedipus{
@@ -579,7 +579,7 @@ he was ignorant. Sex is ambiguous and always equivocal. It
 is an end that seems an everything. Man succeeds in incarnating
 it, in living inside it, like a good swimmer in the
 water; but meanwhile he has grown old, he has reached
-the rock. In the one idea, one illusion, remains: that the
+the rock. In the end one idea, one illusion, remains: that the
 other sex is satisfied. Well, don't believe it. For all of us
 it is wasted effort. I know.
   }
@@ -1048,7 +1048,7 @@ like this.
 ◊em{Someone?} Oh stranger, what do you take us for?
 Mortals?
   }
-  ◊stranger{Is it a friend who died}
+  ◊stranger{Is it a friend who died?}
   ◊endymion{
 Much, much more than any friend. Stranger, when
 I climb Mt. Latmos I am no longer mortal. Don't look at
@@ -1099,8 +1099,8 @@ divine about us.
   }
   ◊stranger{
 I have seen many things. And some of them were terrible
-things. But there's no need to leave home. Remember
-—I don't know if this will help—there are gods in the
+things. But there's no need to leave home. Remember—I
+don't know if this will help—there are gods in the
 fireplace too.
   }
   ◊endymion{
@@ -1169,7 +1169,7 @@ the thing that is nearest and closest. She stands there before
 ◊; page-number 36
 me, a slight, unsmiling girl, looking at me. And those great
 transparent eyes have seen other things. They still do see
-them. Then ◊em{are} those things. Wild berry and wild beast
+them. They ◊em{are} those things. Wild berry and wild beast
 are in her eyes, and the howling, the death, the cruelty of
 flesh turned stone. The shed blood, the savaged flesh, the
 ravenous earth, the wilderness—all this I know. For her,
@@ -1219,8 +1219,8 @@ we walk the roads. You said that yourself.
 Oh wanderer god, her sweetness is like dawn, or like
 ◊; page-number 37
 earth and heaven revealed. It is godlike. But for others, for
-things and beasts alike, she laughs—briefly. She commands
-—and her command annuls. And no one has ever touched
+things and beasts alike, she laughs—briefly. She commands—and
+her command annuls. And no one has ever touched
 her knee.
   }
   ◊stranger{
@@ -1354,8 +1354,8 @@ it is to smile?
   ◊britomart{
 But that's not smiling, Sappho. Smiling means living
 like a wave, like a leaf, accepting your fate. It means dying
-in one form and being reborn in another. It means accepting
-—accepting oneself, accepting fate.
+in one form and being reborn in another. It means accepting—accepting
+oneself, accepting fate.
   }
   ◊sappho{And did you accept, Britomart?}
   ◊britomart{I ran away, Sappho. It's easier for the nymphs . . .}
@@ -1382,8 +1382,8 @@ None. Wait, yes, perhaps . . . But not mortal women
 like Sappho. You were still a mountain nymph, I wasn't yet
 born, when a woman crossed this sea, a mortal woman, who
 lived always in storm and strife. Perhaps she was in peace.
-She killed, destroyed, blinded. She was like a goddess—
-always herself, unchanging. Perhaps she didn't even have to
+She killed, destroyed, blinded. She was like a goddess—always
+herself, unchanging. Perhaps she didn't even have to
 smile. She was lovely, no fool, and around her there was
 nothing but fighting and death. Men fought and died for
 her, Britomart, asking only for her name to be joined to
@@ -1767,7 +1767,7 @@ doesn't fear death is not a good soldier.
   ◊achilles{
 But haven't you any memories, Patroclus? Don't you
 ever say: "I've done this, I've seen that," and asked yourself
-what you've really done, what sort of live you've led,
+what you've really done, what sort of life you've led,
 what mark you have left on the world? What good is it to
 live if we leave no memories behind us?
   }
@@ -1901,7 +1901,7 @@ worthy of you. An enemy for every stump.
   ◊achilles{The ships aren't burning yet.}
   ◊patroclus{
 I'll take your greaves and your shield. It will be like
-have you beside me. Nobody will be able to touch me.
+having you beside me. Nobody will be able to touch me.
 It'll be a kind of game.
   }
   ◊achilles{You really are like a boy that drinks, Patroclus.}
@@ -2069,7 +2069,7 @@ like free men, as the oracle bids us.
   ◊oedipus{
 Yes, as long as a man is still searching. You had the
 luck never to reach your goal. But the day comes when you
-go back the Cithaeron, you forget everything and the mountain
+go back to Cithaeron, you forget everything and the mountain
 seems to bring back your childhood. You look at it day
 after day and maybe you climb it. Then someone tells you
 that you were born up there. And everything crumbles.
@@ -2155,8 +2155,8 @@ you free.
   ◊prometheus{
 I know, Heracles. I knew when you were still only
 a baby in swaddling clothes, I knew before you were even
-born. But I'm like someone who has suffered a great deal
-—in prison, in exile, from some danger. When the moment
+born. But I'm like someone who has suffered a great deal—in
+prison, in exile, from some danger. When the moment
 comes for him to go, he can hardly bring himself to leave
 the place where he's suffered so much.
   }
@@ -2315,8 +2315,8 @@ matter.
   ◊dialogue-intro{
 Sex, drunkenness, and blood always evoked the world
 below and, to a select few, gave promise of a blessèd
-life among the dead. But the Thracian Orpheus—
-singer, voyager to Hades, and victim, torn to pieces like
+life among the dead. But the Thracian Orpheus—singer,
+voyager to Hades, and victim, torn to pieces like
 Dionysus himself—promised even more.
   }
 ◊; page-number 70
@@ -2446,8 +2446,6 @@ confounds life and death and makes us more than human
 . . . You've seen the festival.
   }
   ◊orpheus{
-◊; blood and these together on the same line to
-◊; not insert whitespace before the em dash
 It isn't the blood that matters, girl. Ecstasy and blood—these
 things aren't enough. A man's fate is not so easily
 defined. You don't know the answer, Bacchante.
@@ -2786,7 +2784,7 @@ We leave it when we're born—there's no hurry about
 going back.
   }
   ◊heracles{
-I think I understand. They you manure your gods with
+I think I understand. Then you manure your gods with
 human blood?
   }
   ◊lityerses{
@@ -3032,7 +3030,7 @@ lightning, and then the rain came flooding down. The harvest
 was saved. The rain put out the fire, and what do you
 think that old fool Athamas does? He forgives them all,
 even his wife. Look out for women, son. It's easier to tell a
-snake from his missus than know what's going on int a
+snake from his missus than know what's going on in a
 woman's mind.
   }
   ◊son{But what happened to the king's sons?}
@@ -3138,7 +3136,7 @@ What about the crippled children? What did they do when
 they were burned? Did they scream?
   }
   ◊father{
-It's no the screaming that matters, son, it's who does the
+It's not the screaming that matters, son, it's who does the
 screaming. Crippled people or criminals—they're both useless.
 But when a man with children of his own sees a lot
 of loafers getting fat at his expense, that's what hurts. That's
@@ -3289,7 +3287,7 @@ to be, you are.
 What I am is almost nothing, dear. Almost mortal,
 almost a shade like you. It is all a long sleep which began
 who knows when. And you arrived in this sleep like a dream.
-I am afraid of the darn, of waking up. If you leave me, I
+I am afraid of the dawn, of waking up. If you leave me, I
 will waken.
   }
   ◊odysseus{That's no way for a goddess to be talking.}
@@ -4270,7 +4268,7 @@ The mountains aren't for me. But I can't believe the sea
 ever frightened any one.
   }
   ◊jason{
-As a matter of fact, it didn't It was on a morning like that
+As a matter of fact, it didn't. It was on a morning like that
 we put out from Iolchos. We were all young and the gods
 were with us. It was wonderful just sailing on, without a
 thought of tomorrow. Then strange, incredible things began
@@ -4583,7 +4581,7 @@ How can I accept what you say?
   }
   ◊leuco{
 You have run risks before, little one. Wasn't your friend
-wit the violet curls like a god to you?
+with the violet curls like a god to you?
   }
   ◊ariadne{
 He was a god—whose life I saved. What good did it
@@ -4661,7 +4659,7 @@ creatures?
   }
   ◊bia{They're part of the world too, you know.}
   ◊kratos{
-Thinks aren't what they used to be, somehow. "He'll
+Things aren't what they used to be, somehow. "He'll
 come like the storm," Mother said, "and the seasons will
 change." This son of the Mountain who rules with his nod
 isn't like the old masters, Night and Earth and Father
@@ -4839,7 +4837,7 @@ giving us names that reveal us to ourselves, Iacchus. They
 lift us from the grey eternity of fate and quicken us with
 colors, painting us in the days and places where we are.
   }
-  ◊dionysus{for us you will always be Deo.}
+  ◊dionysus{For us you will always be Deo.}
 ◊; page-number 147
   ◊demeter{
 Who could have guessed that their wretched lives
@@ -5197,7 +5195,7 @@ A vast theme. The writer who has glimpsed a single deity
 behind the nine Muses of tradition—or Muses and Graces
 together, three by three, or only three, or even two—takes
 no small risk, as he well knows. But he is convinced
-of his vision, as he of of many other things. In the
+of his vision, as he is of many other things. In the
 world of which we write, mothers are often daughters—and
 vice versa. The point could be proven. Is proof
 necessary? I prefer asking my readers to savor the
@@ -5475,7 +5473,7 @@ here.
   }
   ◊x{
 Agreed. Before them there were the voices of the earth—the
-roots, the springs, he snakes. If the daemon links earth with
+roots, the springs, the snakes. If the daemon links earth with
 heaven, he must emerge into the light from the darkness of
 the ground.
   }
@@ -5517,7 +5515,7 @@ But those people are dead and buried. These places now are
 what they were before there were men. I am willing to grant
 you that what they said was true. But what else remains?
 You'll admit that we no longer have encounters with gods on
-the mountain paths. When I saw, "It's morning" or "It looks
+the mountain paths. When I say, "It's morning" or "It looks
 like rain," I'm not talking about gods.
   }
   ◊x{
