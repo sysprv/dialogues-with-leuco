@@ -83,3 +83,5 @@
 (define demeter (make-interlocutor "Demeter"))
 (define hamadryad (make-interlocutor "Hamadryad"))
 (define satyr (make-interlocutor "Satyr"))
+(define mnemosyne (make-interlocutor "Mnemosyne"))
+(define hesiod (make-interlocutor "Hesiod"))

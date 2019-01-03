@@ -5181,3 +5181,253 @@ will be in some way blessed.
   ◊satyr{God willing, little one. I'd like that too.}
 ◊; page-number 156
 }
+
+◊dialogue[#:id "dialogue-the-muses"]{
+  ◊dialogue-intro-title{THE MUSES}
+  ◊dialogue-intro{
+A vast theme. The writer who has glimpsed a single deity
+behind the nine Muses of tradition—or Muses and Graces
+together, three by three, or only three, or even two—takes
+no small risk, as he well knows. But he is convinced
+of his vision, as he of of many other things. In the
+world of which we write, mothers are often daughters—and
+vice versa. The point could be proven. Is proof
+necessary? I prefer asking my readers to savor the
+fact that, for the Greeks, the festivals of imagination
+and memory were almost always celebrated on mountains,
+or rather hills, and continually refounded as the
+Greeks moved down the peninsula.
+  }
+◊; page-number 158
+
+  ◊dialogue-title{Mnemosyne (Memory), Hesiod}
+
+  ◊mnemosyne{In short, you aren't happy.}
+  ◊hesiod{
+Listen. If I think of some event that has happened, of
+seasons already past, it seems to me that I was happy then.
+But day by day it's different. I feel a weariness for things
+and works that a drunkard feels. Then I stop work and climb
+up here on the mountain. But when I think back, it seems
+to me again that I've been happy.
+  }
+  ◊mnemosyne{It will always be like that.}
+  ◊hesiod{
+You know all names. What do you call this state of
+mind?
+  }
+  ◊mnemosyne{You can give it my name, or your own.}
+  ◊hesiod{
+Melete, my name as a man is nothing. But how should I
+invoke you? The name which summons you is different every
+time. You are like a mother whose name is lost in the past.
+Down in the valley where men live and on the paths from
+which one glimpses the mountains, there is much talk of
+you. There was a time, they say, when you were to be found
+on the most inaccessible mountains, among black trees,
+snow, and monsters, in Thrace and Thessaly, and men called
+you the Muse. Others call you Calliope or Clio. What is
+your real name?
+  }
+  ◊mnemosyne{
+I come from those places. And I have many names.
+I will have still other names when I come down again—Aglaia,
+Hegemony, Phaenna, according to the whim of
+the place.
+  }
+  ◊hesiod{
+You mean the same weariness I feel drives you from place
+to place? You aren't a goddess then?
+  }
+◊; page-number 159
+  ◊mnemosyne{
+Neither weariness, nor goddess, my dear. Today I
+like this mountain of Helicon because you're here. I like
+being where men are, but a little bit apart. I don't look for
+anybody in particular, and I converse with those who know
+how to talk.
+  }
+  ◊hesiod{
+But, Melete, I don't know how to talk. And it seems to
+me that it's only when I'm with you that I know anything
+at all. In your voice and in your names is the past, every
+season I remember.
+  }
+  ◊mnemosyne{In Thessaly my name was Mneme.}
+  ◊hesiod{
+Some man once said that you were as old as the tortoise,
+tough and decrepit. According to others you're an adolescent
+nymph, like a rosebud or a cloud . . .
+  }
+  ◊mnemosyne{What do ◊em{you} say?}
+  ◊hesiod{
+I don't know. You're Calliope, you're Mneme. Your
+voice and your glance are immortal. You're like a hill or
+running water—things which are neither young nor old
+because for them there is no time. They exist. That's all
+we know.
+  }
+  ◊mnemosyne{
+But you exist too, my dear, and for you existence is
+weariness and unhappiness. How do you imagine the life
+we immortals live?
+  }
+  ◊hesiod{
+I don't imagine it, Melete. I worship it as I can, with a
+pure heart.
+  }
+  ◊mnemosyne{Go on, I like your words.}
+  ◊hesiod{That's all there is to say.}
+  ◊mnemosyne{I know you mortals. You never tell the whole story.}
+  ◊hesiod{
+When we come face to face with gods, all we can do is
+adore.
+  }
+  ◊mnemosyne{
+Forget the gods. I existed before there were gods.
+You can talk to me. Men tell me everything. Adore us if
+you must, but tell me what you think my life is like.
+  }
+  ◊hesiod{
+How should I know? No goddess ever thought me
+worthy of her bed.
+  }
+◊; page-number 160
+  ◊mnemosyne{
+Fool, the world has its seasons too, and that season
+is over.
+  }
+  ◊hesiod{All I know is the land I work.}
+  ◊mnemosyne{
+You're proud, shepherd. You have that mortal pride.
+But it will be your fate to know other things. Tell me why
+you feel happy when you talk to me.
+  }
+  ◊hesiod{
+I can answer you that. Because there's a candor, a freshness,
+in the things you say which is missing in daily life.
+The names you give to things make them different, strange,
+and yet as familiar and sweet as a voice for a long time
+silent. Or as when you suddenly see yourself mirrored in
+the water, and cry out, "Who is this man?"
+  }
+  ◊mnemosyne{
+My dear, has it ever happened to you that when
+you saw a plant, a stone, a gesture, you experienced the same
+thing?
+  }
+  ◊hesiod{Yes, it has.}
+  ◊mnemosyne{And did you discover why?}
+  ◊hesiod{It was only an instant, Melete. How could I grasp it?}
+  ◊mnemosyne{
+Have you ever asked yourself why an instant can
+suddenly make you happy, happy as a god? You are looking,
+say, at the olive tree, the olive tree on the path you have
+taken every day for years, and suddenly there comes a day
+when the sense of staleness leaves you, and you caress the
+gnarled trunk with a look, as though you had recognized an
+old friend, and it spoke to you precisely the one word your
+heart was hoping for. At times it's the glance of a man passing
+in the street. Sometimes the rain that drives down for
+days on end. Or the hoarse cry of a bird. Or a cloud you
+think you've seen somewhere before. For an instant time
+stops, and you experience the trivial event as though before
+and after had no existence.  Have you ever asked yourself
+why this should be?
+  }
+  ◊hesiod{
+It's you who say why. That instant has made the event
+a memory, a model.
+  }
+◊; page-number 161
+  ◊mnemosyne{
+Can't you conceive of an existence entirely composed
+of these instants?
+  }
+  ◊hesiod{I can conceive of it.}
+  ◊mnemosyne{Then you know what my life is like.}
+  ◊hesiod{
+I believe you, Melete, because your eyes confirm it. And
+the fact that many men call you Euterpe no longer surprises
+me. But these mortal instants are not a life. If I
+wanted to repeat them, they would lose their freshness. The
+staleness always comes back.
+  }
+  ◊mnemosyne{
+But you said that instant was a memory. And what
+else is memory but an experience repeated in its intensity?
+Do you understand me?
+  }
+  ◊hesiod{No. What do you mean?}
+  ◊mnemosyne{I mean that you know what immortal life is like.}
+  ◊hesiod{
+When I talk with you, it's hard for me not to believe.
+You saw things as they were in the beginning. You are the
+olive tree, the glance, the cloud. You speak of a name, and the
+thing exists forever.
+  }
+  ◊mnemosyne{
+Hesiod, I find you up here every day. Before you I
+found others in the mountains to the north, by the barren
+torrents of Thrace and Pieria. I like you more than the
+others. You know that immortal things are close at hand.
+  }
+  ◊hesiod{
+It's not hard to know that. What's hard is touching
+them.
+  }
+  ◊mnemosyne{
+You have to live for them, Hesiod. That means
+purity of the heart.
+  }
+  ◊hesiod{
+When I listen to you, yes. But a man's life is down there
+in the valley, in the fields, at home. Beside a hearth and in
+a bed. And every day that dawns confronts you with the
+same toils, the same failures. In the end it wears a man
+down, Melete. A sudden storm can refresh the fields—it
+isn't death and the great sorrows that make a man lose heart.
+But the everlasting, grinding toil, the effort to stay alive
+from day to day, the recognition of evil in others, petty evil,
+◊; page-number 162
+as tiresome as summer flies—that's the life that cripples a
+man, Melete.
+  }
+  ◊mnemosyne{
+I come from places far bleaker still, from foggy inhuman
+ravines, where nonetheless life took root. Among
+these olives and beneath this sky, you do not know that
+fate. Have you ever heard of the swamp of Boibeïs?
+  }
+  ◊hesiod{No.}
+  ◊mnemosyne{
+A dank swamp of slime and reeds, exactly as it was
+at the beginning of time, a seething, bubbling silence. It
+spawned monsters of excrement and blood. Even today the
+Thessalians seldom speak of it. Neither time nor the seasons
+change it. No voice reaches there.
+  }
+  ◊hesiod{
+But meanwhile you speak of it, Melete, and you have
+hallowed its fate. Your voice has reached it. Now it is a
+terrible and a sacred place. The olives and the sky of Helicon
+are not the whole of life.
+  }
+  ◊mnemosyne{
+Neither is the staleness or the toil, nor returning to
+the daily round. Don't you understand that man, every
+man, is born in that swamp of blood? That the sacred and
+the divine are with you too? In bed, in the fields, before the
+fire? In everything you do, you renew a divine model. Day
+and night, there is not an instant, not even the most futile,
+which has not sprung from the silence of your origins.
+  }
+  ◊hesiod{
+You speak, Melete, and I cannot help believing. Only
+let me adore you.
+  }
+  ◊mnemosyne{My dear, you have an alternative.}
+  ◊hesiod{What is that?}
+  ◊mnemosyne{Try telling mortals the things you know.}
+◊; page-number 163
+}
